@@ -12,8 +12,8 @@ def disparar_email(html_formatado, semana):
     email_enviador = 'eliseu.santos.vitrinedireta@gmail.com'
     servidor_smtp = 'smtp.gmail.com'
     porta = 587
-    # recebedor_email = ['eliseu.santos@vitrinedireta.com.br', 'pedro.seixas@vitrinedireta.com.br', 'ademar.nascimento@vitrinedireta.com.br', 'pedro.cesar@vitrinedireta.com.br', 'bruno@geralfilmes.com.br']
-    recebedor_email = ['eliseu.santos@vitrinedireta.com.br']
+    recebedor_email = ['eliseu.santos@vitrinedireta.com.br', 'pedro.seixas@vitrinedireta.com.br', 'ademar.nascimento@vitrinedireta.com.br', 'pedro.cesar@vitrinedireta.com.br', 'bruno@geralfilmes.com.br']
+    #recebedor_email = ['eliseu.santos@vitrinedireta.com.br']
     assunto = f'Outliers - {datetime.date(datetime.today())} - Semana {semana_num}'
 
     #Criando a mensagem no formato mime
