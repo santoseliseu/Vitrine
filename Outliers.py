@@ -164,10 +164,10 @@ notification.notify(title='Cálculo de outliers refeito', message='Veja a nova l
 pedidos_pivot_puericultura_quantidade['SKU BBTudo'] = pedidos_pivot_puericultura_quantidade['Item - Código do produto'].isin(skus_bbtudo.SKU)
 pedidos_pivot_puericultura_faturamento['SKU BBTudo'] = pedidos_pivot_puericultura_faturamento['Item - Código do produto'].isin(skus_bbtudo.SKU)
 
-pedidos_pivot_puericultura_quantidade.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier'])
-pedidos_pivot_puericultura_faturamento.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier Faturamento'])
-pedidos_pivot_home_decor_quantidade.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier'])
-pedidos_pivot_home_decor_faturamento.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier Faturamento'])
+pedidos_pivot_puericultura_quantidade = pedidos_pivot_puericultura_quantidade.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier'])
+pedidos_pivot_puericultura_faturamento = pedidos_pivot_puericultura_faturamento.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier Faturamento'])
+pedidos_pivot_home_decor_quantidade = pedidos_pivot_home_decor_quantidade.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier'])
+pedidos_pivot_home_decor_faturamento = pedidos_pivot_home_decor_faturamento.drop(columns = ['Q1', 'Q3', 'Corte', 'IIQ', 'Outlier Faturamento'])
 
 #Criando o arquivo
 with pd.ExcelWriter('Outliers.xlsx', engine='xlsxwriter') as writer:
