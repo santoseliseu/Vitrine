@@ -13,7 +13,7 @@ import os
 
 #Criando a função de coleta de dados
 def estoque_online_saldo(sku):
-    chave_id = '7C2E97AA-1BC0-4C1F-9340-EC565A4520E4'
+    chave_id = 
     url = 'http://ws.livekpl.onclick.com.br/AbacosWSplataforma.asmx'
     envelope_soup = f"""
     <soap:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
