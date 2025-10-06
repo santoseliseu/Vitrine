@@ -62,7 +62,7 @@ def coletar_pedido(i):
     url = f"https://api.intelipost.com.br/api/v1/shipment_order/{num_pedido}"
 
     headers = {
-        "api-key": "cef9a425a23e4a655c2a9a48392020a6032d77c472e8c95f15dac937a37ef153",
+        "api-key": ,
         "platform": "", "platform-version": "",
         "plugin": "", "plugin-version": "",
         "Content-Type": "", "Accept": "application/json"}
