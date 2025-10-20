@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;12;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;20;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;19;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;1;Passeio;Cadeira para Carro
@@ -191,7 +191,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;5;Bebê Conforto;Bebê Conforto
 8.03.02.31.11;Bebê Conforto Pebble 360 Pro com Base Twillic Truffle - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
-8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;399.9;3;Passeio;Bebê Conforto
+8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;399.9;2;Passeio;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;3;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;3;Passeio;Bebê Conforto
 8.03.04.59.01;Bebê Conforto Wizz Preto - Cosco;389.9;3;Passeio;Bebê Conforto
@@ -740,7 +740,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1050;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;484;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;207;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;206;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;165;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;174;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
@@ -748,7 +748,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;295;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
-8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;15;Quarto;Quarto
+8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
 8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;19.9;5;Quarto;Quarto
 8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;5;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;9;Quarto;Decoração
@@ -1057,7 +1057,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;29.9;5;Brinquedo e Diversão;Chupetas
 8.25.53.30.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Azul e Branco - Chicco;34.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;18;Brinquedo e Diversão;Chupetas
-8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;31;Brinquedo e Diversão;Chupetas
+8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;30;Brinquedo e Diversão;Chupetas
 8.25.53.29.114;Chupeta Physio Light 2 a 6 m Chicco 2 Unidades Branco e Azul;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;19;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1475,7 +1475,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;130;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;129;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
