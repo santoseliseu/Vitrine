@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene                                   ;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;14;Passeio                                           ;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;21;Passeio                                           ;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;20;Passeio                                           ;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio                                           ;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio                                           ;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;1;Passeio                                           ;Cadeira para Carro
@@ -198,7 +198,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.61.18;Bebê Conforto Wizz Rosa - Cosco;359.9;4;Passeio                                           ;Bebê Conforto
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto                                     ;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;2;Bebê Conforto                                     ;Bebê Conforto
-8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;2;Passeio                                           ;Bebê Conforto
+8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;1;Passeio                                           ;Bebê Conforto
 8.03.02.28.01;Bebê Conforto Zion Preto Bold - Infanti;0.0;2;Passeio                                           ;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas                                        ;Gravidicas
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas                                 ;Mochila Infantil
@@ -1475,7 +1475,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores                               ;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;134;Travas e Protetores                               ;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;132;Travas e Protetores                               ;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores                               ;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê                                  ;Carrinho Travel System
