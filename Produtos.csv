@@ -73,7 +73,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;12;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
+8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
@@ -125,13 +127,13 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;468;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;723;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;722;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;24;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
-8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;7;Banho e Higiene;Banheira
+8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;6;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;28;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;62;Banho e Higiene;Banheira
@@ -343,6 +345,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;39.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.101.00;Buzininha Com Mordedor Buba Zoo Leão - Buba;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.102.00;Buzininha Com Mordedor Buba Zoo Panda - Buba;39.9;2;Brinquedo e Diversão;Mordedores
+8.06.103.02.16;Cadeira de Alimentação Belle Compacta e Dobrável Amarela - Premium Baby;669.9;3;Alimentação;Cadeira de Refeição
 8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;869.9;1;Alimentação;Cadeira de Refeição
 8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;869.9;11;Alimentação;Cadeira de Refeição
 8.06.04.07.06;Cadeira de Alimentação Cook Branco - Cosco;319.9;11;Alimentação;Cadeira de Refeição
@@ -581,7 +584,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;34;Carrinho de Bebê;Carrinho Travel System
-8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;2;Carrinho de Bebê;Carrinho Travel System
+8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;11;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -959,6 +962,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Blue - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;2999.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.73.79.01;Carrinho de Bebê Ping Light Black - ABC Desing;1529.1;3;Carrinho de Bebê;Carrinho de Bebê
@@ -1469,6 +1473,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;113;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
+8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
 8.15.23.03.01;Travel System Epic Lite Trio Infanti - Black Deep + Mini Mobile Pack & Go - Princess Tales;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -1488,6 +1493,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;6;Brinquedo e Diversão;Andador
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;2;Brinquedo e Diversão;Brinquedos
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
+8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
 6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;3;Brinquedo e Diversão;Andador
 6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;2;Brinquedo e Diversão;Andador
 8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
