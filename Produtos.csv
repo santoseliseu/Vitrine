@@ -74,7 +74,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;12;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;4;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;2;Banho e Higiene;Utensílios de Higiene
@@ -744,7 +744,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;174;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;152;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;295;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;294;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
@@ -1063,7 +1063,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
 8.25.57.209.18;Cinta Térmica Infantil Herbal para Cólica Rosa - Buba;49.9;4;Cuidados;Cuidados
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;17;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;16;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;11;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;7;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -1111,7 +1111,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.92.00;Conjunto Tigela E Colher Espátula Para Papinha Rosa - Marcus & Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.47.14.18;Copo 300ml Bico Duro com Alças Pássaro Rosa - KaBaby;39.9;2;Alimentação;Acessórios de Alimentação
 8.24.53.47.17;Copo 360 Perfect Cup 200ml 12M+ Laranja - Chicco;55.9;3;Alimentação;Acessórios de Alimentação
-8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;29.9;5;Alimentação;Acessórios de Alimentação
+8.24.53.48.11;Copo 360 Perfect Cup 200ml 12M+ Verde - Chicco;29.9;4;Alimentação;Acessórios de Alimentação
 8.24.47.26.07;Copo 360 Sport 300ml Azul - KaBaby;59.9;4;Alimentação;Acessórios de Alimentação
 8.24.47.27.10;Copo 360 Sport 300ml Cinza - KaBaby;59.9;4;Alimentação;Acessórios de Alimentação
 8.24.47.28.18;Copo 360 Sport 300ml Rosa - KaBaby;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1474,7 +1474,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;124;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;123;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
