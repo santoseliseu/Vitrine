@@ -375,7 +375,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;5;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;2;Alimentação;Cadeira de Refeição
 8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;4;Alimentação;Cadeira de Refeição
-8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;3;Alimentação;Cadeira de Refeição
+8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;2;Alimentação;Cadeira de Refeição
 8.06.39.10.07;Cadeira de Alimentação Poke Baby Blue - Burigotto;299.9;1;Alimentação;Cadeira de Refeição
 8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;279.9;1;Alimentação;Cadeira de Refeição
 8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;5;Alimentação;Cadeira de Refeição
@@ -440,7 +440,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;16;Passeio;Cadeira para Carro
 8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;1;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;3;Passeio;Cadeira para Carro
-8.07.02.01.01;Cadeirinha de Carro Magellan LiftFit 0 a 36kg Essential Black - Maxi-Cosi;2239.9;2;Passeio;Cadeira para Carro
+8.07.02.01.01;Cadeirinha de Carro Magellan LiftFit 0 a 36kg Essential Black - Maxi-Cosi;2239.9;3;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;18;Passeio;Cadeira para Carro
 8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;1359.9;3;Passeio;Cadeira para Carro
@@ -547,7 +547,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;1160.1;3;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;66;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;64;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;17;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho Travel System
@@ -605,7 +605,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -960,7 +960,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.54.06.01;Carrinho de Bebê Nivo Preto e Cinza - Tutti Baby;769.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.69.00;Carrinho de Bebê Olympus Chocolate - Galzerano;999.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;999.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;9;Carrinho de Bebê;Carrinho de Bebê
+8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Blue - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;2;Carrinho de Bebê;Carrinho de Bebê
