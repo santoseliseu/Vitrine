@@ -62,7 +62,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.03.15.07;Andador Infantil Buggy Até 12kg Azul - Voyage;279.9;4;Brinquedo e Diversão;Andador
 8.67.170.01.11;Andador Infantil Divertido em Madeira Verde - Hape;559.9;3;Brinquedo e Diversão;Andador
 8.05.04.02.07;Andador Infantil Goal Walker 4 em 1 Azul - Cosco;609.9;1;Brinquedo e Diversão;Andador
-8.05.04.01.18;Andador Infantil Goal Walker 4 em 1 Rosa - Cosco;619.9;2;Brinquedo e Diversão;Andador
+8.05.04.01.18;Andador Infantil Goal Walker 4 em 1 Rosa - Cosco;619.9;1;Brinquedo e Diversão;Andador
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
@@ -172,7 +172,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;2;Passeio;Base para Bebê Conforto
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;2;Passeio;Base para Bebê Conforto
-8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;2;Passeio;Base para Bebê Conforto
+8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -286,7 +286,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.122.00;Bolsa Térmica de Sílica Carneirinho - Buba;69.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;6;Banho e Higiene;Utensílios de Higiene
+8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;2;Banho e Higiene;Utensílios de Higiene
 8.25.58.03.00;Bolsas Térmicas em Gel para Seios Thermopads 2 Unidades - Philips Avent;129.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;5;Alimentação;Acessórios de Alimentação
 8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;7;Alimentação;Acessórios de Alimentação
@@ -682,7 +682,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;10;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;545;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;263;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;172;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;171;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;164;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;152;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -735,7 +735,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;205;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;164;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;173;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;172;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;152;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;294;Casa;Lixeira
@@ -1007,7 +1007,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.26.01;Carrinho de Bebê Zap Preto e Metal Cobre - Burigotto;739.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.77.10;Carrinho de Gêmeos Aire Twin Cinza Pebble - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.30.57.61.69;Carrinho Infantil De Atividades Com Luz e Som - Buba;149.9;1;Brinquedo e Diversão;Brinquedos
-8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;2;Passeio;Acessório para Passeio
+8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;1;Passeio;Acessório para Passeio
 8.09.84.02.01;Carrinho para Bebê Compacto Qbit+All Terrain Night Black - GB;2309.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.16.07;Carrinho para Bebê Compacto Qbit+All Terrain Night Blue - GB;2319.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;959.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -1055,7 +1055,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
 8.25.57.209.18;Cinta Térmica Infantil Herbal para Cólica Rosa - Buba;49.9;4;Cuidados;Cuidados
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;16;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;15;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;11;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;7;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -1466,7 +1466,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;108;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;106;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
