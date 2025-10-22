@@ -389,7 +389,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;3;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;200;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;203;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;58;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;103;Alimentação;Cadeira de Refeição
@@ -605,7 +605,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -907,7 +907,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;2;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;9;Brinquedo e Diversão;Mordedores
+8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.09.17;Mordedor Vanilla Sophie La Girafe Laranja Vulli;79.9;2;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
@@ -1361,7 +1361,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;21;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
-8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;1;Passeio;Acessórios para Passeio
+8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;2;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;12;Alimentação;Acessórios de Alimentação
 8.25.53.01.00;Protetores de Seios em Silicone Tamanho P-M - Chicco;29.9;3;Alimentação;Acessórios de Alimentação
@@ -1376,12 +1376,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;15;Banho e Higiene;Troninho
 8.25.70.52.07;Redutor de Assento Sanitário Degrau Penico Azul - Clingo;149.9;3;Banho e Higiene;Utensílios de Higiene
-8.27.70.03.10;Redutor de Assento Sanitário Degrau Penico Cinza - Clingo;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;49.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.69.33.00;Refil Brinquedos Limpinhos Natural 500ml - BioClub;29.9;9;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;131;Banho e Higiene;Utensílios de Higiene
-8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;7;Banho e Higiene;Utensílios de Higiene
+8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;6;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;5;Brinquedo e Diversão;Brinquedos
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;7;Alimentação;Acessórios de Alimentação
@@ -1469,7 +1468,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;102;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;100;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
