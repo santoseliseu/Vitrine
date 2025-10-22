@@ -81,7 +81,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;11;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;10;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;18;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -178,6 +178,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;26;Passeio;Base para Bebê Conforto
+8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;344.9;9;Passeio;Base para Bebê Conforto
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
@@ -587,9 +588,13 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;33;Carrinho de Bebê;Carrinho Travel System
+8.09.76.52.00;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto e Base I-snug - Joie;0.0;9;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;11;Carrinho de Bebê;Carrinho Travel System
+8.09.76.50.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto e Base I-snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.76.49.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto e Base I-snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.68.02.10;Carrinho de Bebê Compacto Oppa Cinza - Litet;999.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -747,7 +752,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
 8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;19.9;5;Quarto;Quarto
-8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;5;Quarto;Decoração
+8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;4;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;9;Quarto;Decoração
 8.30.53.14.18;Luminária e Projetor Rainbow Bear Rosa - Chicco;59.9;4;Quarto;Decoração
 8.25.92.01.10;Luminária Multifuncional Acalma Bebê Suculenta - Skip Hop;419.9;1;Quarto;Quarto
@@ -1471,6 +1476,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;99;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
+8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.76.56.07;Travel Sistem Versatrax E Trio Azul Lagoon com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.76.54.10;Travel Sistem Versatrax E Trio Pebble Cinza com I-Base Isofix I-Snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
+8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;9;Carrinho de Bebê;Carrinho Travel System
+8.09.76.58.01;Travel Sistem Versatrax E Trio Preto Pavement com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
