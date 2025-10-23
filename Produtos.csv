@@ -374,7 +374,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
 8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;6;Alimentação;Cadeira de Refeição
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;4;Alimentação;Cadeira de Refeição
-8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;5;Alimentação;Cadeira de Refeição
+8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;3;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;2;Alimentação;Cadeira de Refeição
 8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;4;Alimentação;Cadeira de Refeição
 8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;2;Alimentação;Cadeira de Refeição
@@ -389,7 +389,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;3;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;203;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;202;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;58;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;103;Alimentação;Cadeira de Refeição
@@ -456,7 +456,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;17;Passeio;Cadeira para Carro
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;4;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;9;Passeio;Cadeira para Carro
-8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;1;Passeio;Cadeira para Carro
 8.07.02.04.01;Cadeirinha de Carro Spinel 360º Plus 0 a 36kg Isofix Authentic Black - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;4;Passeio;Cadeira para Carro
@@ -1168,7 +1167,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.07.18;Escova Massageadora em Silicone Porquinho - Marcus&Marcus;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;29.9;3;Alimentação;Acessórios de Alimentação
 8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;37.9;25;Banho e Higiene;Utensílios de Higiene
-8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.47.33.07;Espelho Grande - Banco Traseiro Azul;109.9;1;Passeio;Acessórios para Passeio
 8.25.74.01.01;Espelho para Carro Howdy Kiddo;174.9;1;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
@@ -1194,7 +1192,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;15;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;14;Passeio;Acessórios para Passeio
 8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;3;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1233,7 +1231,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo - Medicate;219.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.101.02.07;Inalador Air Mesh Colors com Bateria Azul Claro - Medicate;219.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.101.03.07;Inalador Air Mesh Colors com Bateria Azul Escuro - Medicate;219.9;2;Banho e Higiene;Utensílios de Higiene
-8.25.101.04.18;Inalador Air Mesh Colors com Bateria Rosa - Medicate;259.9;10;Banho e Higiene;Utensílios de Higiene
+8.25.101.04.18;Inalador Air Mesh Colors com Bateria Rosa - Medicate;259.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.101.05.11;Inalador Air Mesh Colors com Bateria Verde - Medicate;259.9;6;Banho e Higiene;Utensílios de Higiene
 6.30.162.10.08;Jipe Elétrico Infantil 4x4 com 2 lugares Bivolt Vermelho - Bang Toy;0.0;3;Brinquedo e Diversão;Brinquedos
 6.30.162.07.08;Jipe Infantil Elétrico Aventura 12V até 30 kgs Vermelho - Bang Toys;0.0;2;Brinquedo e Diversão;Brinquedos
@@ -1376,7 +1374,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;49.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;39.9;4;Banho e Higiene;Utensílios de Higiene
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;89.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;15;Banho e Higiene;Troninho
+8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;14;Banho e Higiene;Troninho
 8.25.70.52.07;Redutor de Assento Sanitário Degrau Penico Azul - Clingo;149.9;3;Banho e Higiene;Utensílios de Higiene
 8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;49.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.69.33.00;Refil Brinquedos Limpinhos Natural 500ml - BioClub;29.9;9;Banho e Higiene;Utensílios de Higiene
