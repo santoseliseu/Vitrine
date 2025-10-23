@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;10;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;17;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;16;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;10;Passeio;Cadeira para Carro
@@ -122,7 +122,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.08.18;Baby Ball Cute Buba Azul e Rosa;24.9;5;Brinquedo e Diversão;Brinquedos
 8.25.57.104.00;Bandana Com Mordedor Happy Friends - Buba;19.9;4;Alimentação;Acessórios de Alimentação
 8.01.103.03.07;Banheira de Bebê Baby Happy Azul - Premium Baby;249.9;4;Banho e Higiene;Banheira
-8.01.103.01.10;Banheira de Bebê Baby Happy Cinza - Premium Baby;289.9;6;Banho e Higiene;Banheira
+8.01.103.01.10;Banheira de Bebê Baby Happy Cinza - Premium Baby;289.9;5;Banho e Higiene;Banheira
 8.01.103.02.11;Banheira de Bebê Baby Happy Verde - Premium Baby;265.9;5;Banho e Higiene;Banheira
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;3;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
@@ -742,7 +742,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1050;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;484;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;205;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;204;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;164;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;172;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
@@ -1471,7 +1471,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;89;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;87;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
