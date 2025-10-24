@@ -182,7 +182,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
-8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;4;Passeio;Bebê Conforto
+8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;3;Passeio;Bebê Conforto
 8.03.03.18.18;Bebê Conforto Beta Rosa Mescla - Voyage;339.9;1;Passeio;Bebê Conforto
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;2;Passeio;Bebê Conforto
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
@@ -738,7 +738,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;545;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;263;Casa;Lixeira
-24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1050;Casa;Lixeira
+24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;484;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;203;Casa;Lixeira
@@ -955,7 +955,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.78.07;Carrinho de Bebê Luck Azul Boreal - Voyage;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.79.01;Carrinho de Bebê Luck Preto - Voyage;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.88.07;Carrinho de Bebê Magno Azul Oceano - Infanti;899.1;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.23.89.01;Carrinho de Bebê Magno Preto Infinito - Infanti;899.1;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.23.89.01;Carrinho de Bebê Magno Preto Infinito - Infanti;899.1;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;759.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.12.01;Carrinho de Bebê Mobi Go Track & Field Estrelas - Safety 1st;3709.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.06.01;Carrinho de Bebê Nivo Preto e Cinza - Tutti Baby;769.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -1152,7 +1152,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;119.9;1;Brinquedo e Diversão;Brinquedos
 8.25.70.26.10;Degrau Infantil Antiderrapante Step Dots Cinza - Clingo;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.29.01.01.16;Degrau Infantil Duck Step - Safety 1st;39.9;4;Banho e Higiene;Utensílios de Higiene
-8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;16;Banho e Higiene;Utensílios de Higiene
+8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.69.31.00;Difusor De Ambientes Com 5 Bastões Baby Home 200ml - BioClub;39.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;3;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
@@ -1470,7 +1470,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;81;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;80;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
