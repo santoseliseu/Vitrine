@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;8;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;14;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;13;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;10;Passeio;Cadeira para Carro
@@ -548,7 +548,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;61;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;60;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;16;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
@@ -1103,7 +1103,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.58.34.03;Concha para Seio Conjunto 2 Unidades Philips Avent;129.9;1;Gravidicas;Gravidicas
 21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;156;Móveis;Cadeira
 21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;146;Móveis;Cadeira
-21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;160;Móveis;Cadeira
+21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;159;Móveis;Cadeira
 8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;99.9;1;Alimentação;Acessórios para alimentação
 8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
 8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
@@ -1313,9 +1313,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.49.07;Prato De Silicone Com Divisória E Ventosa Azul - Clingo;99.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.48.07;Prato de Silicone com Divisórias Piccolo Azul - Infanti;64.9;4;Alimentação;Acessórios de Alimentação
-8.24.23.50.18;Prato de Silicone com Divisórias Piccolo Rosa - Infanti;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.50.18;Prato De Silicone Flex Com Divisória e Ventosa Rosa - Clingo;99.9;5;Alimentação;Acessórios de Alimentação
-8.24.70.51.18;Prato De Silicone Flex Com Ventosa Formato Coração Rosa - Clingo;89.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.52.00;Prato De Silicone Flex Com Ventosa Formato Leão Bege - Clingo;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;9.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.30.07;Prato Infantil Bowl 300 ml Azul Escuro - Infanti;9.9;3;Alimentação;Acessórios de Alimentação
@@ -1475,7 +1473,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;75;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;73;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
