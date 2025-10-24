@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;8;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;15;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;14;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;10;Passeio;Cadeira para Carro
@@ -188,7 +188,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;34;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;33;Passeio;Bebê Conforto
 8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;12;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;5;Bebê Conforto;Bebê Conforto
@@ -691,7 +691,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;10;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;545;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;263;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;170;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;169;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;163;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;152;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -743,7 +743,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;203;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;163;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;171;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;170;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;152;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;294;Casa;Lixeira
