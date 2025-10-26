@@ -364,7 +364,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;869.9;1;Alimentação;Cadeira de Refeição
 8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;869.9;11;Alimentação;Cadeira de Refeição
 8.06.04.07.06;Cadeira de Alimentação Cook Branco - Cosco;319.9;11;Alimentação;Cadeira de Refeição
-8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;319.9;4;Alimentação;Cadeira de Refeição
+8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;319.9;3;Alimentação;Cadeira de Refeição
 8.06.04.25.01;Cadeira de Alimentação Cook Preto - Cosco;339.9;3;Alimentação;Cadeira de Refeição
 8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;869.9;2;Alimentação;Cadeira de Refeição
 8.06.01.08.11;Cadeira de Alimentação Dobrável Mellow Grey - Safety 1st;869.9;3;Alimentação;Cadeira de Refeição
@@ -499,7 +499,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.103.06.01;Cadeirinha para Carro Vanguard 360 i-Size Black - Premium Baby;1997.1;7;Cadeirinha de Auto;Cadeirinha de Auto
 8.07.103.07.10;Cadeirinha para Carro Vanguard 360 i-Size Grey - Premium Baby;1997.1;3;Cadeirinha de Auto;Cadeirinha de Auto
 8.30.170.04.06;Caixa Musical Infantil Giratória Branco - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
-8.30.33.49.69;Caixa Presente Primeiros Brinquedos Gift Set - Tiny Love;109.9;1;Brinquedo e Diversão;Brinquedos
 8.04.71.04.07;Cama Primeiro Sono Até 8Kg Azul - Baby Pil;99.9;2;Casa;Decoração
 8.04.71.03.10;Cama Primeiro Sono Até 8Kg Cinza - Baby Pil;99.9;4;Casa;Decoração
 8.04.71.05.18;Cama Primeiro Sono Até 8Kg Rosa - Baby Pil;99.9;4;Casa;Decoração
@@ -777,7 +776,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;167;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;320;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;152;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;294;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;293;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
@@ -1238,7 +1237,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
 8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;11;Passeio;Acessórios para Passeio
-8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;3;Passeio;Acessório para Passeio
+8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;2;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1408,7 +1407,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;2;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;19;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;18;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;2;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1472,7 +1471,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;13;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.47.18.69;Tapete de Brincar Felpado de Enrolar Azul - KaBaby;119.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;25;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;3;Brinquedo e Diversão;Tapetes
@@ -1522,7 +1520,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;52;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;51;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
@@ -1553,7 +1551,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;2;Brinquedo e Diversão;Brinquedos
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
-6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;3;Brinquedo e Diversão;Andador
+6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;2;Brinquedo e Diversão;Andador
 6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;2;Brinquedo e Diversão;Andador
 8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;279.9;2;Quarto;Trocador
