@@ -49,7 +49,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;3;Passeio;Acessório para Passeio
+8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
 8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;17;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;4;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
@@ -86,12 +86,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;8;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;10;Passeio;Cadeira para Carro
-8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;7;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;9;Passeio;Cadeira para Carro
+8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;6;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;6;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
-8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;10;Passeio;Cadeira para Carro
+8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;9;Passeio;Cadeira para Carro
 8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;22;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
@@ -136,7 +136,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;467;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;716;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;715;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
@@ -150,7 +150,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;24;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
-8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;48;Banho e Higiene;Banheira
+8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;47;Banho e Higiene;Banheira
 8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;435.0;8;Banho e Higiene;Banheira
 8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;449.9;14;Banho e Higiene;Banheira
 8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;69.9;10;Banho e Higiene;Banheira
@@ -186,7 +186,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;2;Passeio;Base para Bebê Conforto
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
-8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;21;Passeio;Base para Bebê Conforto
+8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;23;Passeio;Base para Bebê Conforto
 8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;344.9;7;Passeio;Base para Bebê Conforto
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;2;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -513,6 +513,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;0.0;1;Passeio;Canguru
 8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;3;Passeio;Canguru
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;60;Passeio;Canguru
+8.08.04.03.10;Canguru Infantil Loop Até 9 kg Cinza Claro - Cosco;139.9;1;Passeio;Canguru
 8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;139.9;5;Passeio;Canguru
 8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;28;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
@@ -605,7 +606,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.23.62.01;Carrinho de Bebê Breeze Preto - Infanti;719.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.23.62.01;Carrinho de Bebê Breeze Preto - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -662,6 +663,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.10.18;Kit 3 Copos de Transição Smart 250ml Rosa - Clingo;39.9;8;Alimentação;Acessórios de Alimentação
 8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.02.69;Kit 4 Copos Infantis 200 ml Colorido - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
+8.24.23.03.18;Kit 4 Copos Infantis 200 ml Rosa e Roxo - Infanti;24.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido - Infanti;19.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.45.62;Kit 4 Potes Infantis Multiuso 236ml Infanti Azul e Amarelo;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.44.114;Kit 4 Potes Infantis Multiuso 236ml Infanti Rosa e Roxo;29.9;1;Alimentação;Acessórios de Alimentação
@@ -688,6 +690,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;29.9;4;Alimentação;Acessórios de Alimentação
 8.24.72.30.00;Kit Com Tigela e Primeiro Garfo e Colher Elefante - Marcus&Marcus;119.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;79.9;3;Banho e Higiene;Utensílios de Higiene
+8.25.01.18.06;Kit Completo Cuidados do Bebê Aqua White - Safety 1st;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.78.03;Kit Copo Alimentador Graduado 3 Unidades Transparente – Buba;19.9;5;Alimentação;Acessórios de Alimentação
 8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.144.06;Kit Cuidados Branco - Buba;39.9;4;Banho e Higiene;Utensílios de Higiene
@@ -778,7 +781,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
-8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;19.9;5;Quarto;Quarto
+8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;19.9;4;Quarto;Quarto
 8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;4;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;9;Quarto;Decoração
 8.30.53.14.18;Luminária e Projetor Rainbow Bear Rosa - Chicco;59.9;4;Quarto;Decoração
@@ -912,7 +915,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris - SkipHop;559.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.17.00;Mochila Infantil Spark Style Morango - SkipHop;419.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.05.00;Mochila Infantil Zoo Baleia Narval - Skip Hop;189.9;4;Bolsas e Mochilas;Mochila Infantil
-8.11.92.07.00;Mochila Infantil Zoo Cachorro Pug - Skip Hop;189.9;1;Bolsas e Mochilas;Mochila Infantil
+8.11.92.07.00;Mochila Infantil Zoo Cachorro Pug - Skip Hop;189.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.20.00;Mochila Infantil Zoo Dino - Skip Hop;219.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.92.08.00;Mochila Infantil Zoo Flamingo - Skip Hop;159.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;209.9;6;Bolsas e Mochilas;Mochila Infantil
@@ -924,7 +927,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;19;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;26;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;25;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.04.53.18.01;Moisés para Carrinho Mysa Light Black Satin - Chicco;379.9;1;Carrinho de Bebê;Moisés
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;4;Passeio;Acessórios para Passeio
@@ -1233,8 +1236,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;11;Passeio;Acessórios para Passeio
-8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;2;Passeio;Acessório para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;10;Passeio;Acessórios para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1453,7 +1455,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;11;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;20;Banho e Higiene;Banheira
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;23;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;60;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
