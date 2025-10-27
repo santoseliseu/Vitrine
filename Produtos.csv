@@ -20,7 +20,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;34;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;10;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;9;Alimentação;Amamentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;1;Centro de Atividades;Centro de Atividades
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;1;Brinquedo e Diversão;Centro de Atividades
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
@@ -895,7 +895,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;13;Disponível 01;Brinquedos Diversos
 8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;9;Brinquedo e Diversão;Brinquedos
+8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;8;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
@@ -947,7 +947,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.09.17;Mordedor Vanilla Sophie La Girafe Laranja Vulli;79.9;2;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;2;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;1;Passeio;Acessório para Passeio
 8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;32;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
@@ -1158,7 +1158,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.58.18;Copo de Silicone 2 em 1 Piccolo Rosa - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
-8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;2;Alimentação;Acessórios de Alimentação
+8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;3;Alimentação;Acessórios de Alimentação
@@ -1518,7 +1518,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;49;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;47;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
