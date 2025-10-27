@@ -197,7 +197,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;29;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;28;Passeio;Bebê Conforto
 8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;11;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
@@ -563,7 +563,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;56;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;55;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho Travel System
@@ -622,7 +622,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.27.01;Carrinho de Bebê CR3 Gray e Cobre - Burigotto;800.1;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.03.07;Carrinho de Bebê Delta Azul Mescla - Voyage;559.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;599.9;7;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;137;Carrinho de Bebê;Carrinho de Bebê
+8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;138;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.78.01;Carrinho de Bebê Discover Black Chrome - Safety 1st;2259.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.01.57;Carrinho de Bebê Ecco Bege - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -919,7 +919,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;18;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;17;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;25;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.04.53.18.01;Moisés para Carrinho Mysa Light Black Satin - Chicco;379.9;1;Carrinho de Bebê;Moisés
@@ -1259,6 +1259,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;12;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;47;Quarto;Grade de Proteção
+8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;3;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.170.13.06;Guitarra Musical Infantil Branco - Hape;479.9;2;Brinquedo e Diversão;Brinquedos
@@ -1510,7 +1511,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;38;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;37;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
