@@ -1,4 +1,5 @@
 SKU;Nome;Preço;Estoque;Grupo;Subgrupo
+8.25.01.30.11;2 Canudos Reutilizável Abre e Fecha Green e Pink - Safety 1st;9.9;1;Alimentação;Acessórios de Alimentação
 8.24.47.10.18;2 colheres Silicone Flexíveis Rosa - KaBaby;19.9;1;Alimentação;Acessórios de Alimentação
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;339.9;2;Passeio;Acessórios para Passeio
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos Diversos
@@ -85,8 +86,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;8;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;9;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;7;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;8;Passeio;Cadeira para Carro
 8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;6;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -98,7 +99,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;11;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;94;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;93;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;7;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;3;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -255,7 +256,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 6.28.60.13.08;Bicicleta com Rodinhas Aro 12 Motor X PU 3 anos até 21kg Vermelho e Amarelo - Nathor;271.92;4;Bicicletas;Infantil
 6.28.60.05.115;Bicicleta com Rodinhas Aro 14 First Pro 4 anos até 25kg Preto e Laranja - Nathor;644.9;7;Bicicletas;Infantil
 6.28.60.17.18;Bicicleta com Rodinhas Aro 14 First Pro 4 anos até 25kg Verde e Rosa - Nathor;654.9;9;Bicicletas;Infantil
-8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;4;Bicicletas;Infantil
+8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;3;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;224.91;2;Bicicletas;Infantil
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;4;Bicicletas;Infantil
@@ -290,7 +291,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.30.01.01;Bolsa Changing Bag Zapp X Black - Quinny;459.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.19.113;Bolsa de Passeio Arco Iris - MaiT;249.9;5;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;249.9;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;239.9;2;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;239.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.30.07;Bolsa de Passeio Xadrez Bola - MaiT;219.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.27.02;Bolsa de Passeio Xadrez Borboleta - MaiT;219.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.30.148.63.10;Bolsa Infantil Plush Jimbao Alça Tiracolo Ratinha - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -562,7 +563,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;57;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;56;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho Travel System
@@ -943,7 +944,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.94.09.17;Mordedor Vanilla Sophie La Girafe Laranja Vulli;79.9;1;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;1;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;30;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;29;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1095,7 +1096,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
 8.25.57.209.18;Cinta Térmica Infantil Herbal para Cólica Rosa - Buba;49.9;4;Cuidados;Cuidados
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;15;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;16;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;10;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;7;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -1201,6 +1202,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.07.18;Escova Massageadora em Silicone Porquinho - Marcus&Marcus;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;37.9;25;Banho e Higiene;Utensílios de Higiene
+8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.47.33.07;Espelho Grande - Banco Traseiro Azul;109.9;1;Passeio;Acessórios para Passeio
 8.25.74.01.01;Espelho para Carro Howdy Kiddo;174.9;1;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
