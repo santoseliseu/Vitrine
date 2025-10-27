@@ -99,7 +99,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;11;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;93;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;92;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;7;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;3;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -197,7 +197,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;28;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;27;Passeio;Bebê Conforto
 8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;11;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
@@ -902,7 +902,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.03.00;Mochila Escolar Zoo Koala - Skip Hop;279.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.92.04.00;Mochila Escolar Zoo Raposa - Skip Hop;279.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.92.19.00;Mochila Escolar Zoo Unicórnio - SkipHop;299.9;4;Bolsas e Mochilas;Mochila Infantil
-8.11.33.01.11;Mochila Infantil Safari Croco - Tiny Love;99.9;4;Passeio;Bolsas e Mochilas
+8.11.33.01.11;Mochila Infantil Safari Croco - Tiny Love;99.9;3;Passeio;Bolsas e Mochilas
 8.11.33.02.18;Mochila Infantil Safari Flamingo - Tiny Love;99.9;1;Passeio;Bolsas e Mochilas
 8.11.33.03.17;Mochila Infantil Safari Jaguar - Tiny Love;99.9;4;Passeio;Bolsas e Mochilas
 8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris - SkipHop;559.9;1;Bolsas e Mochilas;Mochila Infantil
@@ -993,7 +993,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Blue - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;2999.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
@@ -1511,7 +1511,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;37;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;36;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
