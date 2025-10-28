@@ -78,7 +78,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;11;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;1;Disponível 01;Brinquedos Diversos
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
@@ -87,7 +87,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;7;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;8;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;7;Passeio;Cadeira para Carro
 8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;6;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -136,7 +136,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;467;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;713;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;712;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
@@ -567,7 +567,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
-8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;32;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -1516,7 +1515,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
-8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;8;Travas e Protetores;Travas e Protetores
+8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.56.07;Travel Sistem Versatrax E Trio Azul Lagoon com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
