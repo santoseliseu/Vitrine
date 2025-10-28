@@ -92,8 +92,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;83;Quarto;Babá Eletrônica
-8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;6;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;82;Quarto;Babá Eletrônica
+8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;5;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
@@ -446,7 +446,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;18;Passeio;Cadeira para Carro
 8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;1359.9;2;Passeio;Cadeira para Carro
 8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;0.0;3;Passeio;Cadeira para Carro
-8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;7;Cadeirinha de Auto;Cadeirinha de Auto
 8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;10;Passeio;Cadeira para Carro
 8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;24;Passeio;Cadeira para Carro
@@ -693,7 +692,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
-24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;545;Casa;Lixeira
+24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;537;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;260;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;162;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;160;Casa;Lixeira
@@ -738,7 +737,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;4;Banho e Higiene;Utensílios de Higiene
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;442;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
-24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;545;Casa;Lixeira
+24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;537;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;260;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;479;Casa;Lixeira
@@ -1218,7 +1217,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.56.00;Garrafinha De Alumínio 450ml Animal Fun Leão - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
-8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;12;Quarto;Grade de Proteção
+8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;11;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;44;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;3;Travas e Protetores;Travas e Protetores
