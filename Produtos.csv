@@ -189,7 +189,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;22;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;21;Passeio;Bebê Conforto
 8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;11;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.31.11;Bebê Conforto Pebble 360 Pro com Base Twillic Truffle - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
@@ -211,7 +211,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;2;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;8;Quarto;Berços Portáteis
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;9;Quarto;Berço
-8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;8;Quarto;Berço
+8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;7;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;25;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;3;Berço para quarto;Berços Portáteis
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;23;Quarto;Berço
@@ -391,7 +391,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.57.01.07;Cadeira de Balanço Vibratória Musical Floresta - Buba;499.9;1;Quarto;Cadeira de Descanso
 8.05.62.01.07;Cadeira de Descanso Até 11 Kg Azul - Clean Weeler;209.9;2;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
-8.05.02.13.12;Cadeira de Descanso Bouncer Kori Classic Oat - Maxi-Cosi;0.0;3;Quarto;Cadeira de Descanso
+8.05.02.13.12;Cadeira de Descanso Bouncer Kori Classic Oat - Maxi-Cosi;0.0;2;Quarto;Cadeira de Descanso
 8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;0.0;3;Quarto;Cadeira de Descanso
 8.05.03.01.07;Cadeira de Descanso Bouncer Relax Azul Solar - Voyage;209.9;1;Quarto;Cadeira de Descanso
 8.05.03.02.18;Cadeira de Descanso Bouncer Relax Rosa Solar - Voyage;199.9;2;Quarto;Cadeira de Descanso
@@ -456,7 +456,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;4;Passeio;Cadeira para Carro
 8.07.04.36.01;Cadeirinha de Carro Unique 0 a 36kg Preto Sport - Cosco;1119.9;3;Passeio;Cadeira para Carro
 8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;889.9;3;Passeio;Cadeira para Carro
-8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;0.0;6;Passeio;Cadeira para Carro
+8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.103.09.01;Cadeirinha para Carro Comfort Grow Black - Premium Baby;629.1;2;Passeio;Cadeira para Auto
 8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;3099.9;2;Passeio;Cadeira para Carro
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
