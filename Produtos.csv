@@ -86,7 +86,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;8;Passeio;Cadeira para Carro
-8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;19;Passeio;Cadeira para Carro
+8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;18;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
@@ -190,7 +190,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;26;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;25;Passeio;Bebê Conforto
 8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;11;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;8;Passeio;Bebê Conforto
 8.03.02.31.11;Bebê Conforto Pebble 360 Pro com Base Twillic Truffle - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
@@ -223,7 +223,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.03.20.18;Berço Portátil Fit Rosa Geo - Voyage;459.9;24;Quarto;Berço
 8.04.04.05.07;Berço Portátil Happy Azul - Cosco;719.9;3;Quarto;Berço
 8.04.04.04.10;Berço Portátil Happy Cinza - Cosco;719.9;3;Quarto;Berço
-8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;773.99;3;Berço para quarto;Berços Portáteis
+8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;773.99;1;Berço para quarto;Berços Portáteis
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;2;Quarto;Berço
 8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;6;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;5;Quarto;Berço
@@ -252,7 +252,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;224.91;2;Bicicletas;Infantil
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;4;Bicicletas;Infantil
-6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;5;Bicicletas;Infantil
+6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;5;Bicicletas;Infantil
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;4;Bicicletas;Infantil
 6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;10;Bicicletas;Infantil
@@ -301,13 +301,13 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.41.18;Boneca Angela Angel Rosa - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.43.16;Boneca Angela Beatrice Bee - Metoo;139.9;3;Brinquedo e Diversão;Brinquedos
 8.30.148.44.16;Boneca Angela Chocolate - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.60.07;Boneca Angela Fada Lulu Com Caixa - Metoo;159.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.59.18;Boneca Angela Fada Mia Com Caixa - Metoo;159.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.12.00;Boneca Angela Jujuba - Metoo;139.9;2;Brinquedo e Diversão;Brinquedos
 8.30.148.07.00;Boneca Angela Lai Ballet 34 cm - Metoo;139.9;3;Brinquedo e Diversão;Brinquedos
 8.30.148.08.18;Boneca Angela Lai Ballet Rosa Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.46.18;Boneca Angela Lily Bell - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.23.00;Boneca Angela Sereia Pérola - Metoo;139.9;2;Brinquedo e Diversão;Brinquedos
+8.30.148.10.00;Boneca Angela Tica Cacheada - Metoo;139.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.72.10;Boneca Angela Zoo Koala - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.15.00;Boneca de Pelúcia Mini Angela Sofia - Metoo;79.9;4;Brinquedo e Diversão;Brinquedos
 8.30.148.51.18;Boneca Jimbao Verão Flamingo - Metoo;129.9;1;Brinquedo e Diversão;Brinquedos
@@ -622,7 +622,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;23;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;7;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.117.01;Carrinho de Bebê Hobby Preto Mescla - Cosco;609.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -789,7 +789,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.26.138.68.18;Macacão Magnético Listra Rosa com girafinhas - 18 meses (1 a 2 anos);109.9;7;Roupas de Bebê;Roupas de Bebê
 8.26.138.69.18;Macacão Magnético Listra Rosa com girafinhas - 24 meses (2 a 3 anos);109.9;8;Roupas de Bebê;Roupas de Bebê
 8.26.138.65.18;Macacão Magnético Listra Rosa com girafinhas - 6 meses;109.9;4;Roupas de Bebê;Roupas de Bebê
-8.26.138.66.18;Macacão Magnético Listra Rosa com girafinhas - 9 meses;109.9;8;Roupas de Bebê;Roupas de Bebê
+8.26.138.66.18;Macacão Magnético Listra Rosa com girafinhas - 9 meses;109.9;7;Roupas de Bebê;Roupas de Bebê
 8.26.138.63.18;Macacão Magnético Listra Rosa com girafinhas - Recém nascido;109.9;5;Roupas de Bebê;Roupas de Bebê
 8.26.138.26.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 12 meses;109.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.27.07;Macacão Magnético Marinho, detalhes vermelho e cinza com estampa arco-íris - 18 meses (1 a 2 anos);109.9;2;Roupas de Bebê;Roupas de Bebê
@@ -884,7 +884,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.04.111;Mochila Passeio com Guia Vaquinha - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.01.18;Mochila Passeio Corujinha Rosa - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;18;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;17;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1384,7 +1383,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;15;Quarto;Quarto
 8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;8;Quarto;Quarto
-8.60.171.05.07;Saco de Dormir em Soft Anti Pilling Azul Bebê M - Casulo;189.0;1;Quarto;Quarto
+8.60.171.05.07;Saco de Dormir em Soft Anti Pilling Azul Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.08.07;Saco de Dormir Swaddle em Algodão Egípcio Azul Primavera Verão P - Casulo;199.0;5;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
@@ -1413,7 +1412,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;29;Brinquedo e Diversão;Tapetes
 8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;3;Brinquedo e Diversão;Ginásios
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;12;Brinquedo e Diversão;Tapetes
+8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;11;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;25;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
@@ -1485,7 +1484,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.37.69;Treme-Treme De Atividades Zoo Unicórnio - Buba;89.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;6;Brinquedo e Diversão;Andador
-8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;2;Brinquedo e Diversão;Brinquedos
+8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;1;Brinquedo e Diversão;Brinquedos
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
 6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;2;Brinquedo e Diversão;Andador
