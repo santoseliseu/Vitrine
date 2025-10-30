@@ -37,7 +37,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;24;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;5;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;2;Alimentação;Acessórios de Alimentação
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
@@ -367,7 +367,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;4;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;31;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;1;Alimentação;Cadeira de Refeição
-8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;4;Alimentação;Cadeira de Refeição
+8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;2;Alimentação;Cadeira de Refeição
 8.06.39.10.07;Cadeira de Alimentação Poke Baby Blue - Burigotto;299.9;1;Alimentação;Cadeira de Refeição
 8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;279.9;1;Alimentação;Cadeira de Refeição
@@ -418,7 +418,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;12;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 8.06.03.16.07;Cadeirinha de Alimentação Macaron Azul - Voyage;279.9;1;Alimentação;Cadeira de Refeição
 8.06.03.15.10;Cadeirinha de Alimentação Macaron Cinza - Voyage;279.9;2;Alimentação;Cadeira de Refeição
-8.06.03.18.01;Cadeirinha de Alimentação Macaron Preto - Voyage;289.9;5;Alimentação;Cadeira de Refeição
+8.06.03.18.01;Cadeirinha de Alimentação Macaron Preto - Voyage;289.9;4;Alimentação;Cadeira de Refeição
 8.06.03.17.18;Cadeirinha de Alimentação Macaron Rosa - Voyage;279.9;3;Alimentação;Cadeira de Refeição
 8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet - Joie;549.9;1;Alimentação;Cadeira de Refeição
 8.06.02.08.12;Cadeirinha de Alimentação Nesta Natural Wood - Maxi-Cosi;0.0;3;Alimentação;Cadeira de Refeição
