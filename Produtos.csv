@@ -80,7 +80,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;8;Passeio;Cadeira para Carro
-8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -906,7 +905,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;19;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;18;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -941,7 +940,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.01.10;Carrinho de Bebê Jobim Cinza Mescla - Voyage;619.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.72.01;Carrinho de Bebê Lila CP² Essential Black - Maxi-Cosi;3049.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.68.10;Carrinho de Bebê Lucca Cinza - Infanti;0.0;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.23.67.01;Carrinho de Bebê Lucca Preto - Infanti;0.0;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.23.67.01;Carrinho de Bebê Lucca Preto - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.78.07;Carrinho de Bebê Luck Azul Boreal - Voyage;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.79.01;Carrinho de Bebê Luck Preto - Voyage;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.88.07;Carrinho de Bebê Magno Azul Oceano - Infanti;899.1;4;Carrinho de Bebê;Carrinho de Bebê
