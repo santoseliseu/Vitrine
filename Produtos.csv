@@ -84,7 +84,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;6;Passeio;Cadeira para Carro
-8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;12;Passeio;Cadeira para Carro
+8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;11;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
@@ -133,7 +133,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;24;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
-8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;5;Banho e Higiene;Banheira
+8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;4;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;28;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;58;Banho e Higiene;Banheira
@@ -166,7 +166,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.02.10;Banheira Infantil Dobrável Ofurô Cinza - Buba;449.9;2;Banho e Higiene;Banheira
 8.01.57.05.18;Banheira Infantil Dobrável Rosa - Buba;219.9;2;Banho e Higiene;Banheira
 8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;409.9;17;Banho e Higiene;Banheira
-8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;459.9;7;Banho e Higiene;Banheira
+8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;459.9;6;Banho e Higiene;Banheira
 8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;219.9;1;Banho e Higiene;Banheira
 8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;209.9;2;Banho e Higiene;Banheira
 8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;929.9;3;Passeio;Base para Bebê Conforto
@@ -253,7 +253,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;4;Bicicletas;Infantil
 6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;10;Bicicletas;Infantil
 6.28.60.26.08;Bicicleta Infantil Zigbim Caloi Aro 14 Vermelho - Nathor;854.91;5;Bicicletas;Infantil
-8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;9;Alimentação;Acessórios de Alimentação
+8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;8;Alimentação;Acessórios de Alimentação
 8.24.53.25.00;Bico de Mamadeira Step Up Fluxo Médio (2M+) 1 Unidade - Chicco;19.9;10;Alimentação;Acessórios de Alimentação
 8.24.72.43.00;Bico de Transição em Silicone - Marcus&Marcus;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.89.11.00;Bico Para Reposição Essence TC Smart Flow Fluxo Médio 2 Unidades - NUK;29.9;2;Alimentação;Acessórios de Alimentação
@@ -557,7 +557,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.70.68;Carrinho com Bebê Conforto Travel System Poppy Duo Preto Mescla - Cosco;1919.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.75.68;Carrinho com Bebê Conforto Travel System Poppy Trio Rosa Mescla - Cosco;2169.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.68.07;Carrinho com Bebê Conforto Travel System Reverse Azul Rajado - Cosco;1129.9;3;Carrinho de Bebê;Carrinho Travel System
-8.09.04.67.10;Carrinho com Bebê Conforto Travel System Reverse Cinza Rajado - Cosco;1099.9;3;Carrinho de Bebê;Carrinho Travel System
+8.09.04.67.10;Carrinho com Bebê Conforto Travel System Reverse Cinza Rajado - Cosco;1099.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.135.01;Carrinho com Bebê Conforto Travel System Reverse Duo Preto Onda - Cosco;1039.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.136.18;Carrinho com Bebê Conforto Travel System Reverse Duo Rosa Onda - Cosco Kids;1217.07;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.127.01;Carrinho com Bebê Conforto Travel System Reverse Preto Bronze - Cosco;1129.9;6;Carrinho de Bebê;Carrinho Travel System
@@ -604,7 +604,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;16;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;54;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;53;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -1338,7 +1338,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;2;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.25.01.43.01;Protetor de Banco TT Top Tether Preto - Safety 1st;363.96;12;Passeio;Acessórios para Passeio
+8.25.01.43.01;Protetor de Banco TT Top Tether Preto - Safety 1st;363.96;11;Passeio;Acessórios para Passeio
 8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;8;Travas e Protetores;Travas e Protetores
