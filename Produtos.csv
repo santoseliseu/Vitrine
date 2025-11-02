@@ -20,11 +20,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;33;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;3;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;2;Alimentação;Amamentação
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
-8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;109.9;14;Banho e Higiene;Utensílios de Higiene
+8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;109.9;13;Banho e Higiene;Utensílios de Higiene
 8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;21;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
@@ -82,7 +82,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;5;Passeio;Cadeira para Carro
-8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;9;Passeio;Cadeira para Carro
+8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;6;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
@@ -166,7 +166,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;409.9;17;Banho e Higiene;Banheira
 8.01.39.11.18;Banheira Infantil Millenia M Dobrável com Assento Rosa Liso - Burigotto;459.9;6;Banho e Higiene;Banheira
 8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;219.9;1;Banho e Higiene;Banheira
-8.01.01.20.10;Banheira Infantil Retrátil Oasis White & Grey - Safety 1st;209.9;1;Banho e Higiene;Banheira
 8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;929.9;3;Passeio;Base para Bebê Conforto
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;2;Passeio;Base para Bebê Conforto
@@ -204,7 +203,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;3;Quarto;Berço
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;2;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;8;Quarto;Berços Portáteis
-8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;6;Quarto;Berço
+8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;5;Quarto;Berço
 8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;2;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;25;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;3;Berço para quarto;Berços Portáteis
@@ -361,7 +360,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
 8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;6;Alimentação;Cadeira de Refeição
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;4;Alimentação;Cadeira de Refeição
-8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;31;Alimentação;Cadeira de Refeição
+8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;30;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;1;Alimentação;Cadeira de Refeição
 8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;2;Alimentação;Cadeira de Refeição
@@ -699,7 +698,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.25.69.08.00;Lava Roupas Concentrado Detergente Natural - Bioclub Baby;39.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16 Lenços - Bug Boom;29.9;10;Banho e Higiene;Utensílios de Higiene
+8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16 Lenços - Bug Boom;29.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.75.64.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Astronauta - D´Bella for Baby;229.9;2;Quarto;Berço
 8.25.75.66.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Boneca - D´Bella for Baby;229.9;1;Quarto;Berço
 8.25.75.65.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Coala - D´Bella for Baby;229.9;1;Quarto;Berço
