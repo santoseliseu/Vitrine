@@ -288,7 +288,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.160.27.02;Bolsa de Passeio Xadrez Borboleta - MaiT;219.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.30.148.63.10;Bolsa Infantil Plush Jimbao Alça Tiracolo Ratinha - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
 8.09.01.59.01;Bolsa Organizadora Grey - Safety 1st;89.9;6;Passeio;Acessórios para Passeio
-8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;2;Bolsas e Mochilas;Bolsas e Mochilas
+8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;4;Banho e Higiene;Utensílios de Higiene
@@ -866,7 +866,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;7;Disponível 01;Brinquedos Diversos
 8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.05.18;Mochila com Guia Unicórnio Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -974,7 +973,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;72;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;28;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;27;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.24.18;Carrinho de Bebê Rio K com Bebê Conforto Touring X Mon Amour - Burigotto;1079.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1420,7 +1419,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;13;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;24;Brinquedo e Diversão;Ginásios
+8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;23;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;13;Brinquedo e Diversão;Ginásios
