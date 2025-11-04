@@ -60,7 +60,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.03.17.07;Andador Infantil Baby Step Até 12 kg Azul - Voyage;259.9;3;Brinquedo e Diversão;Andador
 8.05.03.15.07;Andador Infantil Buggy Até 12kg Azul - Voyage;279.9;4;Brinquedo e Diversão;Andador
 8.67.170.01.11;Andador Infantil Divertido em Madeira Verde - Hape;559.9;3;Brinquedo e Diversão;Andador
-8.05.04.02.07;Andador Infantil Goal Walker 4 em 1 Azul - Cosco;609.9;1;Brinquedo e Diversão;Andador
 8.05.04.01.18;Andador Infantil Goal Walker 4 em 1 Rosa - Cosco;619.9;1;Brinquedo e Diversão;Andador
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
@@ -92,7 +91,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;67;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;65;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;5;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -416,7 +415,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;230;Móveis;Cadeira
 21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;236;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;9;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
-21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;4;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
+21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;12;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 8.06.03.16.07;Cadeirinha de Alimentação Macaron Azul - Voyage;279.9;1;Alimentação;Cadeira de Refeição
 8.06.03.15.10;Cadeirinha de Alimentação Macaron Cinza - Voyage;279.9;2;Alimentação;Cadeira de Refeição
@@ -712,7 +711,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.25.69.08.00;Lava Roupas Concentrado Detergente Natural - Bioclub Baby;39.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16 Lenços - Bug Boom;29.9;9;Banho e Higiene;Utensílios de Higiene
+8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16 Lenços - Bug Boom;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.75.64.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Astronauta - D´Bella for Baby;229.9;2;Quarto;Berço
 8.25.75.66.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Boneca - D´Bella for Baby;229.9;1;Quarto;Berço
 8.25.75.65.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Coala - D´Bella for Baby;229.9;1;Quarto;Berço
@@ -1152,7 +1151,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;11;Banho e Higiene;Utensílios de Higiene
-8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;9;Banho e Higiene;Utensílios de Higiene
+8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;69.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1333,7 +1332,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.12.00;Prendedor De Chupeta e Talher Multi Uso Elefante Ollie Marcus & Marcus;49.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.01.00;Prendedor de Chupeta e Talher Porquinho - Marcus&Marcus;49.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
-8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;19.9;2;Brinquedo e Diversão;Chupetas
+8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;19.9;1;Brinquedo e Diversão;Chupetas
 8.24.149.53.06;Prendedor de Chupeta Klips Cloudy White - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.24.149.54.07;Prendedor de Chupeta Klips Dreamy Blue - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.25.70.16.07;Prendedor de Chupetas Avião - Clingo;19.9;1;Brinquedo e Diversão;Chupetas
@@ -1344,7 +1343,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
 8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;27;Banho e Higiene;Utensílios de Higiene
-8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;8;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;7;Travas e Protetores;Travas e Protetores
@@ -1386,7 +1384,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;8;Quarto;Quarto
 8.60.171.05.07;Saco de Dormir em Soft Anti Pilling Azul Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;2;Quarto;Quarto
-8.60.171.08.07;Saco de Dormir Swaddle em Algodão Egípcio Azul Primavera Verão P - Casulo;199.0;2;Quarto;Quarto
+8.60.171.08.07;Saco de Dormir Swaddle em Algodão Egípcio Azul Primavera Verão P - Casulo;199.0;1;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
@@ -1464,7 +1462,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;439;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;437;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
