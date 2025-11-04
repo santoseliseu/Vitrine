@@ -132,14 +132,14 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
-8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;24;Banho e Higiene;Banheira
+8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
 8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;2;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;27;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;58;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;29;Banho e Higiene;Banheira
-8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;16;Banho e Higiene;Banheira
+8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;17;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;47;Banho e Higiene;Banheira
@@ -695,7 +695,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;537;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;259;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;258;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;157;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;160;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;148;Casa;Lixeira
@@ -740,7 +740,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;442;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;537;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;259;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;258;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;479;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
@@ -958,7 +958,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;999.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Blue - Joie;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.68.07;Carrinho de Bebê Pact Pro Dark Blue - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;2999.0;3;Carrinho de Bebê;Carrinho de Bebê
@@ -1332,7 +1332,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.12.00;Prendedor De Chupeta e Talher Multi Uso Elefante Ollie Marcus & Marcus;49.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.01.00;Prendedor de Chupeta e Talher Porquinho - Marcus&Marcus;49.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
-8.25.53.24.00;Prendedor De Chupeta Fashion Clip Rosa - Chicco;19.9;1;Brinquedo e Diversão;Chupetas
 8.24.149.53.06;Prendedor de Chupeta Klips Cloudy White - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.24.149.54.07;Prendedor de Chupeta Klips Dreamy Blue - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.25.70.16.07;Prendedor de Chupetas Avião - Clingo;19.9;1;Brinquedo e Diversão;Chupetas
@@ -1370,7 +1369,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.33.00;Refil Brinquedos Limpinhos Natural 500ml - BioClub;29.9;9;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;91;Banho e Higiene;Utensílios de Higiene
-8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;4;Banho e Higiene;Utensílios de Higiene
+8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;3;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;4;Brinquedo e Diversão;Brinquedos
 8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;8;Alimentação;Acessórios de Alimentação
