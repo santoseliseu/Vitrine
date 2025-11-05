@@ -88,7 +88,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;34;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;33;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;5;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -131,7 +131,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
-8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;2;Banho e Higiene;Banheira
+8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;27;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;58;Banho e Higiene;Banheira
@@ -1045,7 +1045,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
 8.25.57.209.18;Cinta Térmica Infantil Herbal para Cólica Rosa - Buba;49.9;4;Cuidados;Cuidados
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;15;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;14;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;9;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;6;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -1206,7 +1206,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;6;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;36;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
-8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;2;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
 8.30.170.13.06;Guitarra Musical Infantil Branco - Hape;479.9;2;Brinquedo e Diversão;Brinquedos
 8.25.69.22.00;Higienizador de Frutas e Vegetais Orgânico 300 ml - Bioclub Baby;29.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1368,7 +1367,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;15;Quarto;Quarto
 8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
-8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;8;Quarto;Quarto
+8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;7;Quarto;Quarto
 8.60.171.05.07;Saco de Dormir em Soft Anti Pilling Azul Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
