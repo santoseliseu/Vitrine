@@ -200,7 +200,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
 8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;641.39;3;Quarto;Berços Portáteis
-8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;98;Quarto;Berço
+8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;97;Quarto;Berço
 8.04.01.12.108;Berço Compacto Mini Play Net Blue - Safety 1st;589.9;3;Quarto;Berço
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;3;Quarto;Berço
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;2;Quarto;Berço
@@ -209,7 +209,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;4;Quarto;Berço
 8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;4;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;25;Quarto;Berço
-8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;2;Berço para quarto;Berços Portáteis
+8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;1;Berço para quarto;Berços Portáteis
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;23;Quarto;Berço
 8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;849.9;6;Quarto;Berço
 8.04.04.19.07;Berço Portátil Cozzy Azul Pastel - Cosco Kids;575.99;3;Berço para quarto;Berços Portáteis
@@ -688,7 +688,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;537;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;258;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;157;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;156;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;160;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;147;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -738,10 +738,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;123;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;191;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;160;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;158;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;157;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;318;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;147;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;291;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;290;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
@@ -835,7 +835,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.27.69;Mini Chaveiro de Pelúcia Angela Zoo Koala - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.28.69;Mini Chaveiro de Pelúcia Angela Zoo Unicórnio - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.26.11;Mini Chaveiro de Pelúcia Dino - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
-8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;59.9;7;Brinquedo e Diversão;Brinquedos
+8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;59.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.14.00;Mini Móbile Pack & Go Meadow Days - Tiny Love;59.9;4;Brinquedo e Diversão;Brinquedos
 8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;59.9;3;Brinquedo e Diversão;Brinquedos
 8.11.160.16.07;Mini Mochila com Bolso Frontal Cachorrinho - MaiT;209.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1447,7 +1447,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;428;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;427;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
