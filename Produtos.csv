@@ -28,7 +28,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;21;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
-8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;15;Banho e Higiene;Utensílios de Higiene
+8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;14;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;25;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -357,7 +357,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
 8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;929.9;1;Alimentação;Cadeira de Refeição
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
-8.06.39.11.10;Cadeira de Alimentação Kiwi Cinza - Burigotto;199.9;1;Alimentação;Cadeira de Refeição
 8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;239.9;3;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
 8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
@@ -459,7 +458,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
 8.07.76.20.10;Cadeirinha para Carro I-Spin XL 360 Chumbo Ebony - Joie;0.0;2;Passeio;Cadeira para Carro
 8.07.76.18.10;Cadeirinha para Carro I-Spin XL 360 Cinza Carbon - Joie;0.0;11;Passeio;Cadeira para Carro
-8.07.76.12.01;Cadeirinha para Carro I-Spin XL 360 Preto Eclipse - Joie;0.0;15;Passeio;Cadeira para Carro
+8.07.76.12.01;Cadeirinha para Carro I-Spin XL 360 Preto Eclipse - Joie;0.0;14;Passeio;Cadeira para Carro
 8.07.76.19.11;Cadeirinha para Carro I-Spin XL 360 Verde Pine - Joie;0.0;3;Passeio;Cadeira para Carro
 8.07.01.01.01;Cadeirinha para Carro Multifix Reserva 0 a 36kg Black - Safety1st;0.0;3;Passeio;Cadeira para Carro
 8.07.103.03.01;Cadeirinha para Carro Murphy Lux 360º Preta - Premium Baby;1109.9;2;Passeio;Cadeira para Carro
@@ -583,7 +582,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho de Bebê
-8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.62.01;Carrinho de Bebê Breeze Preto - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -748,7 +747,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
-8.25.70.35.00;Luminária de Tomada Led Com Sensor Bivolt Square Branco - Clingo;19.9;1;Quarto;Quarto
 8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;3;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;6;Quarto;Decoração
 8.30.53.14.18;Luminária e Projetor Rainbow Bear Rosa - Chicco;59.9;3;Quarto;Decoração
@@ -1180,7 +1178,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;6;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;5;Passeio;Acessórios para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1209,7 +1207,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.56.00;Garrafinha De Alumínio 450ml Animal Fun Leão - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;6;Quarto;Grade de Proteção
-8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;37;Quarto;Grade de Proteção
+8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;36;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;2;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
@@ -1334,7 +1332,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;2;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;26;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;24;Banho e Higiene;Utensílios de Higiene
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;8;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;7;Travas e Protetores;Travas e Protetores
@@ -1362,7 +1360,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.33.00;Refil Brinquedos Limpinhos Natural 500ml - BioClub;29.9;9;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;91;Banho e Higiene;Utensílios de Higiene
-8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;4;Banho e Higiene;Utensílios de Higiene
+8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;3;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;4;Brinquedo e Diversão;Brinquedos
 8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;8;Alimentação;Acessórios de Alimentação
@@ -1396,7 +1394,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.17.18;Talheres de Silicone com Ventosa Sticker Rosa - Clingo;19.9;5;Alimentação;Acessórios de Alimentação
 8.30.170.09.08;Tambor Musical Infantil Vermelho - Hape;303.9;1;Brinquedo e Diversão;Brinquedos
 8.13.47.13.70;Tapete Bolsa de Brincar Felpado London - KaBaby;109.9;1;Brinquedo e Diversão;Tapetes
-8.30.53.21.00;Tapete da Fazenda para Bebês Chicco;119.9;4;Brinquedo e Diversão;Tapetes
+8.30.53.21.00;Tapete da Fazenda para Bebês Chicco;119.9;3;Brinquedo e Diversão;Tapetes
 8.13.57.05.69;Tapete De Água Inflável Mar - Buba;59.9;3;Brinquedo e Diversão;Brinquedos
 8.30.57.66.07;Tapete De Água Inflável Oceano - Buba;49.9;3;Brinquedo e Diversão;Brinquedos
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;29;Brinquedo e Diversão;Tapetes
@@ -1452,7 +1450,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;431;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;430;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
