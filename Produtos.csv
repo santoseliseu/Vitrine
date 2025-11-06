@@ -1136,7 +1136,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;3;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;6;Banho e Higiene;Utensílios de Higiene
-8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;11;Banho e Higiene;Utensílios de Higiene
+8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;10;Banho e Higiene;Utensílios de Higiene
 8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
@@ -1438,7 +1438,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.188.07;Toalha Poncho Aventuras Tubarão Azul - Buba;129.9;1;Banho e Higiene;Toalha
 8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;2;Banho e Higiene;Toalha
 8.30.57.09.69;Torre Espiral de Bola Buba Colorido;89.9;1;Brinquedo e Diversão;Brinquedos
-8.30.53.72.69;Torre Zen Pedras Empilháveis Eco+ Chicco Colorido;39.9;6;Brinquedo e Diversão;Brinquedos
+8.30.53.72.69;Torre Zen Pedras Empilháveis Eco+ Chicco Colorido;39.9;5;Brinquedo e Diversão;Brinquedos
 8.30.39.01.11;Trator Infantil Elétrico John Deere Ground Force Verde - Peg Pérego;2239.9;13;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;8;Travas e Protetores;Travas e Protetores
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
@@ -1448,7 +1448,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.12.06;Trava para Maçaneta White - Safety 1st;0.0;3;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
-8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;5;Travas e Protetores;Travas e Protetores
+8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
