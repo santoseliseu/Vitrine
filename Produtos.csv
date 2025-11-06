@@ -77,7 +77,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;50;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;49;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -205,7 +205,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;2;Quarto;Berço
 8.04.23.15.01;Berço Hello Portátil Preto Noite - Infanti;0.0;8;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;8;Quarto;Berços Portáteis
-8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;1;Quarto;Berço
 8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;3;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;25;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;1;Berço para quarto;Berços Portáteis
@@ -582,7 +581,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;5;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;35;Carrinho de Bebê;Carrinho Travel System
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;34;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;9;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
@@ -601,7 +600,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;29;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho de Bebê
@@ -1035,7 +1034,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;29.9;2;Brinquedo e Diversão;Chupetas
 8.25.53.30.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Azul e Branco - Chicco;34.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;17;Brinquedo e Diversão;Chupetas
-8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;19;Brinquedo e Diversão;Chupetas
+8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;17;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;19;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1095,7 +1094,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.58.18;Copo de Silicone 2 em 1 Piccolo Rosa - Infanti;39.9;6;Alimentação;Acessórios de Alimentação
-8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;3;Alimentação;Acessórios de Alimentação
