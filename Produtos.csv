@@ -9,7 +9,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;39.9;4;Banho e Higiene;Utensílios de Higiene
-8.12.01.09.01;Alça de Segurança Antiqueda para TV Black - Safety 1st;19.9;4;Travas e Protetores;Travas e Protetores
+8.12.01.09.01;Alça de Segurança Antiqueda para TV Black - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.24.118.04.16;Alimentador de Frutas e Papinhas com Redinha Amarela - Munchkin;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.68.07;Alimentador de Silicone 3 Bicos Azul - Infanti;39.9;4;Alimentação;Acessórios de Alimentação
 8.24.120.06.07;Alimentador de Silicone Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
@@ -414,7 +414,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.23.14.06;Cadeirinha de Alimentação Panacota Branco Bronze - Infanti;0.0;1;Alimentação;Cadeira de Refeição
 8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;2;Alimentação;Cadeira de Refeição
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
-8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Preto - Voyage;489.9;2;Passeio;Cadeira para Carro
+8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Preto - Voyage;489.9;1;Passeio;Cadeira para Carro
 8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;489.9;2;Passeio;Cadeira para Carro
 8.07.54.13.01;Cadeirinha de Carro Atlantis Black AB Tutti Baby Preto;489.9;2;Passeio;Cadeira para Carro
 8.07.76.17.08;Cadeirinha de Carro Elevate 9 até 36 kg Vermelho Cherry - Joie;599.9;1;Passeio;Cadeira para Carro
@@ -437,9 +437,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;17;Passeio;Cadeira para Carro
-8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;2;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;7;Passeio;Cadeira para Carro
-8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;2;Passeio;Cadeira para Carro
 8.07.02.04.01;Cadeirinha de Carro Spinel 360º Plus 0 a 36kg Isofix Authentic Black - Maxi-Cosi;0.0;6;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;3;Passeio;Cadeira para Carro
