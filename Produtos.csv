@@ -35,7 +35,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;24;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;3;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
@@ -73,11 +73,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;7;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
-8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
+8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;49;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;48;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
@@ -193,7 +193,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;2;Bebê Conforto;Bebê Conforto
 8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;7;Passeio;Bebê Conforto
-8.03.02.28.01;Bebê Conforto Zion Preto Bold - Infanti;0.0;2;Passeio;Bebê Conforto
+8.03.02.28.01;Bebê Conforto Zion Preto Bold - Infanti;0.0;1;Passeio;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas;Gravidicas
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
@@ -969,7 +969,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;619.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;609.9;12;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;2179.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;40;Carrinho de Bebê;Carrinho Travel System
+8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;39;Carrinho de Bebê;Carrinho Travel System
 8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;1269.9;13;Carrinho de Bebê;Carrinho Travel System
 8.09.76.75.10;Carrinho de Bebê Travel System Trio Versatrax Cycle Cinza Shellgray + Brinde Exclusivo - Joie;4829.9;4;Passeio;Carrinho Travel System
 8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;4332.6;4;Passeio;Carrinho Travel System
@@ -1386,7 +1386,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;9;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;12;Brinquedo e Diversão;Ginásios
+8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;11;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;13;Brinquedo e Diversão;Ginásios
@@ -1433,11 +1433,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;413;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;411;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
-8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;4;Carrinho de Bebê;Carrinho Travel System
+8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
 8.15.23.03.01;Travel System Epic Lite Trio Infanti - Black Deep + Mini Mobile Pack & Go - Princess Tales;0.0;1;Carrinho de Bebê;Carrinho Travel System
