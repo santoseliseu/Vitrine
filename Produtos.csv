@@ -172,7 +172,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;2;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
-8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;23;Passeio;Base para Bebê Conforto
+8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;22;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
@@ -349,7 +349,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.22.10;Cadeira de Alimentação Frutty Cinza - Cosco;529.9;3;Alimentação;Cadeira de Refeição
 8.06.04.23.18;Cadeira de Alimentação Frutty Rosa - Cosco;529.9;3;Alimentação;Cadeira de Refeição
 8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
-8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;929.9;1;Alimentação;Cadeira de Refeição
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
 8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;239.9;3;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
@@ -1326,7 +1325,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;7;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;6;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;7;Alimentação;Acessórios de Alimentação
@@ -1385,7 +1384,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;28;Brinquedo e Diversão;Tapetes
 8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;3;Brinquedo e Diversão;Ginásios
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;10;Brinquedo e Diversão;Tapetes
+8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;9;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;15;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
