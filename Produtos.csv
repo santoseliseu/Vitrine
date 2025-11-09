@@ -36,7 +36,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;24;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;3;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;2;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
@@ -139,7 +139,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.09.18;Banheira de Bebê Ofuro Opla Rose Madder - Burigotto;209.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;26;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;58;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;57;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;29;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;15;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
@@ -185,8 +185,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;2;Passeio;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;8;Passeio;Bebê Conforto
-8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;7;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;7;Passeio;Bebê Conforto
+8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;6;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;2;Passeio;Bebê Conforto
 8.03.02.31.11;Bebê Conforto Pebble 360 Pro com Base Twillic Truffle - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;399.9;2;Passeio;Bebê Conforto
@@ -255,7 +255,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;4;Bicicletas;Infantil
 6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;10;Bicicletas;Infantil
 6.28.60.26.08;Bicicleta Infantil Zigbim Caloi Aro 14 Vermelho - Nathor;854.91;5;Bicicletas;Infantil
-8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;7;Alimentação;Acessórios de Alimentação
+8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;6;Alimentação;Acessórios de Alimentação
 8.24.53.25.00;Bico de Mamadeira Step Up Fluxo Médio (2M+) 1 Unidade - Chicco;19.9;10;Alimentação;Acessórios de Alimentação
 8.24.72.43.00;Bico de Transição em Silicone - Marcus&Marcus;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.89.11.00;Bico Para Reposição Essence TC Smart Flow Fluxo Médio 2 Unidades - NUK;29.9;2;Alimentação;Acessórios de Alimentação
@@ -1147,7 +1147,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;7;Banho e Higiene;Utensílios de Higiene
+8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;69.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1212,7 +1212,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.56.00;Garrafinha De Alumínio 450ml Animal Fun Leão - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
-8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;2;Quarto;Grade de Proteção
+8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;1;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;36;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
