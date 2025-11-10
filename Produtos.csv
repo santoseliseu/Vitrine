@@ -80,7 +80,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;51;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;50;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;68;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
@@ -182,8 +182,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;2;Passeio;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
-8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;6;Passeio;Bebê Conforto
-8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;6;Passeio;Bebê Conforto
+8.03.28.29.01;Bebê Conforto Grid 0 a 13kg Black - Galzerano;349.9;5;Passeio;Bebê Conforto
+8.03.28.31.18;Bebê Conforto Grid 0 a 13kg Rosa - Galzerano;309.9;7;Passeio;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;2;Passeio;Bebê Conforto
 8.03.02.31.11;Bebê Conforto Pebble 360 Pro com Base Twillic Truffle - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;399.9;2;Passeio;Bebê Conforto
@@ -376,7 +376,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;163;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;162;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;55;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;83;Alimentação;Cadeira de Refeição
@@ -433,6 +433,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;10;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;15;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;3;Passeio;Cadeira para Carro
+8.07.02.01.01;Cadeirinha de Carro Magellan LiftFit 0 a 36kg Essential Black - Maxi-Cosi;2239.9;1;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;18;Passeio;Cadeira para Carro
 8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;1359.9;2;Passeio;Cadeira para Carro
@@ -589,7 +590,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho Travel System
-8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;9;Carrinho de Bebê;Carrinho Travel System
+8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -607,7 +608,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;28;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;27;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;61;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;13;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -752,7 +753,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;6;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;23;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;22;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -992,7 +993,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.22.01;Carrinho de Bebê Up Black - Burigotto;959.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.21.10;Carrinho de Bebê Up! Metal Prata - Burigotto;979.9;5;Passeio;Carrinho de Bebê
 8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;4829.9;6;Carrinho de Bebê;Carrinho Travel System
-8.09.76.45.10;Carrinho de Bebê Versatrax E Travel System Trio Pebble Cinza - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
+8.09.76.45.10;Carrinho de Bebê Versatrax E Travel System Trio Pebble Cinza - Joie;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.46.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Moon Light - Joie;0.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.76.82.57;Carrinho de Bebê Versiti Areia Sandstone - Joie;4679.1;3;Passeio;Carrinho de Bebê
 8.09.76.81.10;Carrinho de Bebê Versiti Chumbo Ebony - Joie;4679.1;2;Passeio;Carrinho de Bebê
@@ -1453,7 +1454,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;382;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;379;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -1492,7 +1493,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.07.11;Troninho Infantil Sanny Verde Água - Cosco;19.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;24;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;23;Banho e Higiene;Utensílios de Higiene
 8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;2;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
