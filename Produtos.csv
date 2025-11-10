@@ -9,7 +9,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;39.9;4;Banho e Higiene;Utensílios de Higiene
-8.12.01.09.01;Alça de Segurança Antiqueda para TV Black - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
+8.12.01.09.01;Alça de Segurança Antiqueda para TV Black - Safety 1st;19.9;1;Travas e Protetores;Travas e Protetores
 8.24.118.04.16;Alimentador de Frutas e Papinhas com Redinha Amarela - Munchkin;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.68.07;Alimentador de Silicone 3 Bicos Azul - Infanti;39.9;4;Alimentação;Acessórios de Alimentação
 8.24.120.06.07;Alimentador de Silicone Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
@@ -88,7 +88,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;20;Passeio;Cadeira para Carro
-8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;1;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
@@ -757,7 +756,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;6;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;24;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;23;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -909,7 +908,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;7;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;16;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;15;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1162,7 +1161,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.74.01.01;Espelho para Carro Howdy Kiddo;174.9;1;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
 8.25.47.34.113;Espelho Retrovisor Grande Para Banco Traseiro KaBaby Roxo;99.9;3;Alimentação;Acessórios de Alimentação
-8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;5;Passeio;Acessórios para Passeio
+8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;4;Passeio;Acessórios para Passeio
 8.25.35.28.00;Espelho Retrovisor Para Banco Traseiro Baby Look Multikids Baby;69.9;1;Passeio;Acessórios para Passeio
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;13;Passeio;Acessórios para Passeio
 8.30.33.59.69;Estação de DJ Tiny Rockers - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos Diversos
@@ -1413,7 +1412,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.11.69;Tapete de Atividades Super Mat Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;1;Brinquedo e Diversão;Ginásios
 8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;13;Brinquedo e Diversão;Ginásios
