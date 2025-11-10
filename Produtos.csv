@@ -219,7 +219,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.04.10;Berço Portátil Happy Cinza - Cosco;719.9;2;Quarto;Berço
 8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;773.99;1;Berço para quarto;Berços Portáteis
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;2;Quarto;Berço
-8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;6;Quarto;Berço
+8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;5;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;4;Quarto;Berço
 8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;629.9;11;Quarto;Berço
 8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;599.9;2;Quarto;Berço
@@ -314,7 +314,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.08.07;Bongo Musical Infantil Azul - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - Buba;29.9;5;Alimentação;Acessórios de Alimentação
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
-8.24.23.52.07;Bowl de Silicone Piccolo Ursinho Azul - Infanti;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.55.57;Bowl de Silicone Piccolo Ursinho Terracota - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
 8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;8;Brinquedo e Diversão;Brinquedos
@@ -375,7 +374,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;156;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;54;Alimentação;Cadeira de Refeição
+8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;53;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;83;Alimentação;Cadeira de Refeição
 8.06.04.04.18;Cadeira de Alimentação Portátil Smart Rosa - Cosco;183.9;1;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
@@ -738,7 +737,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;154;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;315;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;147;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;290;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
@@ -1171,7 +1170,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;2;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;1;Passeio;Acessórios para Passeio
 8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;5;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1444,7 +1443,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;374;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;373;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -1468,6 +1467,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
 6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;1;Brinquedo e Diversão;Andador
 6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;2;Brinquedo e Diversão;Andador
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;279.9;1;Quarto;Trocador
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.27.01.02.18;Troninho Infantil Flex Potty 3 in 1 Pink - Safety 1st;149.9;1;Banho e Higiene;Troninho
@@ -1482,7 +1482,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.07.11;Troninho Infantil Sanny Verde Água - Cosco;19.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;23;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;22;Banho e Higiene;Utensílios de Higiene
 8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;2;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
