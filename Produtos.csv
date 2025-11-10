@@ -75,7 +75,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;6;Brinquedo e Diversão;Brinquedos
-8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
+8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;6;Disponível 01;Brinquedos Diversos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
@@ -907,7 +907,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;7;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;4;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;15;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;14;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1144,7 +1144,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;6;Banho e Higiene;Utensílios de Higiene
+8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;5;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;69.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1381,7 +1381,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;5;Quarto;Quarto
 8.60.171.11.18;Saco de Dormir Swaddle em Algodão Rosa Cereja P - Casulo;0.0;13;Quarto;Quarto
-8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;25;Quarto;Quarto
+8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;24;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
