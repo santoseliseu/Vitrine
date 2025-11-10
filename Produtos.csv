@@ -46,7 +46,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;10;Passeio;Acessório para Passeio
-8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;4;Passeio;Acessório para Passeio
+8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;3;Passeio;Acessório para Passeio
 8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;7;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;3;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
@@ -67,7 +67,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
 8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;322.15;2;Brinquedo e Diversão;Andador
 8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;289.9;1;Brinquedo e Diversão;Andador
-8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
+8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Andador
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;19.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
@@ -434,7 +434,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;1359.9;2;Passeio;Cadeira para Carro
 8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;0.0;3;Passeio;Cadeira para Carro
-8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;7;Cadeirinha de Auto;Cadeirinha de Auto
+8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;6;Cadeirinha de Auto;Cadeirinha de Auto
 8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;10;Passeio;Cadeira para Carro
 8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;24;Passeio;Cadeira para Carro
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
@@ -541,7 +541,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;33;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
@@ -1444,7 +1444,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;376;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;374;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -1468,7 +1468,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
 6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;1;Brinquedo e Diversão;Andador
 6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;2;Brinquedo e Diversão;Andador
-8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;279.9;1;Quarto;Trocador
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.27.01.02.18;Troninho Infantil Flex Potty 3 in 1 Pink - Safety 1st;149.9;1;Banho e Higiene;Troninho
