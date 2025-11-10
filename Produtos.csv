@@ -141,7 +141,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;57;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;29;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;15;Banho e Higiene;Banheira
-8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
+8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;47;Banho e Higiene;Banheira
 8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;435.0;8;Banho e Higiene;Banheira
@@ -180,7 +180,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
-8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;3;Passeio;Bebê Conforto
+8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;2;Passeio;Bebê Conforto
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;2;Passeio;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.76.04.01;Bebê Conforto Gemm 0 a 13 kg Preto Chumbo Shale - Joie;899.9;1;Passeio;Bebê Conforto
@@ -441,7 +441,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.01.31.27;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Grey Urban - Safety 1st;1359.9;2;Passeio;Cadeira para Carro
 8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;0.0;3;Passeio;Cadeira para Carro
-8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;11;Cadeirinha de Auto;Cadeirinha de Auto
+8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;10;Cadeirinha de Auto;Cadeirinha de Auto
 8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;10;Passeio;Cadeira para Carro
 8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;24;Passeio;Cadeira para Carro
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
@@ -618,12 +618,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.76.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Chumbo Shale - Joie;0.0;4;Carrinho de Passeio;Travel System
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.123.01;Carrinho de Bebê Griffy Preto - Cosco;749.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;10;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;23;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.117.01;Carrinho de Bebê Hobby Preto Mescla - Cosco;609.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -860,7 +859,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;7;Disponível 01;Brinquedos Diversos
 8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
+8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.05.18;Mochila com Guia Unicórnio Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1210,7 +1209,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.56.00;Garrafinha De Alumínio 450ml Animal Fun Leão - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
-8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;1;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;36;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
@@ -1397,7 +1395,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;3;Banho e Higiene;Banheira
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;2;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;42;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1475,7 +1473,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.37.69;Treme-Treme De Atividades Zoo Unicórnio - Buba;89.9;1;Brinquedo e Diversão;Brinquedos
-8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
+8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;6;Brinquedo e Diversão;Andador
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;1;Brinquedo e Diversão;Brinquedos
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
