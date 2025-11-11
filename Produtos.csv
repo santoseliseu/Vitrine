@@ -19,7 +19,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;33;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;14;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;12;Alimentação;Amamentação
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
@@ -127,7 +127,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;437;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;686;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;685;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
@@ -219,7 +219,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;2;Quarto;Berço
 8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;5;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;4;Quarto;Berço
-8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;629.9;11;Quarto;Berço
+8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;629.9;10;Quarto;Berço
 8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;599.9;2;Quarto;Berço
 8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;599.9;2;Berço para quarto;Berço
 8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;699.9;4;Quarto;Berço
@@ -398,7 +398,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.28.10;Cadeira de Refeição Prima Pappa 0 a 3 Anos Cinza - Burigotto;799.9;3;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;4;Alimentação;Cadeira de Refeição
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;230;Móveis;Cadeira
-21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;236;Móveis;Cadeira
+21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;235;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;9;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;12;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
@@ -571,7 +571,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.103.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Sport - Safety 1st;2709.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.62.01;Carrinho de Bebê Breeze Preto - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -892,7 +892,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;5;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;3;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;9;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;7;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1275,7 +1275,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.49.07;Prato De Silicone Com Divisória E Ventosa Azul - Clingo;99.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.48.07;Prato de Silicone com Divisórias Piccolo Azul - Infanti;64.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.50.18;Prato de Silicone com Divisórias Piccolo Rosa - Infanti;49.9;3;Alimentação;Acessórios de Alimentação
-8.24.23.51.57;Prato de Silicone com Divisórias Piccolo Terracota - Infanti;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.49.11;Prato de Silicone com Divisórias Piccolo Verde - Infanti;59.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.50.18;Prato De Silicone Flex Com Divisória e Ventosa Rosa - Clingo;99.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.52.00;Prato De Silicone Flex Com Ventosa Formato Leão Bege - Clingo;89.9;2;Alimentação;Acessórios de Alimentação
@@ -1431,7 +1430,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;340;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;339;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
