@@ -45,7 +45,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;41;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;10;Passeio;Acessório para Passeio
+8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;9;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;3;Passeio;Acessório para Passeio
 8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;5;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;3;Travas e Protetores;Travas e Protetores
@@ -74,7 +74,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;6;Disponível 01;Brinquedos Diversos
-8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
@@ -91,7 +91,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
 8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;24;Quarto;Babá Eletrônica
-8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;5;Quarto;Babá Eletrônica
+8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;4;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
@@ -315,6 +315,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.55.57;Bowl de Silicone Piccolo Ursinho Terracota - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
 8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;8;Brinquedo e Diversão;Brinquedos
+8.30.33.35.00;Brinquedo Chocalho e MordedorTeether Rattle Leonardo - Tiny Love;29.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.50.00;Brinquedo Chocalho Panda Black & White - Tiny Love;69.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.33.61.69;Brinquedo Educativo de Encaixe Tiny Rockers - Tiny Love;169.9;6;Brinquedo e Diversão;Brinquedos
@@ -326,7 +327,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.65.69;Brinquedo Para Banho Com Ventosa Amigos Marinhos - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
 8.30.96.01.00;Brinquedo Submarino Discovery Musical Toy - Baby Einstein;159.9;4;Brinquedo e Diversão;Brinquedos
 8.30.33.20.00;Brinquedo Wind Chime Christopher - Tiny Love;39.9;5;Brinquedo e Diversão;Brinquedos
-8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;44.9;3;Brinquedo e Diversão;Brinquedos
+8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;44.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.39.00;Brinquedo Wonder Buddies Thomas - Tiny Love;129.9;3;Brinquedo e Diversão;Brinquedos
 8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;39.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.57.99.00;Buzininha Com Mordedor Buba Zoo Dino - Buba;39.9;1;Brinquedo e Diversão;Mordedores
@@ -535,7 +536,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;31;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
@@ -571,7 +572,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.103.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Sport - Safety 1st;2709.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.62.01;Carrinho de Bebê Breeze Preto - Infanti;719.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -694,6 +694,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.25.69.08.00;Lava Roupas Concentrado Detergente Natural - Bioclub Baby;39.9;10;Banho e Higiene;Utensílios de Higiene
+8.25.57.181.18;Lavador Nasal Seringa Dino Rosa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.179.01.06;Lenço Repelente com Aloe Vera Com 16 Lenços - Bug Boom;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.75.64.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Astronauta - D´Bella for Baby;229.9;2;Quarto;Berço
 8.25.75.66.69;Lençol de Berço e Mini Cama Percal 200 Fios 3 Peças Boneca - D´Bella for Baby;229.9;1;Quarto;Berço
@@ -742,7 +743,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;6;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;18;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;16;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -816,6 +817,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.89.09.18;Mamadeira Anticólica Essence TC Smart Flow 270ml Girl - NUK;69.9;1;Alimentação;Acessórios de Alimentação
 8.24.89.07.18;Mamadeira First Choice Controle de Temperatura 300ml Rosa – NUK;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.53.71.07;Mamadeira Step Up 250Ml Fluxo Médio (2M+) Azul Chicco;29.9;2;Alimentação;Acessórios de Alimentação
+8.24.53.13.18;Mamadeira Step Up 2M+ 250ML Fluxo Médio Rosa - Chicco;74.9;1;Alimentação;Acessórios de Alimentação
 8.25.23.26.10;Manta Infanti Média Infanti - Cinza;79.9;1;Quarto;Quarto
 8.25.57.18.00;Massageador de Gengiva Com Estojo - Buba;9.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.147.16;Massageador De Gengiva Milho - Buba;19.9;6;Brinquedo e Diversão;Mordedores
@@ -892,7 +894,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;5;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;3;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;7;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;5;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1028,7 +1030,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;29.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.30.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Azul e Branco - Chicco;34.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;17;Brinquedo e Diversão;Chupetas
-8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;16;Brinquedo e Diversão;Chupetas
+8.25.53.16.00;Chupeta Physio Forma Soft 6-16M Transparente - Chicco;11.9;15;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;19;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1331,7 +1333,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;5;Alimentação;Acessórios de Alimentação
 8.25.53.01.00;Protetores de Seios em Silicone Tamanho P-M - Chicco;29.9;1;Alimentação;Acessórios de Alimentação
 8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;3;Travas e Protetores;Travas e Protetores
-8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;6;Travas e Protetores;Travas e Protetores
+8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;5;Travas e Protetores;Travas e Protetores
 8.25.02.06.06;Purificador de Ar Clean 3 em 1 White - Maxi-Cosi;0.0;3;Cuidados;Cuidados
 8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;39.9;2;Alimentação;Acessórios de Alimentação
 8.01.71.02.18;Rede de Banheira Infantil Premium Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1347,7 +1349,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.108.02.00;Repelente Spray Protec Aplicação em Roupas e Tecidos em Geral - Aya Tech;79.9;3;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;4;Brinquedo e Diversão;Brinquedos
-8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;8;Alimentação;Acessórios de Alimentação
+8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;7;Alimentação;Acessórios de Alimentação
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.41.00;Rosquinhas de Amamentação Nude - D´Bella for Baby;59.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.39.18;Rosquinhas de Amamentação Rosa - D´Bella for Baby;59.9;1;Alimentação;Acessórios de Alimentação
@@ -1430,7 +1432,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;339;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;338;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
