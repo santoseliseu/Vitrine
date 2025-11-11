@@ -42,7 +42,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;42;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;41;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;10;Passeio;Acessório para Passeio
@@ -84,7 +84,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
-8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;19;Passeio;Cadeira para Carro
+8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;18;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;23;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
@@ -193,7 +193,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;2;Bebê Conforto;Bebê Conforto
 8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;7;Passeio;Bebê Conforto
-8.03.02.28.01;Bebê Conforto Zion Preto Bold - Infanti;0.0;1;Passeio;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas;Gravidicas
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
@@ -940,7 +939,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;999.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.25.10;Carrinho de Bebê Parcel Carbon - Joie;2999.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
@@ -1035,7 +1033,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
-8.25.57.209.18;Cinta Térmica Infantil Herbal para Cólica Rosa - Buba;49.9;1;Cuidados;Cuidados
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;13;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;9;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;5;Passeio;Acessórios para Passeio
@@ -1332,9 +1329,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;4;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
-8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;6;Alimentação;Acessórios de Alimentação
-8.25.53.01.00;Protetores de Seios em Silicone Tamanho P-M - Chicco;29.9;2;Alimentação;Acessórios de Alimentação
-8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;4;Travas e Protetores;Travas e Protetores
+8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;5;Alimentação;Acessórios de Alimentação
+8.25.53.01.00;Protetores de Seios em Silicone Tamanho P-M - Chicco;29.9;1;Alimentação;Acessórios de Alimentação
+8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;6;Travas e Protetores;Travas e Protetores
 8.25.02.06.06;Purificador de Ar Clean 3 em 1 White - Maxi-Cosi;0.0;3;Cuidados;Cuidados
 8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;39.9;2;Alimentação;Acessórios de Alimentação
@@ -1434,7 +1431,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;345;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;340;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
