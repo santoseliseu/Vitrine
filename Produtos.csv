@@ -91,7 +91,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
 8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;24;Quarto;Babá Eletrônica
-8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;4;Quarto;Babá Eletrônica
+8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;3;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
@@ -128,7 +128,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;437;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;685;Banho e Higiene;Banheira
-8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
@@ -314,7 +313,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.55.57;Bowl de Silicone Piccolo Ursinho Terracota - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
-8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;8;Brinquedo e Diversão;Brinquedos
+8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;7;Brinquedo e Diversão;Brinquedos
 8.30.33.35.00;Brinquedo Chocalho e MordedorTeether Rattle Leonardo - Tiny Love;29.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.50.00;Brinquedo Chocalho Panda Black & White - Tiny Love;69.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
@@ -382,7 +381,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;0.0;5;Quarto;Cadeira de Descanso
 8.05.03.02.18;Cadeira de Descanso Bouncer Relax Rosa Solar - Voyage;199.9;2;Quarto;Cadeira de Descanso
 8.05.01.12.00;Cadeira de Descanso Bouncer Sunshine Baby Pet's World - Safety 1st;469.9;1;Quarto;Cadeira de Descanso
-8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;0.0;6;Quarto;Cadeira de Descanso
+8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;0.0;5;Quarto;Cadeira de Descanso
 8.05.02.14.12;Cadeira de Descanso Bouncer Swing Cassia Classic Oat - Maxi-Cosi;0.0;1;Quarto;Cadeira de Descanso
 8.05.61.07.18;Cadeira de Descanso Carnaval Até 9 kg Rosa Girafa - Mastela;259.9;2;Quarto;Cadeira de Descanso
 8.05.61.28.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Macaquinho - Mastela;699.9;16;Quarto;Cadeira de Descanso
@@ -530,7 +529,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.85.01;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Black Chrome - Safety 1st;3259.9;3;Carrinho de Bebê;Carrinho Travel System
-8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;20;Carrinho de Bebê;Carrinho Travel System
+8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;19;Carrinho de Bebê;Carrinho Travel System
 8.09.03.114.10;Carrinho com Bebê Conforto Travel System Duo Choice Cinza Melange - Voyage;1019.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;1160.1;5;Carrinho de Bebê;Carrinho Travel System
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
@@ -538,7 +537,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
-8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;24;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
@@ -623,7 +622,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.05.18;Kit 3 Colheres Daily Cinza Rosa e Amarelo – Clingo;19.9;9;Alimentação;Acessórios de Alimentação
 8.24.70.10.18;Kit 3 Copos de Transição Smart 250ml Rosa - Clingo;39.9;8;Alimentação;Acessórios de Alimentação
 8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;29.9;2;Alimentação;Acessórios de Alimentação
-8.24.23.03.18;Kit 4 Copos Infantis 200 ml Rosa e Roxo - Infanti;24.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.12.69;Kit 4 Copos Infantis 380 ml Colorido - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.45.62;Kit 4 Potes Infantis Multiuso 236ml Infanti Azul e Amarelo;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.44.114;Kit 4 Potes Infantis Multiuso 236ml Infanti Rosa e Roxo;29.9;1;Alimentação;Acessórios de Alimentação
@@ -950,7 +948,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;72;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;21;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;20;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.97.18;Carrinho de Bebê Reverse Cosco - Rosa;859.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1163,11 +1161,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;1;Passeio;Acessórios para Passeio
 8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;5;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
+8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;59.9;4;Alimentação;Acessórios de Alimentação
 8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;59.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.15.00;Garrafa com Canudo Flip Zoo 384 ml Koala - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1431,7 +1429,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;336;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;334;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
