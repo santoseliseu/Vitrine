@@ -480,7 +480,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;4;Passeio;Canguru
-8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;11;Passeio;Canguru
+8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;10;Passeio;Canguru
 8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;569.9;2;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
@@ -513,7 +513,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;39.9;1;Passeio;Acessórios para Passeio
 8.09.104.02.10;Capota para Carrinho de Bebê Spring Shadow Grey - Thule;569.9;1;Passeio;Acessórios para Passeio
 8.09.23.81.01;Carrinho com Bebê Conforto e Base Isofix Travel System Trio Romanzo Preto Bronze - Infanti;0.0;6;Carrinho de Bebê;Carrinho Travel System
-8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;81;Carrinho de Bebê;Carrinho Travel System
+8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;80;Carrinho de Bebê;Carrinho Travel System
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.23.78.10;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Cinza Névoa - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -571,7 +571,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho Travel System
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
@@ -1064,7 +1064,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.98.02.18;Colher Soft Spoon 8m+ Ergonômica Rosa - Ibimboo;19.9;4;Alimentação;Acessórios de Alimentação
 8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;21.9;88;Banho e Higiene;Utensílios de Higiene
 21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;156;Móveis;Cadeira
-21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;139;Móveis;Cadeira
+21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;140;Móveis;Cadeira
 21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;159;Móveis;Cadeira
 8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;99.9;1;Alimentação;Acessórios para alimentação
 8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
@@ -1118,7 +1118,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.57.69;Cubo de Atividades 7 em 1 - Buba;119.9;1;Brinquedo e Diversão;Brinquedos
 8.25.70.26.10;Degrau Infantil Antiderrapante Step Dots Cinza - Clingo;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.29.01.01.16;Degrau Infantil Duck Step - Safety 1st;39.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;10;Banho e Higiene;Utensílios de Higiene
+8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.69.31.00;Difusor De Ambientes Com 5 Bastões Baby Home 200ml - BioClub;39.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;3;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
@@ -1425,7 +1425,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;304;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;303;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
