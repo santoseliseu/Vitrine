@@ -19,7 +19,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;33;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;10;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;8;Alimentação;Amamentação
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
@@ -88,7 +88,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;24;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;23;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;3;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -153,7 +153,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
 8.01.01.16.18;Banheira de Bebê Smile com Suporte Pink - Safety 1st;679.9;3;Banho e Higiene;Banheira
-8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;22;Banho e Higiene;Banheira
+8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;21;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;10;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
 8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
@@ -588,7 +588,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;26;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;25;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;60;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -670,7 +670,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;537;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;257;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;150;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;149;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;158;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;147;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -723,7 +723,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;120;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;189;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;158;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;151;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;150;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;312;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;147;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
