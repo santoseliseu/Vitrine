@@ -532,7 +532,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
-8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
+8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;24;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -569,7 +569,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;31;Carrinho de Bebê;Carrinho Travel System
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
@@ -721,7 +721,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;479;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;120;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;189;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;188;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;158;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;150;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;312;Casa;Lixeira
@@ -1318,7 +1318,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;20;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;19;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;5;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1421,7 +1421,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;301;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;299;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
