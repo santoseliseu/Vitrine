@@ -71,7 +71,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;6;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
@@ -131,7 +131,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;23;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;56;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;55;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;29;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;12;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
@@ -409,7 +409,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;7;Passeio;Cadeira para Carro
 8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;8;Passeio;Cadeira para Carro
 8.07.04.51.10;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Cinza Mescla - Cosco;1239.9;2;Passeio;Cadeira para Carro
-8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;4;Passeio;Cadeira para Carro
+8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;3;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;10;Passeio;Cadeira para Carro
 8.07.01.33.01;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Black Urban - Safety 1st;2539.9;2;Passeio;Cadeira para Carro
 8.07.01.34.27;Cadeirinha de Carro i-NXT 360º 0 a 36 Kg Grey Urban - Safety 1st;2199.9;4;Passeio;Cadeira para Carro
@@ -1111,7 +1111,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.31.00;Difusor De Ambientes Com 5 Bastões Baby Home 200ml - BioClub;39.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;3;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
-8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;6;Banho e Higiene;Utensílios de Higiene
+8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.53.00;Escova De Dentes 3A+ Rosa - Chicco;14.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1288,7 +1288,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.02.00;Prendedor de Chupeta e Talher Leão - Marcus&Marcus;49.9;1;Brinquedo e Diversão;Chupetas
 8.25.72.12.00;Prendedor De Chupeta e Talher Multi Uso Elefante Ollie Marcus & Marcus;49.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.01.00;Prendedor de Chupeta e Talher Porquinho - Marcus&Marcus;49.9;1;Brinquedo e Diversão;Chupetas
-8.25.53.25.00;Prendedor De Chupeta Fashion Clip Azul - Chicco;19.9;7;Brinquedo e Diversão;Chupetas
 8.24.149.53.06;Prendedor de Chupeta Klips Cloudy White - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.24.149.54.07;Prendedor de Chupeta Klips Dreamy Blue - Minikoioi;59.9;1;Brinquedo e Diversão;Chupetas
 8.25.70.16.07;Prendedor de Chupetas Avião - Clingo;19.9;1;Brinquedo e Diversão;Chupetas
