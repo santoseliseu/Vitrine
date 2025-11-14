@@ -35,7 +35,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;23;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;2;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
@@ -88,7 +88,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;21;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;20;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;3;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -152,7 +152,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
 8.01.01.16.18;Banheira de Bebê Smile com Suporte Pink - Safety 1st;679.9;3;Banho e Higiene;Banheira
-8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;16;Banho e Higiene;Banheira
+8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;15;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;10;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
 8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
@@ -363,7 +363,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;137;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;136;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;52;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;83;Alimentação;Cadeira de Refeição
@@ -516,7 +516,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.78.10;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Cinza Névoa - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.77.01;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Preto Ouro - Infanti;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.103.05.10;Carrinho com Bebê Conforto e Base Travel System Kansas Silver e Preto Premium Baby;2085.9;2;Carrinho de Bebê;Carrinho Travel System
-8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -527,7 +526,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho Travel System
-8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;17;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
@@ -732,7 +731,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;6;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;10;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;8;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -1341,7 +1340,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;15;Quarto;Quarto
 8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
-8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;7;Quarto;Quarto
+8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;6;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;5;Quarto;Quarto
 8.60.171.11.18;Saco de Dormir Swaddle em Algodão Rosa Cereja P - Casulo;0.0;13;Quarto;Quarto
