@@ -125,7 +125,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;435;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;682;Banho e Higiene;Banheira
-8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
+8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;1;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
@@ -152,7 +152,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
 8.01.01.16.18;Banheira de Bebê Smile com Suporte Pink - Safety 1st;679.9;3;Banho e Higiene;Banheira
-8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;10;Banho e Higiene;Banheira
+8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;9;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;10;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
 8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
@@ -310,7 +310,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.55.57;Bowl de Silicone Piccolo Ursinho Terracota - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
-8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;7;Brinquedo e Diversão;Brinquedos
+8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.50.00;Brinquedo Chocalho Panda Black & White - Tiny Love;69.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.33.61.69;Brinquedo Educativo de Encaixe Tiny Rockers - Tiny Love;169.9;6;Brinquedo e Diversão;Brinquedos
@@ -596,7 +596,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;22;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.117.01;Carrinho de Bebê Hobby Preto Mescla - Cosco;609.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1126,7 +1125,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.72.07.18;Escova Massageadora em Silicone Porquinho - Marcus&Marcus;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;37.9;24;Banho e Higiene;Utensílios de Higiene
-8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;3;Passeio;Acessórios para Passeio
+8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;2;Passeio;Acessórios para Passeio
 8.25.47.33.07;Espelho Grande - Banco Traseiro Azul;109.9;1;Passeio;Acessórios para Passeio
 8.25.74.01.01;Espelho para Carro Howdy Kiddo;174.9;1;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
