@@ -71,7 +71,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
-8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;4;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
@@ -211,7 +211,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.04.10;Berço Portátil Happy Cinza - Cosco;719.9;2;Quarto;Berço
 8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;773.99;1;Berço para quarto;Berços Portáteis
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;1;Quarto;Berço
-8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;5;Quarto;Berço
+8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;4;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;4;Quarto;Berço
 8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;629.9;10;Quarto;Berço
 8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;599.9;2;Quarto;Berço
@@ -272,7 +272,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;239.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.30.148.63.10;Bolsa Infantil Plush Jimbao Alça Tiracolo Ratinha - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
 8.11.01.04.01;Bolsa Organizadora Buddy Reserva Black - Safety 1st;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.09.01.59.01;Bolsa Organizadora Grey - Safety 1st;89.9;5;Passeio;Acessórios para Passeio
+8.09.01.59.01;Bolsa Organizadora Grey - Safety 1st;89.9;4;Passeio;Acessórios para Passeio
 8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
@@ -426,7 +426,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;17;Passeio;Cadeira para Carro
-8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;7;Passeio;Cadeira para Carro
+8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;6;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;3;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;4;Passeio;Cadeira para Carro
@@ -876,7 +876,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;2;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.30.53.66.08;Mordedor Molly Eco Caracol Vermelho - Chicco;19.9;1;Brinquedo e Diversão;Mordedores
 8.25.94.11.00;Mordedor So'Pure Aro Sophie La Girafa - Vulli;169.9;4;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;3;Brinquedo e Diversão;Mordedores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
@@ -1310,7 +1309,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;5;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
-8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;5;Alimentação;Acessórios de Alimentação
+8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;4;Alimentação;Acessórios de Alimentação
 8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;5;Travas e Protetores;Travas e Protetores
 8.25.02.06.06;Purificador de Ar Clean 3 em 1 White - Maxi-Cosi;0.0;3;Cuidados;Cuidados
 8.25.53.04.00;Recipiente Para Leite Materno 150ml WellBeing Chicco 4 Peças;39.9;1;Alimentação;Acessórios de Alimentação
@@ -1409,7 +1408,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;277;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;276;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
