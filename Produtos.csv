@@ -41,7 +41,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;42;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;41;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;8;Passeio;Acessório para Passeio
@@ -85,7 +85,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;17;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;16;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;3;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;2;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -824,7 +824,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.48.06;Móbile Para Berço Luxe Musical Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
-8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
+8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;1;Disponível 01;Brinquedos Diversos
 8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1401,7 +1401,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;265;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;264;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
