@@ -74,7 +74,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;47;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;61;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;60;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -129,7 +129,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;23;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;55;Banho e Higiene;Banheira
-8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;29;Banho e Higiene;Banheira
+8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;12;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -518,7 +518,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;19;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
@@ -710,7 +710,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;186;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;158;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;150;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;311;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;310;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;147;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -926,7 +926,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;71;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;15;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;14;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.97.18;Carrinho de Bebê Reverse Cosco - Rosa;859.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1400,7 +1400,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;264;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;263;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
