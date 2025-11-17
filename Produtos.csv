@@ -120,7 +120,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;435;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;681;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;680;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
@@ -163,7 +163,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;1;Passeio;Base para Bebê Conforto
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;2;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
-8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;22;Passeio;Base para Bebê Conforto
+8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;21;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
@@ -213,7 +213,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;599.9;2;Berço para quarto;Berço
 8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;699.9;4;Quarto;Berço
 8.04.01.11.27;Berço Portátil Side by Side Gray - Safety 1st;1209.9;2;Quarto;Berço
-8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;449.9;2;Quarto;Berço
+8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;449.9;1;Quarto;Berço
 8.04.23.10.07;Berço Portátil Stelle Blue Cozy - Infanti;0.0;2;Quarto;Berço
 8.04.61.03.11;Berço Techno Bluetooth Balanço com Timer e Música Chumbo e Verde - Mastela;1329.9;23;Quarto;Berço
 8.04.61.02.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Claro - Mastela;1521.9;5;Quarto;Berço
@@ -231,7 +231,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;3;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;224.91;2;Bicicletas;Infantil
-6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;4;Bicicletas;Infantil
+6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;3;Bicicletas;Infantil
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;3;Bicicletas;Infantil
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;4;Bicicletas;Infantil
@@ -270,7 +270,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;2;Banho e Higiene;Utensílios de Higiene
-8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;5;Alimentação;Acessórios de Alimentação
+8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;4;Alimentação;Acessórios de Alimentação
 8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;7;Alimentação;Acessórios de Alimentação
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
@@ -460,14 +460,14 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.98.01.07;Canguru Infantil 3 em 1 até 12 kg Azul - Ibimboo;169.9;6;Passeio;Canguru
 8.08.98.06.08;Canguru Infantil 3 Em 1 Até 12Kg Vermelho Marsala - Ibimboo;169.9;4;Passeio;Canguru
 8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;0.0;2;Passeio;Canguru
-8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;4;Passeio;Canguru
+8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;2;Passeio;Canguru
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;60;Passeio;Canguru
 8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;139.9;2;Passeio;Canguru
 8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;20;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;4;Passeio;Canguru
-8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;2;Passeio;Canguru
+8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;1;Passeio;Canguru
 8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;569.9;2;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
@@ -712,7 +712,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
-8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;14;Quarto;Quarto
+8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;13;Quarto;Quarto
 8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;3;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;6;Quarto;Decoração
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
@@ -734,7 +734,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.26.138.47.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 12 meses;109.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.48.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);99.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.49.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);99.9;6;Roupas de Bebê;Roupas de Bebê
-8.26.138.44.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 3 meses;109.9;2;Roupas de Bebê;Roupas de Bebê
+8.26.138.44.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 3 meses;109.9;1;Roupas de Bebê;Roupas de Bebê
 8.26.138.45.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 6 meses;109.9;6;Roupas de Bebê;Roupas de Bebê
 8.26.138.46.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 9 meses;109.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.43.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - Recém nascido;109.9;8;Roupas de Bebê;Roupas de Bebê
@@ -1282,7 +1282,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;2;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;8;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;6;Banho e Higiene;Utensílios de Higiene
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;8;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;7;Travas e Protetores;Travas e Protetores
@@ -1348,7 +1348,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;23;Brinquedo e Diversão;Tapetes
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
+8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;13;Brinquedo e Diversão;Ginásios
 8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;599.9;6;Brinquedo e Diversão;Ginásios
@@ -1382,8 +1382,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.111.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Clássico Aviões - D´Bella for Baby;139.9;2;Higene;Utensílios de Higiene
 8.25.75.114.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorida Cavalo - D´Bella for Baby;139.9;3;Higene;Utensílios de Higiene
 8.25.75.115.06;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorido Laço - D´Bella for Baby;139.9;4;Higene;Utensílios de Higiene
-8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;4;Banho e Higiene;Toalha
-8.25.75.73.00;Toalha de Banho Pequena Estampada Borboletas - D´Bella for Baby;139.9;1;Banho e Higiene;Toalha
+8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;3;Banho e Higiene;Toalha
 8.25.57.188.07;Toalha Poncho Aventuras Tubarão Azul - Buba;129.9;1;Banho e Higiene;Toalha
 8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;2;Banho e Higiene;Toalha
 8.30.57.09.69;Torre Espiral de Bola Buba Colorido;89.9;1;Brinquedo e Diversão;Brinquedos
@@ -1393,7 +1392,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;246;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;245;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -1429,7 +1428,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.07.11;Troninho Infantil Sanny Verde Água - Cosco;19.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;14;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;12;Banho e Higiene;Utensílios de Higiene
 8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;2;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
