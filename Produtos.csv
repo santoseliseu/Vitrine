@@ -298,7 +298,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.55.57;Bowl de Silicone Piccolo Ursinho Terracota - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
-8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;3;Brinquedo e Diversão;Brinquedos
+8.30.53.17.69;Brinquedo Ábaco Contar & Soma Chicco Colorido;84.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.50.00;Brinquedo Chocalho Panda Black & White - Tiny Love;69.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.33.61.69;Brinquedo Educativo de Encaixe Tiny Rockers - Tiny Love;169.9;6;Brinquedo e Diversão;Brinquedos
@@ -413,13 +413,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;17;Passeio;Cadeira para Carro
-8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;5;Passeio;Cadeira para Carro
+8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;4;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;3;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;4;Passeio;Cadeira para Carro
 8.07.04.36.01;Cadeirinha de Carro Unique 0 a 36kg Preto Sport - Cosco;1119.9;3;Passeio;Cadeira para Carro
 8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;889.9;3;Passeio;Cadeira para Carro
-8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.103.09.01;Cadeirinha para Carro Comfort Grow Black - Premium Baby;629.1;1;Passeio;Cadeira para Auto
 8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;3099.9;2;Passeio;Cadeira para Carro
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
@@ -526,7 +525,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.67.10;Carrinho com Bebê Conforto Travel System Reverse Cinza Rajado - Cosco;1099.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.135.01;Carrinho com Bebê Conforto Travel System Reverse Duo Preto Onda - Cosco;1039.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.136.18;Carrinho com Bebê Conforto Travel System Reverse Duo Rosa Onda - Cosco Kids;1217.07;2;Carrinho de Bebê;Carrinho Travel System
-8.09.04.127.01;Carrinho com Bebê Conforto Travel System Reverse Preto Bronze - Cosco;1129.9;4;Carrinho de Bebê;Carrinho Travel System
+8.09.04.127.01;Carrinho com Bebê Conforto Travel System Reverse Preto Bronze - Cosco;1129.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;5;Carrinho de Bebê;Carrinho Travel System
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;5;Carrinho de Bebê;Carrinho Travel System
@@ -1282,7 +1281,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;16;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;14;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;5;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1337,7 +1336,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;23;Brinquedo e Diversão;Tapetes
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;5;Brinquedo e Diversão;Tapetes
-8.13.33.06.00;Tapete Deluxe Gymini Tiny Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Ginásios
 8.13.57.01.69;Tapete Dobrável Infantil Para Praia Buba Colorido;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;13;Brinquedo e Diversão;Ginásios
 8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;599.9;6;Brinquedo e Diversão;Ginásios
