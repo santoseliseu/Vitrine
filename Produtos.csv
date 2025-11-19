@@ -347,7 +347,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.03.12.10;Cadeira de Alimentação Portátil Cake Cinza - Voyage;159.9;1;Alimentação;Cadeira de Refeição
 8.06.74.04.07;Cadeira de Alimentação Portátil Candy Azul - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
-8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
+8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;136;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
@@ -455,7 +455,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;2;Passeio;Canguru
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;60;Passeio;Canguru
 8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;139.9;2;Passeio;Canguru
-8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;19;Passeio;Canguru
+8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;18;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;4;Passeio;Canguru
@@ -498,6 +498,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.78.10;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Cinza Névoa - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.77.01;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Preto Ouro - Infanti;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.103.05.10;Carrinho com Bebê Conforto e Base Travel System Kansas Silver e Preto Premium Baby;2085.9;2;Carrinho de Bebê;Carrinho Travel System
+8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;90;Carrinho de Bebê;Carrinho Travel System
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.20.01;Carrinho com Bebê Conforto e Moisés Versatrax E Travel System TRIO Preto Pavement - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -507,8 +508,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho Travel System
-8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;115;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;38;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -529,8 +531,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;5;Carrinho de Bebê;Carrinho Travel System
 8.09.28.88.01;Carrinho com Bebê Conforto Travel System Romano Preto e Cobre - Galzerano;1169.1;3;Carrinho de Bebê;Carrinho Travel System
 8.09.23.74.01;Carrinho com Bebê Conforto Travel System Romanzo Duo Preto Bronze - Infanti;0.0;15;Carrinho de Bebê;Carrinho Travel System
-8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
-8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;34;Carrinho de Bebê;Carrinho Travel System
+8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;51;Carrinho de Bebê;Carrinho Travel System
+8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;54;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.96.35;Carrinho com Bebê Conforto Travel System Trio Mobi Black & White - Safety 1St;2539.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -546,6 +548,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
+8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;100;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.36.01;Carrinho de Bebê Combo Parcel Eclipse com Bebê Conforto I-snug Shale - Joie;3599.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
@@ -566,7 +569,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;64;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;83;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;39;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.76.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Chumbo Shale - Joie;0.0;4;Carrinho de Passeio;Travel System
@@ -921,8 +924,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.169.07.11;Carrinho de Bebê Ruby Mint - Kikka Boo;699.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;2699.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.129.01;Carrinho de Bebê Skinny 6 meses a 15 Kg Preto - Cosco;269.9;5;Carrinho de Bebê;Carrinho de Bebê
-8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;0.0;40;Carrinho de Bebê;Carrinho de Bebê
-8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;40;Carrinho de Bebê;Carrinho de Bebê
+8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;0.0;64;Carrinho de Bebê;Carrinho de Bebê
+8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;50;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;999.9;3;Brinquedo e Diversão;Brinquedos
 8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;999.9;4;Brinquedo e Diversão;Brinquedos
 8.09.104.03.01;Carrinho de Bebê Spring Black - Thule;4319.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -1374,7 +1377,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;204;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;203;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
