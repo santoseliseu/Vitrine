@@ -68,7 +68,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;47;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;55;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;54;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;5;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -645,7 +645,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;256;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;144;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;157;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;145;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;144;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;2;Banho e Higiene;Utensílios de Higiene
@@ -698,7 +698,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;157;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;145;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;310;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;145;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;144;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
@@ -1003,7 +1003,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.07.07;Colher de Silicone com Estojo Azul - Nûby;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.08.18;Colher de Silicone com Estojo Rosa - Nûby;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.03.07;Colher de Silicone Multi Ponta Dupla Azul – Clingo;19.9;2;Alimentação;Acessórios de Alimentação
-8.24.57.89.18;Colher Dosadora para Papinha em Silicone com Ventosa Rosa - Buba;29.9;4;Alimentação;Acessórios de Alimentação
+8.24.57.89.18;Colher Dosadora para Papinha em Silicone com Ventosa Rosa - Buba;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.57.90.11;Colher Dosadora para Papinha em Silicone com Ventosa Verde - Buba;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.149.06.11;Colher e Garfo Silicone e Bambu Dig In Aqua Green - Minikoioi;59.9;2;Alimentação;Talheres
 8.24.149.09.07;Colher e Garfo Silicone e Bambu Dig In Deep Blue - Minikoioi;59.9;1;Alimentação;Talheres
