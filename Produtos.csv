@@ -120,7 +120,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;23;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;54;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;53;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;11;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
@@ -174,7 +174,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.61.18;Bebê Conforto Wizz Rosa - Cosco;359.9;4;Passeio;Bebê Conforto
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;2;Bebê Conforto;Bebê Conforto
-8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;4;Passeio;Bebê Conforto
+8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;3;Passeio;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas;Gravidicas
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
@@ -386,7 +386,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
 8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;489.9;2;Passeio;Cadeira para Carro
 8.07.54.13.01;Cadeirinha de Carro Atlantis Black AB Tutti Baby Preto;489.9;2;Passeio;Cadeira para Carro
-8.07.76.17.08;Cadeirinha de Carro Elevate 9 até 36 kg Vermelho Cherry - Joie;599.9;1;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;7;Passeio;Cadeira para Carro
 8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;8;Passeio;Cadeira para Carro
 8.07.04.51.10;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Cinza Mescla - Cosco;1239.9;2;Passeio;Cadeira para Carro
@@ -1367,7 +1366,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;189;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;188;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -1388,7 +1387,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.74.03.10;Triciclo Evolution Melange Grafite Kiddo;1329.9;1;Brinquedo e Diversão;Brinquedos
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;5;Brinquedo e Diversão;Brinquedos
-6.67.60.01.113;Triciclo Infantil Princesas Roxa - Nathor;233.1;1;Brinquedo e Diversão;Andador
 6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;2;Brinquedo e Diversão;Andador
 8.25.92.13.10;Trocador Portatil Chevron - Skip Hop;279.9;1;Quarto;Trocador
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
