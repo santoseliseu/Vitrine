@@ -223,7 +223,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;3;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.60.25.08;Bicicleta Infantil Balance Caloi 02 Vermelho - Nathor;224.91;2;Bicicletas;Infantil
-6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;3;Bicicletas;Infantil
+6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;2;Bicicletas;Infantil
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;3;Bicicletas;Infantil
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;4;Bicicletas;Infantil
@@ -1102,7 +1102,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;3;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.15.11;Ferrovia Estação de Cargas Verde - Hape;459.9;1;Brinquedo e Diversão;Brinquedos
-8.25.02.05.01;Filtro para Purificador de Ar Clean 3 Unidades Black - Maxi-Cosi;0.0;1;Cuidados;Cuidados
 8.30.170.12.08;Forninho Mágico em Madeira Infantil Vermelho - Hape;409.9;1;Brinquedo e Diversão;Brinquedos
 8.09.169.03.11;Forro Acolchoado para Carrinho Anti-Sweat Sleepy Sheep Mint - Kikka Boo;159.9;3;Passeio;Acessório para Passeio
 8.09.169.04.07;Forro Acolchoado para Carrinho Anti-Sweat Stripy Friends Blue - Kikka Boo;159.9;3;Passeio;Acessório para Passeio
@@ -1366,7 +1365,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;186;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;184;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
