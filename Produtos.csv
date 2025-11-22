@@ -68,7 +68,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;46;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;49;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;46;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -257,7 +257,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.63.10;Bolsa Infantil Plush Jimbao Alça Tiracolo Ratinha - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
 8.11.01.04.01;Bolsa Organizadora Buddy Reserva Black - Safety 1st;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.09.01.59.01;Bolsa Organizadora Grey - Safety 1st;89.9;3;Passeio;Acessórios para Passeio
-8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;2;Bolsas e Mochilas;Bolsas e Mochilas
+8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;1;Banho e Higiene;Utensílios de Higiene
@@ -554,7 +554,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;57;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;56;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;74;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;36;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -808,7 +808,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.03.00;Mochila Escolar Zoo Koala - Skip Hop;279.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.92.04.00;Mochila Escolar Zoo Raposa - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.19.00;Mochila Escolar Zoo Unicórnio - SkipHop;299.9;4;Bolsas e Mochilas;Mochila Infantil
-8.11.33.01.11;Mochila Infantil Safari Croco - Tiny Love;99.9;2;Passeio;Bolsas e Mochilas
+8.11.33.01.11;Mochila Infantil Safari Croco - Tiny Love;99.9;1;Passeio;Bolsas e Mochilas
 8.11.33.02.18;Mochila Infantil Safari Flamingo - Tiny Love;99.9;3;Passeio;Bolsas e Mochilas
 8.11.33.03.17;Mochila Infantil Safari Jaguar - Tiny Love;99.9;2;Passeio;Bolsas e Mochilas
 8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris - SkipHop;559.9;1;Bolsas e Mochilas;Mochila Infantil
@@ -1356,7 +1356,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;158;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;157;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
