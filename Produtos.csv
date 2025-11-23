@@ -68,7 +68,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;46;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;46;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;45;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.17.01;Assento de Elevação Booster Starfix Preto - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -257,7 +257,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.63.10;Bolsa Infantil Plush Jimbao Alça Tiracolo Ratinha - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
 8.11.01.04.01;Bolsa Organizadora Buddy Reserva Black - Safety 1st;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.09.01.59.01;Bolsa Organizadora Grey - Safety 1st;89.9;3;Passeio;Acessórios para Passeio
-8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.83.01.00;Bolsa Térmica em Gel para Cólicas e Dores - Clic Pac;32.0;1;Banho e Higiene;Utensílios de Higiene
@@ -690,7 +689,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
-8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;8;Quarto;Quarto
+8.07.57.01.06;Luminária de Led com Sensor Estrela Branca - Buba;14.9;7;Quarto;Quarto
 8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;3;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;6;Quarto;Decoração
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
@@ -919,7 +918,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;609.9;12;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;2179.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;36;Carrinho de Bebê;Carrinho Travel System
-8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;1269.9;11;Carrinho de Bebê;Carrinho Travel System
+8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;1269.9;10;Carrinho de Bebê;Carrinho Travel System
 8.09.76.75.10;Carrinho de Bebê Travel System Trio Versatrax Cycle Cinza Shellgray + Brinde Exclusivo - Joie;4829.9;4;Passeio;Carrinho Travel System
 8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;4332.6;3;Passeio;Carrinho Travel System
 8.09.76.72.10;Carrinho de Bebê Travel System Trio Versatrax E Pebble Cinza + Brinde Exclusivo - Joie;4332.6;5;Passeio;Carrinho Travel System
@@ -1259,7 +1258,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;6;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;5;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;4;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1355,7 +1354,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;141;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;140;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
