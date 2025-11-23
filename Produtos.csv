@@ -57,7 +57,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
-8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;322.15;2;Brinquedo e Diversão;Andador
+8.05.28.09.10;Andador Infantil Torino Estrela Cinza - Galzerano;322.15;1;Brinquedo e Diversão;Andador
 8.05.28.10.18;Andador Infantil Torino Spring Rosa - Galzerano;289.9;1;Brinquedo e Diversão;Andador
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;19.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
@@ -400,7 +400,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.22.10;Cadeirinha de Carro Mundi Isofix 360º Cinza - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;1;Cadeirinha de Auto;Cadeirinha de Auto
-8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;10;Passeio;Cadeira para Carro
+8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;9;Passeio;Cadeira para Carro
 8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;22;Passeio;Cadeira para Carro
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
@@ -498,7 +498,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;87;Carrinho de Bebê;Carrinho Travel System
-8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;19;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
@@ -630,7 +630,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;536;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;254;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;253;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;141;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;156;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;143;Casa;Lixeira
@@ -678,7 +678,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;436;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;536;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;254;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;253;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;478;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;119;Casa;Lixeira
@@ -1355,7 +1355,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.87.06;Trava Flexível Multiuso Branca - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;144;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;143;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
