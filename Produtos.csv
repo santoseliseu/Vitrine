@@ -67,11 +67,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
-8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;5;Brinquedo e Diversão;Brinquedos
+8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;4;Brinquedo e Diversão;Brinquedos
 8.25.100.01.00;Aspirador Nasal Aspirar Baby com Estojo LikLuc;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.07.23.26.10;Assento de Elevação Booster Andiamo Cinza Mescla - Infanti;62.99;3;Passeio;Cadeirinha para Carro
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;42;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;40;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;41;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -418,7 +418,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;17;Passeio;Cadeira para Carro
-8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
 8.07.02.04.01;Cadeirinha de Carro Spinel 360º Plus 0 a 36kg Isofix Authentic Black - Maxi-Cosi;0.0;8;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;3;Passeio;Cadeira para Carro
@@ -516,7 +515,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;73;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;27;Carrinho de Bebê;Carrinho Travel System
-8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho Travel System
+8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -1162,7 +1161,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.56.00;Garrafinha De Alumínio 450ml Animal Fun Leão - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;8;Brinquedo e Diversão;Ginásios
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;11;Quarto;Grade de Proteção
-8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;28;Quarto;Grade de Proteção
+8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;27;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
 8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;5;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
@@ -1335,7 +1334,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;1;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;42;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1389,7 +1387,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;88;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;85;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
