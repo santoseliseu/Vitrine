@@ -191,7 +191,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
 8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;641.39;3;Quarto;Berços Portáteis
-8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;96;Quarto;Berço
+8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;95;Quarto;Berço
 8.04.01.12.108;Berço Compacto Mini Play Net Blue - Safety 1st;589.9;3;Quarto;Berço
 8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;9;Quarto;Berço
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;3;Quarto;Berço
@@ -199,7 +199,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.23.15.01;Berço Hello Portátil Preto Noite - Infanti;0.0;3;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;8;Quarto;Berços Portáteis
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;11;Quarto;Berço
-8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;8;Quarto;Berço
+8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;7;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;25;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;1;Berço para quarto;Berços Portáteis
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;21;Quarto;Berço
@@ -519,7 +519,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;63;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -701,7 +701,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.43.69;Livrinho De Banho Um Dia Com O Ursinho - Buba;19.9;2;Brinquedo e Diversão;Brinquedos
 8.25.70.11.10;Lixa de Unhas Elétrico Cinza e Branco Clingo;49.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;4;Banho e Higiene;Utensílios de Higiene
-24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;436;Casa;Lixeira
+24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;435;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;533;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;253;Casa;Lixeira
@@ -723,7 +723,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;5;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;35;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;34;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -1153,7 +1153,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.148.03.18;Garrafa Flip Infantil Angela Fada Mia - Metoo;49.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.05.07;Garrafa Flip Térmica com Alça de Silicone Dálmata - Büp Baby;69.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.125.07;Garrafa Pote Com Alça 300ml Sealife Azul - Marcus&Marcus;179.9;2;Alimentação;Acessórios de Alimentação
-8.24.128.15.07;Garrafa Térmica 1,2l Easy Open Azul Escuro - Büp One;179.9;1;Alimentação;Acessórios de Alimentação
 8.24.128.16.10;Garrafa Térmica 1,2l Easy Open Grafite - Büp One;179.9;1;Alimentação;Acessórios de Alimentação
 8.24.128.18.18;Garrafa Térmica 1,2L Easy Open Rosa - Büp One;179.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.19.18;Garrafa Térmica 1,2l Easy Open Rosa Cereja - Büp One;179.9;2;Alimentação;Acessórios de Alimentação
