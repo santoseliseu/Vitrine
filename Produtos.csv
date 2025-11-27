@@ -91,7 +91,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;95;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;94;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;1;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
@@ -529,7 +529,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;51;Carrinho de Bebê;Carrinho Travel System
-8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;12;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -634,7 +635,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.42.18;Kit Colheres Verde e Rosa - Buba;19.9;4;Alimentação;Acessórios de Alimentação
 8.24.72.89.00;Kit Com 3 Potes Em Tritan 240Ml (Vem Com Label Em Silicone Para Escrever) - Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.90.00;Kit com 4 Potes em Tritan 120ml e 240ml Verde e Transparente – Marcus & Marcus;139.9;2;Alimentação;Acessórios de Alimentação
-8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
+8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.30.00;Kit Com Tigela e Primeiro Garfo e Colher Elefante - Marcus&Marcus;119.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;79.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.78.03;Kit Copo Alimentador Graduado 3 Unidades Transparente – Buba;19.9;5;Alimentação;Acessórios de Alimentação
@@ -733,7 +734,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;5;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;20;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;19;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -835,7 +836,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.08.00;Móbile Next 2 Moon Neutro - Chicco;119.9;4;Quarto;Quarto
 8.30.33.48.06;Móbile Para Berço Luxe Musical Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.30.33.06.00;Móbile Take Along Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;3;Bolsas e Mochilas;Bolsas e Mochilas
