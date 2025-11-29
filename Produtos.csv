@@ -339,7 +339,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
 8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
-8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;239.9;2;Alimentação;Cadeira de Refeição
+8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;239.9;1;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
 8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;219.9;2;Alimentação;Cadeira de Refeição
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
@@ -493,7 +493,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;39.9;1;Passeio;Acessórios para Passeio
 8.09.104.02.10;Capota para Carrinho de Bebê Spring Shadow Grey - Thule;569.9;1;Passeio;Acessórios para Passeio
 8.30.57.67.07;Carneirinho De Ninar Com Som e Projeção Azul e Branco - Buba;169.9;2;Brinquedo e Diversão;Brinquedos
-8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
+8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;9;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.23.78.10;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Cinza Névoa - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -510,9 +510,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;38;Carrinho de Bebê;Carrinho Travel System
-8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;37;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;36;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -542,7 +542,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.103.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Sport - Safety 1st;2709.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.13.01;Carrinho de Bebê Bossa Preto Pleno - Voyage;479.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -643,7 +643,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;533;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;251;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;134;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;133;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;150;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;141;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -696,8 +696,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;118;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;175;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;150;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;135;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;304;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;134;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;302;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;141;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;289;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -923,7 +923,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;2699.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.129.01;Carrinho de Bebê Skinny 6 meses a 15 Kg Preto - Cosco;269.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;0.0;34;Carrinho de Bebê;Carrinho de Bebê
-8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;50;Carrinho de Bebê;Carrinho de Bebê
+8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;49;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;999.9;3;Brinquedo e Diversão;Brinquedos
 8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;999.9;4;Brinquedo e Diversão;Brinquedos
 8.09.104.03.01;Carrinho de Bebê Spring Black - Thule;4319.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -969,7 +969,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.105.07.17;Cesto Organizador Quadrado Raposa - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.09.17;Cesto Organizador Quadrado Tigre - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.04.18;Cesto Organizador Quadrado Unicórnio - 3 Sprouts;169.9;1;Quarto;Quarto
-8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;26;Brinquedo e Diversão;Mordedores
+8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;25;Brinquedo e Diversão;Mordedores
 8.25.86.04.18;Chupeta Air Night Pássaro 6m+ - Mam;27.9;35;Brinquedo e Diversão;Chupetas
 8.25.86.15.00;Chupeta Bico Simétrico 6m+ Girl - Mam - CavaloMarinho&Camarão;38.9;26;Brinquedo e Diversão;Chupetas
 8.25.57.66.00;Chupeta Comfort Brilha no Escuro Unicórnio Rosa - Buba;19.9;2;Brinquedo e Diversão;Chupetas
@@ -1116,7 +1116,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
 8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;17;Passeio;Acessórios para Passeio
-8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;3;Passeio;Acessório para Passeio
+8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;2;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
