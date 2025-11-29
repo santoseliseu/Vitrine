@@ -133,7 +133,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;14;Banho e Higiene;Banheira
+8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;13;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;53;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;2;Banho e Higiene;Banheira
@@ -346,7 +346,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
 8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;6;Alimentação;Cadeira de Refeição
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;4;Alimentação;Cadeira de Refeição
-8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;29;Alimentação;Cadeira de Refeição
+8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;27;Alimentação;Cadeira de Refeição
 8.06.23.07.01;Cadeira de Alimentação Pepper 0 meses a 18 kg Black Lush - Infanti;969.9;1;Alimentação;Cadeira de Refeição
 8.06.39.10.07;Cadeira de Alimentação Poke Baby Blue - Burigotto;299.9;1;Alimentação;Cadeira de Refeição
 8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;279.9;1;Alimentação;Cadeira de Refeição
@@ -564,7 +564,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -980,7 +980,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.69.18;Chupeta Comfort Tamanho 2 Rosa - Buba;19.9;4;Brinquedo e Diversão;Chupetas
 8.25.57.70.07;Chupeta Comfort Tamanho 2 Ursinho Azul - Buba;19.9;2;Brinquedo e Diversão;Chupetas
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
-8.25.53.28.114;Chupeta de Silicone Physio Light Lumi 0 a 6 meses 2 Unidades Branco e Rosa - Chicco;29.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;15;Brinquedo e Diversão;Chupetas
 8.25.53.21.00;Chupeta Physio Forma Soft 0 a 6 meses (Tamanho 1) Azul - Chicco;14.9;1;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;18;Brinquedo e Diversão;Chupetas
