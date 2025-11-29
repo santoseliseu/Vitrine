@@ -295,7 +295,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.19.00;Boneca Mini Jimbao Arco-Íris - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
 8.30.148.18.00;Boneca Mini Jimbao Cerejinha - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
 8.30.148.78.07;Boneca Sweet Candy Bebê 27 cm Azul - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
-8.30.148.77.18;Boneca Sweet Candy Bebê 27 cm Rosa - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.08.07;Bongo Musical Infantil Azul - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - Buba;29.9;5;Alimentação;Acessórios de Alimentação
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
@@ -338,7 +337,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.02.11;Cadeira de Alimentação Jelly Green - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
 8.06.01.05.27;Cadeira de Alimentação Jelly Grey - Safety 1st;929.9;3;Alimentação;Cadeira de Refeição
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
-8.06.39.12.11;Cadeira de Alimentação Kiwi Frosty Green - Burigotto;239.9;1;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
 8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;219.9;2;Alimentação;Cadeira de Refeição
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
@@ -509,7 +507,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -547,7 +546,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho Travel System
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;86;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;3;Carrinho de Bebê;Carrinho Travel System
