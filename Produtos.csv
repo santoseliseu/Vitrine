@@ -136,7 +136,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.28.22.07;Banheira de Bebê Plástica Acqua Trio Azul Pastel - Galzerano;189.9;7;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;53;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
-8.01.28.10.06;Banheira de Bebê Plástica Branca - Galzerano;84.9;1;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;42;Banho e Higiene;Banheira
@@ -700,7 +699,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;5;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;8;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;6;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;5;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -1214,7 +1213,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.49.07;Prato De Silicone Com Divisória E Ventosa Azul - Clingo;99.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.48.07;Prato de Silicone com Divisórias Piccolo Azul - Infanti;64.9;4;Alimentação;Acessórios de Alimentação
 8.24.23.50.18;Prato de Silicone com Divisórias Piccolo Rosa - Infanti;49.9;2;Alimentação;Acessórios de Alimentação
-8.24.23.49.11;Prato de Silicone com Divisórias Piccolo Verde - Infanti;59.9;4;Alimentação;Acessórios de Alimentação
+8.24.23.49.11;Prato de Silicone com Divisórias Piccolo Verde - Infanti;59.9;3;Alimentação;Acessórios de Alimentação
 8.24.70.50.18;Prato De Silicone Flex Com Divisória e Ventosa Rosa - Clingo;99.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.52.00;Prato De Silicone Flex Com Ventosa Formato Leão Bege - Clingo;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;9.9;1;Alimentação;Acessórios de Alimentação
