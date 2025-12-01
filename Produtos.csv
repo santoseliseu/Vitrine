@@ -44,7 +44,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.57.163.18;Almofada Infantil Para Banho Rosa - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;32;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;31;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
@@ -534,7 +534,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;80;Carrinho de Bebê;Carrinho Travel System
 8.09.76.43.01;Carrinho de Bebê Combo Parcel Carbon com Bebê Conforto I-snug Shale Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;3;Carrinho de Bebê;Carrinho Travel System
@@ -1052,6 +1052,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.31.00;Difusor De Ambientes Com 5 Bastões Baby Home 200ml - BioClub;39.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;3;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
+8.25.53.57.07;Escova De Dentes 3A+ Azul - Chicco;9.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.53.00;Escova De Dentes 3A+ Rosa - Chicco;14.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1347,7 +1348,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;9;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
