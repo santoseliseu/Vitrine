@@ -131,7 +131,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;42;Banho e Higiene;Banheira
 8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;435.0;5;Banho e Higiene;Banheira
 8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;449.9;5;Banho e Higiene;Banheira
-8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;69.9;3;Banho e Higiene;Banheira
+8.01.28.34.18;Banheira de Bebê Plástica Rose - Galzerano;69.9;2;Banho e Higiene;Banheira
 8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;375.9;4;Banho e Higiene;Banheira
 8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;375.9;2;Banho e Higiene;Banheira
@@ -601,7 +601,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.22.07;Kit Escova e Pente Azul - KaBaby;39.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.47.23.10;Kit Escova e Pente Cinza - KaBaby;49.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.47.24.18;Kit Escova e Pente Rosa - KaBaby;39.9;2;Banho e Higiene;Utensílios de Higiene
-8.24.57.11.18;Kit Escovas Com Esponja Para Mamadeira e Bico Rosa - Buba;19.9;3;Alimentação;Acessórios de Alimentação
+8.24.57.11.18;Kit Escovas Com Esponja Para Mamadeira e Bico Rosa - Buba;19.9;2;Alimentação;Acessórios de Alimentação
 8.25.98.04.07;Kit Higiene Azul (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;69.9;4;Banho e Higiene;Utensílios de Higiene
 8.25.70.33.00;Kit Higiene Pente E Escova De Cerdas Naturais Quick Branco e Cinza - Clingo;29.9;1;Alimentação;Acessórios de Alimentação
 8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;69.9;4;Banho e Higiene;Utensílios de Higiene
@@ -775,7 +775,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.92.26.69;Móbile de Atividades Bandana Buddies Unicórnio - Skip Hop;149.9;1;Brinquedo e Diversão;Brinquedos
 8.30.92.14.00;Móbile Eletrônico Portátil Stroll & Go Coruja - Skip Hop;179.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.02.69;Móbile Musical Luxe Tiny Love - Treasure the Ocean;259.9;6;Brinquedo e Diversão;Brinquedos
-8.30.53.08.00;Móbile Next 2 Moon Neutro - Chicco;119.9;3;Quarto;Quarto
+8.30.53.08.00;Móbile Next 2 Moon Neutro - Chicco;119.9;2;Quarto;Quarto
 8.30.33.48.06;Móbile Para Berço Luxe Musical Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
