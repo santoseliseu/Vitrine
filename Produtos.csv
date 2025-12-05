@@ -304,7 +304,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;869.9;2;Alimentação;Cadeira de Refeição
 8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;869.9;9;Alimentação;Cadeira de Refeição
 8.06.04.07.06;Cadeira de Alimentação Cook Branco - Cosco;319.9;10;Alimentação;Cadeira de Refeição
-8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;319.9;2;Alimentação;Cadeira de Refeição
+8.06.04.08.10;Cadeira de Alimentação Cook Cinza - Cosco;319.9;1;Alimentação;Cadeira de Refeição
 8.06.04.25.01;Cadeira de Alimentação Cook Preto - Cosco;339.9;2;Alimentação;Cadeira de Refeição
 8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;869.9;2;Alimentação;Cadeira de Refeição
 8.06.01.08.11;Cadeira de Alimentação Dobrável Mellow Grey - Safety 1st;869.9;3;Alimentação;Cadeira de Refeição
@@ -884,7 +884,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;71;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;4;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;0.0;1;Carrinho de Bebê;Carrinho de Bebê
@@ -1278,7 +1278,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;1;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;37;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
