@@ -432,7 +432,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;57;Passeio;Canguru
 8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;0.0;1;Passeio;Canguru
 8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;139.9;2;Passeio;Canguru
-8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;12;Passeio;Canguru
+8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;11;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;4;Passeio;Canguru
@@ -523,7 +523,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;79;Carrinho de Bebê;Carrinho Travel System
+8.09.76.49.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto e Base I-snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.68.02.10;Carrinho de Bebê Compacto Oppa Cinza - Litet;999.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.07.01;Carrinho de Bebê Compacto Pockit+ All-City 6 meses a 15kg Velvet Black - GB;1619.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1231,6 +1233,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;2;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1255,7 +1258,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;6;Alimentação;Acessórios de Alimentação
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;15;Quarto;Quarto
-8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;2;Quarto;Quarto
+8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;3;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;3;Quarto;Quarto
 8.60.171.11.18;Saco de Dormir Swaddle em Algodão Rosa Cereja P - Casulo;0.0;5;Quarto;Quarto
@@ -1274,7 +1277,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
-8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;1;Banho e Higiene;Banheira
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;2;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;37;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1334,6 +1337,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;197;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
+8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
 8.15.23.03.01;Travel System Epic Lite Trio Infanti - Black Deep + Mini Mobile Pack & Go - Princess Tales;0.0;1;Carrinho de Bebê;Carrinho Travel System
