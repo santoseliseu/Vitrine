@@ -29,7 +29,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;21;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
-8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;11;Banho e Higiene;Utensílios de Higiene
+8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;25;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -41,7 +41,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.57.163.18;Almofada Infantil Para Banho Rosa - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;22;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;21;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
@@ -117,7 +117,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;425;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;656;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;655;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
@@ -138,7 +138,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;429.9;1;Banho e Higiene;Banheira
 8.01.74.05.10;Banheira de Bebê Slim Plus Cinza - Kiddo;429.9;4;Banho e Higiene;Banheira
 8.01.74.06.18;Banheira de Bebê Slim Plus Rosa - Kiddo;429.9;2;Banho e Higiene;Banheira
-8.01.70.13.18;Banheira de Bebê Smart Dobrável Rosa - Clingo;239.9;4;Banho e Higiene;Banheira
+8.01.70.13.18;Banheira de Bebê Smart Dobrável Rosa - Clingo;239.9;3;Banho e Higiene;Banheira
 8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;319.9;32;Banho e Higiene;Banheira
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
@@ -182,7 +182,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;8;Quarto;Berço
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;3;Quarto;Berço
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;2;Quarto;Berço
-8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;7;Quarto;Berços Portáteis
+8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;6;Quarto;Berços Portáteis
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;10;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;29;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;1;Berço para quarto;Berços Portáteis
@@ -379,7 +379,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;1;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;6;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;7;Passeio;Cadeira para Carro
-8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;15;Passeio;Cadeira para Carro
+8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;14;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;17;Passeio;Cadeira para Carro
@@ -401,11 +401,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
 8.07.76.20.10;Cadeirinha para Carro I-Spin XL 360 Chumbo Ebony - Joie;0.0;1;Passeio;Cadeira para Carro
 8.07.76.18.10;Cadeirinha para Carro I-Spin XL 360 Cinza Carbon - Joie;0.0;11;Passeio;Cadeira para Carro
-8.07.76.12.01;Cadeirinha para Carro I-Spin XL 360 Preto Eclipse - Joie;0.0;12;Passeio;Cadeira para Carro
+8.07.76.12.01;Cadeirinha para Carro I-Spin XL 360 Preto Eclipse - Joie;0.0;11;Passeio;Cadeira para Carro
 8.07.76.19.11;Cadeirinha para Carro I-Spin XL 360 Verde Pine - Joie;0.0;3;Passeio;Cadeira para Carro
 8.07.103.03.01;Cadeirinha para Carro Murphy Lux 360º Preta - Premium Baby;1109.9;1;Passeio;Cadeira para Carro
 8.07.103.04.01;Cadeirinha para Carro Murphy Lux 360º Preta e Cinza - Premium Baby;1109.9;3;Passeio;Cadeira para Carro
-8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;459.9;14;Passeio;Cadeira para Carro
+8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;459.9;10;Passeio;Cadeira para Carro
 8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;509.9;2;Passeio;Cadeira para Carro
 8.07.04.03.07;Cadeirinha para Carro Tour 9 a 36 kg Preto e Azul - Cosco;509.9;2;Passeio;Cadeira para Carro
 8.07.04.04.18;Cadeirinha para Carro Tour 9 a 36 kg Preto e Rosa - Cosco;499.9;3;Passeio;Cadeira para Carro
@@ -485,11 +485,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
-8.09.01.01.01;Carrinho com Bebê Conforto Travel System Magnific Trio Full Black - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.91.07;Carrinho com Bebê Conforto Travel System Magno Duo Azul Oceano - Infanti;1349.1;3;Carrinho de Bebê;Carrinho Travel System
 8.09.23.90.01;Carrinho com Bebê Conforto Travel System Magno Duo Preto Infinito - Infanti;1349.1;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.09.01;Carrinho com Bebê Conforto Travel System Mobi+ Reserva Isofix Black - Safety 1st;0.0;3;Carrinho de Bebê;Carrinho Travel System
@@ -560,7 +560,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.99.06;Kit 2 Travas Multiuso em Tecido Branco - KaBaby;19.9;1;Travas e Protetores;Travas e Protetores
 8.24.70.05.18;Kit 3 Colheres Daily Cinza Rosa e Amarelo – Clingo;19.9;9;Alimentação;Acessórios de Alimentação
 8.24.70.10.18;Kit 3 Copos de Transição Smart 250ml Rosa - Clingo;39.9;8;Alimentação;Acessórios de Alimentação
-8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;29.9;2;Alimentação;Acessórios de Alimentação
+8.24.57.61.00;Kit 3 Potinhos Animal Fun Colorido – Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.45.62;Kit 4 Potes Infantis Multiuso 236ml Infanti Azul e Amarelo;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.44.114;Kit 4 Potes Infantis Multiuso 236ml Infanti Rosa e Roxo;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.126.03.00;Kit 4 Pratos Fundos Easy Scoop - Tommee Tippee - Razzle Dazzle Rose/Amethyst;69.9;1;Alimentação;Acessórios de Alimentação
@@ -738,7 +738,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.26.138.17.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 6 meses;109.9;7;Roupas de Bebê;Roupas de Bebê
 8.26.138.18.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - 9 meses;109.9;8;Roupas de Bebê;Roupas de Bebê
 8.26.138.15.113;Macacão Magnético Roxo, detalhes pink e azul anil com estampa arco-íris - Recém nascido;109.9;7;Roupas de Bebê;Roupas de Bebê
-8.24.92.70.00;Mala de Rodinha Infantil Zoo Unicórnio Skip Hop;439.9;1;Alimentação;Acessórios de Alimentação
 8.11.164.01.113;Mala Infantil Com Rodinha Cassie a Gata Roxa - Trunki;489.9;2;Passeio;Acessórios para Passeio
 8.11.164.05.11;Mala Infantil Com Rodinha Dudley o Dino Verde - Trunki;489.9;2;Passeio;Acessórios para Passeio
 8.11.164.02.08;Mala Infantil Com Rodinha Frank o Bombeiro Vermelha - Trunki;489.9;1;Passeio;Acessórios para Passeio
@@ -756,7 +755,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.147.16;Massageador De Gengiva Milho - Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.47.126.18;Massageador de Lactação Blush - Lumama;521.9;2;Brinquedo e Diversão;Mordedores
 8.25.106.04.07;Meia Divertida com Antiderrapante para Menino Vista White - Adoleta Bebê;29.9;10;Banho e Higiene;Utensílios de Higiene
-8.30.57.46.10;Mesa de Atividade Para Carro Grafite - Buba;79.9;2;Brinquedo e Diversão;Centro de Atividades
 8.27.57.03.18;Mictório Portátil Rosa - Buba;29.9;12;Banho e Higiene;Troninho
 8.30.148.27.69;Mini Chaveiro de Pelúcia Angela Zoo Koala - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.28.69;Mini Chaveiro de Pelúcia Angela Zoo Unicórnio - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
@@ -785,7 +783,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.01.00;Mochila Escolar Zoo Borboleta - Skip Hop;279.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.92.02.00;Mochila Escolar Zoo Cachorro Pug - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.03.00;Mochila Escolar Zoo Koala - Skip Hop;279.9;3;Bolsas e Mochilas;Mochila Infantil
-8.11.92.04.00;Mochila Escolar Zoo Raposa - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.19.00;Mochila Escolar Zoo Unicórnio - SkipHop;299.9;4;Bolsas e Mochilas;Mochila Infantil
 8.11.33.01.11;Mochila Infantil Safari Croco - Tiny Love;99.9;1;Passeio;Bolsas e Mochilas
 8.11.33.02.18;Mochila Infantil Safari Flamingo - Tiny Love;99.9;2;Passeio;Bolsas e Mochilas
@@ -804,7 +801,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;8;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;21;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;16;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;15;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;4;Passeio;Acessórios para Passeio
 8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza - Joie;1479.9;2;Carrinho de Bebê;Moisés
@@ -884,7 +881,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;71;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;8;Carrinho de Bebê;Carrinho de Bebê
+8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;809.1;3;Carrinho de Bebê;Carrinho de Bebê
@@ -958,7 +955,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.190.69;Chuveirinho Girafa Colorido - Buba;119.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.210.07;Cinta Térmica Infantil Herbal para Cólica Azul - Buba;49.9;5;Cuidados;Cuidados
-8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;4;Passeio;Acessórios para Passeio
+8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;3;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
 8.24.18.01.07;Colher Centopéia em Silicone - Girotondo Baby;19.9;11;Alimentação;Acessórios de Alimentação
 8.24.120.07.07;Colher de Silicone com Estojo Azul - Nûby;29.9;1;Alimentação;Acessórios de Alimentação
@@ -1080,7 +1077,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;13;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;10;Passeio;Acessórios para Passeio
 8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;1;Passeio;Acessório para Passeio
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1115,7 +1112,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.101.01.16;Inalador Air Mesh Colors com Bateria Amarelo - Medicate;219.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.101.02.07;Inalador Air Mesh Colors com Bateria Azul Claro - Medicate;219.9;5;Banho e Higiene;Utensílios de Higiene
 8.25.101.03.07;Inalador Air Mesh Colors com Bateria Azul Escuro - Medicate;219.9;1;Banho e Higiene;Utensílios de Higiene
-8.25.101.04.18;Inalador Air Mesh Colors com Bateria Rosa - Medicate;259.9;4;Banho e Higiene;Utensílios de Higiene
+8.25.101.04.18;Inalador Air Mesh Colors com Bateria Rosa - Medicate;259.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.101.05.11;Inalador Air Mesh Colors com Bateria Verde - Medicate;259.9;5;Banho e Higiene;Utensílios de Higiene
 6.30.162.10.08;Jipe Elétrico Infantil 4x4 com 2 lugares Bivolt Vermelho - Bang Toy;0.0;3;Brinquedo e Diversão;Brinquedos
 6.30.162.07.08;Jipe Infantil Elétrico Aventura 12V até 30 kgs Vermelho - Bang Toys;0.0;2;Brinquedo e Diversão;Brinquedos
@@ -1170,7 +1167,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.66.07;Pote Térmico com Talher Gumy 320 ml Azul - Buba;89.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.68.11;Pote Térmico com Talher Gumy 320 ml Verde - Buba;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;99.9;7;Alimentação;Acessórios de Alimentação
-8.24.70.55.18;Pote Termico Dupla Camada Vacuo Milky - Clingo;99.9;7;Alimentação;Acessórios de Alimentação
+8.24.70.55.18;Pote Termico Dupla Camada Vacuo Milky - Clingo;99.9;6;Alimentação;Acessórios de Alimentação
 8.24.92.58.00;Pote Térmico Inox Com Talher 350 ml Alce 3 - Sprouts;119.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.63.00;Pote Térmico Inox Com Talher 350 ml Raposa - 3 Sprouts;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.47.07;Pote Vidro Para Leite Materno Azul - 4 Unidades - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1322,7 +1319,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.114.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorida Cavalo - D´Bella for Baby;139.9;3;Higene;Utensílios de Higiene
 8.25.75.115.06;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorido Laço - D´Bella for Baby;139.9;4;Higene;Utensílios de Higiene
 8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;3;Banho e Higiene;Toalha
-8.25.57.187.18;Toalha Poncho Aventuras Sereia Rosa - Buba;119.9;2;Banho e Higiene;Toalha
+8.25.57.187.18;Toalha Poncho Aventuras Sereia Rosa - Buba;119.9;1;Banho e Higiene;Toalha
 8.25.57.188.07;Toalha Poncho Aventuras Tubarão Azul - Buba;129.9;2;Banho e Higiene;Toalha
 8.25.57.186.11;Toalha Poncho Zoo Dino Verde - Buba;119.9;2;Banho e Higiene;Toalha
 8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;1;Banho e Higiene;Toalha
@@ -1370,7 +1367,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.09.10;Troninho Infantil Start Cinza - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
-8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;2;Brinquedo e Diversão;Brinquedos
+8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;1;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;1;Brinquedo e Diversão;Brinquedos
 8.25.57.206.10;Ventilador Portátil 360º com 3 Velocidades - Buba;69.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
