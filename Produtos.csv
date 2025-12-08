@@ -116,7 +116,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;2;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;423;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;422;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;647;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
@@ -511,7 +511,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;78;Carrinho de Bebê;Carrinho Travel System
 8.09.76.49.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto e Base I-snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;1;Carrinho de Bebê;Carrinho Travel System
-8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;2;Carrinho de Bebê;Carrinho Travel System
+8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.68.02.10;Carrinho de Bebê Compacto Oppa Cinza - Litet;999.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.07.01;Carrinho de Bebê Compacto Pockit+ All-City 6 meses a 15kg Velvet Black - GB;1619.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.10.10;Carrinho de Bebê Cosmos Melange Grafite - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -747,7 +747,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.28.69;Mini Chaveiro de Pelúcia Angela Zoo Unicórnio - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.26.11;Mini Chaveiro de Pelúcia Dino - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.33.14.00;Mini Móbile Pack & Go Meadow Days - Tiny Love;59.9;1;Brinquedo e Diversão;Brinquedos
-8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;59.9;1;Brinquedo e Diversão;Brinquedos
 8.11.160.16.07;Mini Mochila com Bolso Frontal Cachorrinho - MaiT;209.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.07.02;Mini Mochila com Bolso Frontal Ovelhinha - MaiT;209.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.32.07;Mini Mochila com Pochete Xadrez Bola - MaiT;199.9;1;Bolsas e Mochilas;Bolsas e Mochilas
@@ -808,7 +807,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.94.08.08;Mordedor Vanilla Sophie La Girafe Vermelho Vulli;79.9;2;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;2;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;31;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;30;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -970,7 +969,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.98.02.18;Colher Soft Spoon 8m+ Ergonômica Rosa - Ibimboo;19.9;4;Alimentação;Acessórios de Alimentação
 8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;21.9;88;Banho e Higiene;Utensílios de Higiene
 21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;156;Móveis;Cadeira
-21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;137;Móveis;Cadeira
+21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;136;Móveis;Cadeira
 21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;159;Móveis;Cadeira
 8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;99.9;1;Alimentação;Acessórios para alimentação
 8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
@@ -1320,7 +1319,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
-8.15.23.03.01;Travel System Epic Lite Trio Infanti - Black Deep + Mini Mobile Pack & Go - Princess Tales;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.27.35;Travel System Mobi Safety 1st Black & White;3719.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.03.102.01;Travel System Yupi Trio Pro Voyage - Preto;1259.9;3;Carrinho de Bebê;Carrinho Travel System
 8.25.57.135.06;Travesseiro Anatômico Viscoelástico Baby Branco - Buba;49.9;6;Quarto;Quarto
