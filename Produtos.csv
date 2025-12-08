@@ -19,7 +19,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;3;Centro de Atividades;Centro de Atividades
-8.03.57.01.69;Almofada De Atividades Colorida - Buba;89.9;5;Quarto;Quarto
+8.03.57.01.69;Almofada De Atividades Colorida - Buba;89.9;4;Quarto;Quarto
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;3;Brinquedo e Diversão;Centro de Atividades
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
@@ -121,14 +121,13 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
-8.01.39.03.05;Banheira de Bebê Millenia+ Burigotto Mescla Silver;459.9;1;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;48;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;42;Banho e Higiene;Banheira
-8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;435.0;5;Banho e Higiene;Banheira
+8.01.28.18.10;Banheira de Bebê Plástica Premium Grafite - Galzerano;435.0;4;Banho e Higiene;Banheira
 8.01.28.21.00;Banheira de Bebê Plástica Premium Sand - Galzerano;449.9;3;Banho e Higiene;Banheira
 8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;375.9;4;Banho e Higiene;Banheira
@@ -308,7 +307,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.24.18;Cadeira de Alimentação Kiwi Rose Madder Até 15Kg - Burigotto;219.9;1;Alimentação;Cadeira de Refeição
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
 8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;6;Alimentação;Cadeira de Refeição
-8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;3;Alimentação;Cadeira de Refeição
+8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;2;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;20;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;8;Alimentação;Cadeira de Refeição
 8.06.39.10.07;Cadeira de Alimentação Poke Baby Blue - Burigotto;299.9;1;Alimentação;Cadeira de Refeição
@@ -603,7 +602,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;243;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;117;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;116;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;142;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;139;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -655,7 +654,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;167;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;142;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;118;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;117;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;295;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;139;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;288;Casa;Lixeira
@@ -1276,7 +1275,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.98.08.69;Tapete EPE Rolo ABCD Leão 200x180cm - Ibimboo;199.9;2;Brinquedo e Diversão;Tapetes
 8.13.98.07.69;Tapete EPE Rolo Pink Festa da Princesa 200x180cm - Ibimboo;199.9;4;Brinquedo e Diversão;Tapetes
 8.13.47.21.11;Tapete Ginásio Infantil com Móbile Verde - KaBaby;159.9;3;Brinquedo e Diversão;Ginásios
-8.13.47.22.07;Tapete Ginásio Jumbo Infantil Azul - KaBaby;209.9;1;Brinquedo e Diversão;Ginásios
 8.13.98.10.69;Tapete Infantil Animais nas Alturas 200x180cm - Ibimboo;209.9;9;Brinquedo e Diversão;Tapetes
 8.13.57.06.69;Tapete Infantil Dobrável Dulpa Face Zoo 1,95 x 1,46 cm - Buba ;239.9;1;Brinquedo e Diversão;Tapetes
 8.13.98.03.69;Tapete Rolo Menina Praia Dupla Face 180x200cm ABC;199.9;1;Brinquedo e Diversão;Tapetes
