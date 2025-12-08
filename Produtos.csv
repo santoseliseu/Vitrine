@@ -36,6 +36,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;21;Banho e Higiene;Utensílios de Higiene
+8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;1;Alimentação;Cadeira de Refeição
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;89.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
@@ -115,7 +116,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;2;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;422;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;423;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;647;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
@@ -358,7 +359,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.02.08.12;Cadeirinha de Alimentação Nesta Natural Wood - Maxi-Cosi;0.0;1;Alimentação;Cadeira de Refeição
 8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;2;Alimentação;Cadeira de Refeição
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
-8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;489.9;2;Passeio;Cadeira para Carro
+8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;489.9;1;Passeio;Cadeira para Carro
 8.07.54.13.01;Cadeirinha de Carro Atlantis Black AB Tutti Baby Preto;489.9;2;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;7;Passeio;Cadeira para Carro
 8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;8;Passeio;Cadeira para Carro
@@ -367,6 +368,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;6;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;7;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;13;Passeio;Cadeira para Carro
+8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;1;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;17;Passeio;Cadeira para Carro
@@ -864,7 +866,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;71;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;0.0;1;Carrinho de Bebê;Carrinho de Bebê
