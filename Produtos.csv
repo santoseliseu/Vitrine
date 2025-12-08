@@ -122,7 +122,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;47;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;46;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -209,7 +209,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.54.69;Bichinhos Para Banho Dino Card - Buba;29.9;1;Brinquedo e Diversão;Brinquedos Diversos
 8.30.57.26.69;Bichinhos Para Banho Dino Tubo 4 Unidades Coloridos - Buba;39.9;2;Brinquedo e Diversão;Brinquedos
 6.28.60.13.08;Bicicleta com Rodinhas Aro 12 Motor X PU 3 anos até 21kg Vermelho e Amarelo - Nathor;271.92;4;Bicicletas;Infantil
-8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;3;Bicicletas;Infantil
+8.30.57.07.08;Bicicleta de Equilíbrio 4 Rodas Vermelha - Buba;229.9;2;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;2;Bicicletas;Infantil
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
@@ -308,7 +308,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.26.18;Cadeira de Alimentação Merenda Rosa Madder - Burigotto;649.9;2;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;20;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;8;Alimentação;Cadeira de Refeição
-8.06.39.10.07;Cadeira de Alimentação Poke Baby Blue - Burigotto;299.9;1;Alimentação;Cadeira de Refeição
 8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;279.9;1;Alimentação;Cadeira de Refeição
 8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;5;Alimentação;Cadeira de Refeição
 8.06.03.11.07;Cadeira de Alimentação Portátil Cake Azul - Voyage;159.9;3;Alimentação;Cadeira de Refeição
@@ -324,7 +323,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.04.18;Cadeira de Alimentação Portátil Smart Rosa - Cosco;183.9;1;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
-8.05.62.01.07;Cadeira de Descanso Até 11 Kg Azul - Clean Weeler;209.9;2;Quarto;Cadeira de Descanso
+8.05.62.01.07;Cadeira de Descanso Até 11 Kg Azul - Clean Weeler;209.9;1;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
 8.05.02.13.12;Cadeira de Descanso Bouncer Kori Classic Oat - Maxi-Cosi;0.0;2;Quarto;Cadeira de Descanso
 8.05.03.01.07;Cadeira de Descanso Bouncer Relax Azul Solar - Voyage;209.9;3;Quarto;Cadeira de Descanso
@@ -1024,7 +1023,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.53.00;Escova De Dentes 3A+ Rosa - Chicco;14.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;9;Banho e Higiene;Utensílios de Higiene
-8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;2;Banho e Higiene;Utensílios de Higiene
+8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;69.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.72.10.113;Escova Massageadora em Silicone Baleia - Marcus&Marcus;59.9;3;Banho e Higiene;Utensílios de Higiene
