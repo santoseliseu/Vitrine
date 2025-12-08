@@ -25,7 +25,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;109.9;14;Banho e Higiene;Utensílios de Higiene
-8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;15;Banho e Higiene;Utensílios de Higiene
+8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;14;Banho e Higiene;Utensílios de Higiene
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;21;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -78,7 +78,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;33;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;34;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
 8.25.57.96.18;Babador Com Pega Migalhas Foguete Rosa - Buba;9.9;2;Alimentação;Acessórios de Alimentação
@@ -762,6 +762,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.02.69;Móbile Musical Luxe Tiny Love - Treasure the Ocean;259.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.48.06;Móbile Para Berço Luxe Musical Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
+8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.05.18;Mochila com Guia Unicórnio Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
