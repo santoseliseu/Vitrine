@@ -115,8 +115,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;2;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;424;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;651;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;422;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;647;Banho e Higiene;Banheira
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
@@ -254,23 +254,17 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;59.9;9;Alimentação;Acessórios de Alimentação
 8.24.86.07.11;Bomba Tira-Leite Manual - Mam;189.9;4;Alimentação;Acessórios de Alimentação
-8.30.148.56.16;Boneca Angela Angel Fanny - Metoo;129.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.41.18;Boneca Angela Angel Rosa - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.43.16;Boneca Angela Beatrice Bee - Metoo;139.9;3;Brinquedo e Diversão;Brinquedos
+8.30.148.43.16;Boneca Angela Beatrice Bee - Metoo;139.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.44.16;Boneca Angela Chocolate - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.12.00;Boneca Angela Jujuba - Metoo;139.9;2;Brinquedo e Diversão;Brinquedos
 8.30.148.07.00;Boneca Angela Lai Ballet 34 cm - Metoo;139.9;2;Brinquedo e Diversão;Brinquedos
 8.30.148.46.18;Boneca Angela Lily Bell - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.23.00;Boneca Angela Sereia Pérola - Metoo;139.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.10.00;Boneca Angela Tica Cacheada - Metoo;139.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.72.10;Boneca Angela Zoo Koala - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.15.00;Boneca de Pelúcia Mini Angela Sofia - Metoo;79.9;2;Brinquedo e Diversão;Brinquedos
+8.30.148.15.00;Boneca de Pelúcia Mini Angela Sofia - Metoo;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.51.18;Boneca Jimbao Verão Flamingo - Metoo;129.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.52.16;Boneca Jimbao Verão Unicórnio - Metoo;129.9;1;Brinquedo e Diversão;Brinquedos
-8.30.148.17.00;Boneca Mini Angela Candy School Cacheada - Metoo;79.9;2;Brinquedo e Diversão;Brinquedos
-8.30.148.19.00;Boneca Mini Jimbao Arco-Íris - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
-8.30.148.18.00;Boneca Mini Jimbao Cerejinha - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
-8.30.148.78.07;Boneca Sweet Candy Bebê 27 cm Azul - Metoo;119.9;3;Brinquedo e Diversão;Brinquedos
+8.30.148.19.00;Boneca Mini Jimbao Arco-Íris - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
+8.30.148.18.00;Boneca Mini Jimbao Cerejinha - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
+8.30.148.78.07;Boneca Sweet Candy Bebê 27 cm Azul - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.08.07;Bongo Musical Infantil Azul - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - Buba;29.9;5;Alimentação;Acessórios de Alimentação
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
@@ -476,7 +470,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.29.57;Carrinho com Bebê Conforto Travel System Ecco Mon Amour - Burigotto;1160.1;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
@@ -536,6 +530,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.123.01;Carrinho de Bebê Griffy Preto - Cosco;749.9;1;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;21;Carrinho de Bebê;Carrinho de Bebê
