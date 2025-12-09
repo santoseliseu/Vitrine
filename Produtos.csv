@@ -4,7 +4,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos Diversos
 8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;49.9;1;Passeio;Acessórios para Passeio
 8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;14;Banho e Higiene;Utensílios de Higiene
-8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;14.9;63;Banho e Higiene;Utensílios de Higiene
+8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;14.9;60;Banho e Higiene;Utensílios de Higiene
 8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;27.9;44;Banho e Higiene;Utensílios de Higiene
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
@@ -119,7 +119,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;38;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;37;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -380,7 +380,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.103.03.01;Cadeirinha para Carro Murphy Lux 360º Preta - Premium Baby;1109.9;1;Passeio;Cadeira para Carro
 8.07.103.04.01;Cadeirinha para Carro Murphy Lux 360º Preta e Cinza - Premium Baby;1109.9;3;Passeio;Cadeira para Carro
 8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;459.9;1;Passeio;Cadeira para Carro
-8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;509.9;2;Passeio;Cadeira para Carro
+8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;509.9;1;Passeio;Cadeira para Carro
 8.07.04.03.07;Cadeirinha para Carro Tour 9 a 36 kg Preto e Azul - Cosco;509.9;2;Passeio;Cadeira para Carro
 8.07.04.04.18;Cadeirinha para Carro Tour 9 a 36 kg Preto e Rosa - Cosco;499.9;3;Passeio;Cadeira para Carro
 8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;677.9;2;Passeio;Cadeira para Carro
@@ -768,7 +768,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.04.111;Mochila Passeio com Guia Vaquinha - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.01.18;Mochila Passeio Corujinha Rosa - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;5;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;18;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;12;Bolsas e Mochilas;Bolsas e Mochilas
@@ -816,7 +816,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.92.08.00;Organizador de Banho Tubarão - 3 Sprouts;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.92.07.01;Organizador Para Carrinho de Bebê Preto - Skip Hop;219.9;7;Passeio;Acessórios para Passeio
 8.25.53.110.11;Pack 2 Escovas de Dentes 3 a 6 Anos Verde - Chicco;9.9;7;Banho e Higiene;Utensílios de Higiene
-8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml – Philips Avent;129.9;8;Alimentação;Acessórios de Alimentação
+8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml – Philips Avent;129.9;7;Alimentação;Acessórios de Alimentação
 8.24.72.14.07;Palitinhos de Treinamento Hipopótamo - Marcus&Marcus;59.9;2;Alimentação;Acessórios de Alimentação
 8.25.75.27.00;Pano de Boca Atoalhado Duplo Clássico 2 Peças Flores - D'Bella for Baby;69.9;5;Banho e Higiene;Utensílios de Higiene
 8.25.75.28.00;Pano de Boca Atoalhado Duplo Clássico 2 Peças Ovelhinhas - D'Bella for Baby;69.9;8;Banho e Higiene;Utensílios de Higiene
