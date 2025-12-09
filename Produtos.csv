@@ -121,7 +121,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;2;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;41;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;40;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -632,7 +632,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.17.00;Lençol de Malha Para Berço e Mini Cama Flores - D´Bella for Baby;159.9;3;Roupas de Bebê;Roupas de Bebê
 8.25.75.18.00;Lençol de Malha Para Berço e Mini Cama Ovelhinhas - D´Bella for Baby;189.9;3;Roupas de Bebê;Roupas de Bebê
 8.25.75.110.06;Lençol de Mini Berço Malha 3 Peças Clássico Lese Branco - D´Bella for Baby;139.9;1;Quarto;Acessório de Quarto
-8.25.69.07.00;Limpa Azulejos e Banheirinha 500ml BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.30.127.09.69;Livrinho de Atividades Aprenda Brincando - Winfun;179.9;3;Brinquedo e Diversão;Brinquedos
 8.30.57.27.69;Livrinho De Atividades Jungle - Buba;59.9;4;Brinquedo e Diversão;Brinquedos
 8.30.57.43.69;Livrinho De Banho Um Dia Com O Ursinho - Buba;19.9;2;Brinquedo e Diversão;Brinquedos
@@ -768,7 +767,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris - SkipHop;559.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.17.00;Mochila Infantil Spark Style Morango - SkipHop;419.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.05.00;Mochila Infantil Zoo Baleia Narval - Skip Hop;189.9;2;Bolsas e Mochilas;Mochila Infantil
-8.11.92.20.00;Mochila Infantil Zoo Dino - Skip Hop;219.9;3;Bolsas e Mochilas;Mochila Infantil
+8.11.92.20.00;Mochila Infantil Zoo Dino - Skip Hop;219.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.08.00;Mochila Infantil Zoo Flamingo - Skip Hop;159.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;209.9;5;Bolsas e Mochilas;Mochila Infantil
 8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;209.9;5;Bolsas e Mochilas;Mochila Infantil
