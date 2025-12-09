@@ -494,6 +494,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.97.01;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;78;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -581,7 +582,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.36.00;Kit Infantil Para Lanche Zoo 700 ml Borboleta - Skip Hop;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.38.00;Kit Infantil Para Lanche Zoo 700 ml Cachorro Pug - Skip Hop;139.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.39.00;Kit Infantil Para Lanche Zoo 700 ml Girafa - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
-8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
+8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
@@ -768,7 +769,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;18;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;17;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;12;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;3;Passeio;Acessórios para Passeio
@@ -1305,7 +1306,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;5;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;4;Brinquedo e Diversão;Brinquedos
-6.67.60.02.07;Triciclo Infantil Spider Man Azul - Nathor;233.1;1;Brinquedo e Diversão;Andador
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.25.57.201.06;Troninho Infantil com Som Branco - Buba;179.9;6;Troninho;Troninho
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
