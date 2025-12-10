@@ -64,6 +64,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;3;Brinquedo e Diversão;Brinquedos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;13;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;22;Passeio;Cadeira para Carro
@@ -116,7 +117,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;30;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;29;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -987,7 +988,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.19.06;Cozinha em Madeira Premium Infantil Branco - Hape;1009.9;1;Brinquedo e Diversão;Brinquedos
 8.25.70.26.10;Degrau Infantil Antiderrapante Step Dots Cinza - Clingo;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.29.01.01.16;Degrau Infantil Duck Step - Safety 1st;39.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;5;Banho e Higiene;Utensílios de Higiene
+8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.69.31.00;Difusor De Ambientes Com 5 Bastões Baby Home 200ml - BioClub;39.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
@@ -1221,6 +1222,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;1;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;37;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1272,7 +1274,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.09.69;Torre Espiral de Bola Buba Colorido;89.9;1;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.10.06;Trava Magnética Safety 1st White;90.9;2;Travas e Protetores;Travas e Protetores
+8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;174;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
