@@ -47,7 +47,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;6;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;20;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;19;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;149.9;1;Quarto;Quarto
@@ -130,7 +130,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;26;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;24;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;28;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -789,7 +789,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.05.18;Mochila com Guia Unicórnio Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.92.18.00;Mochila Escolar Zoo Baleia Narval - SkipHop;299.9;2;Bolsas e Mochilas;Mochila Infantil
-8.11.92.01.00;Mochila Escolar Zoo Borboleta - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.02.00;Mochila Escolar Zoo Cachorro Pug - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.03.00;Mochila Escolar Zoo Koala - Skip Hop;279.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.19.00;Mochila Escolar Zoo Unicórnio - SkipHop;299.9;4;Bolsas e Mochilas;Mochila Infantil
@@ -1086,7 +1085,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
-8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;59.9;4;Alimentação;Acessórios de Alimentação
+8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;59.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;59.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;7;Alimentação;Acessórios de Alimentação
 8.24.92.18.00;Garrafa com Canudo Flip Zoo 384 ml Tubarão - Skip Hop;69.9;3;Alimentação;Acessórios de Alimentação
