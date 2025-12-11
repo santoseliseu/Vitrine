@@ -76,7 +76,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;22;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;39;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;38;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
@@ -226,7 +226,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;1;Bicicletas;Infantil
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;3;Bicicletas;Infantil
-6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;10;Bicicletas;Infantil
+6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;9;Bicicletas;Infantil
 8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;6;Alimentação;Acessórios de Alimentação
 8.24.53.25.00;Bico de Mamadeira Step Up Fluxo Médio (2M+) 1 Unidade - Chicco;19.9;10;Alimentação;Acessórios de Alimentação
 8.24.72.43.00;Bico de Transição em Silicone - Marcus&Marcus;29.9;1;Alimentação;Acessórios de Alimentação
@@ -543,7 +543,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;26;Carrinho de Bebê;Carrinho de Bebê
@@ -609,7 +608,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.22.07;Kit Escova e Pente Azul - KaBaby;39.9;8;Banho e Higiene;Utensílios de Higiene
 8.25.47.23.10;Kit Escova e Pente Cinza - KaBaby;49.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.47.24.18;Kit Escova e Pente Rosa - KaBaby;39.9;2;Banho e Higiene;Utensílios de Higiene
-8.24.57.11.18;Kit Escovas Com Esponja Para Mamadeira e Bico Rosa - Buba;19.9;1;Alimentação;Acessórios de Alimentação
 8.25.98.04.07;Kit Higiene Azul (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;69.9;4;Banho e Higiene;Utensílios de Higiene
 8.25.70.33.00;Kit Higiene Pente E Escova De Cerdas Naturais Quick Branco e Cinza - Clingo;29.9;1;Alimentação;Acessórios de Alimentação
 8.25.98.05.18;Kit Higiene Rosa (Tesoura, Cortador E Lixa De Unha, Escova E Pente E Escova Dental) - Ibimboo;69.9;4;Banho e Higiene;Utensílios de Higiene
@@ -1326,7 +1324,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;464;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;463;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -1365,6 +1363,5 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;33;Banho e Higiene;Utensílios de Higiene
 8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;1;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;1;Brinquedo e Diversão;Brinquedos
-8.25.57.206.10;Ventilador Portátil 360º com 3 Velocidades - Buba;69.9;1;Banho e Higiene;Utensílios de Higiene
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;37.9;12;Banho e Higiene;Utensílios de Higiene
