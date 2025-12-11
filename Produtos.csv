@@ -622,7 +622,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;241;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;111;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;139;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;140;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;138;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -673,7 +673,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;476;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;164;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;139;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;140;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;112;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;294;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;138;Casa;Lixeira
@@ -864,7 +864,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.101.01;Carrinho de Bebê Minny Preto Absoluto - Cosco;759.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.06.01;Carrinho de Bebê Nivo Preto e Cinza - Tutti Baby;769.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;999.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;5;Carrinho de Bebê;Carrinho de Bebê
+8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;11;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;8;Carrinho de Bebê;Carrinho Travel System
