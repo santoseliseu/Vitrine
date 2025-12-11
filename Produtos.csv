@@ -35,7 +35,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
-8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;20;Banho e Higiene;Utensílios de Higiene
+8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;3;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;4;Alimentação;Cadeira de Refeição
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
@@ -73,7 +73,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;7;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;7;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
-8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;13;Banho e Higiene;Utensílios de Higiene
+8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;22;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;39;Passeio;Cadeira para Carro
@@ -129,9 +129,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.04.06;Banheira de Bebê Fresh com Suporte Branca - Kiddo;219.9;1;Banho e Higiene;Banheira
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
-8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;2;Banho e Higiene;Banheira
+8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
 8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;17;Banho e Higiene;Banheira
-8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;27;Banho e Higiene;Banheira
+8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;26;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;42;Banho e Higiene;Banheira
@@ -376,7 +376,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;1;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;5;Passeio;Cadeira para Carro
-8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;11;Passeio;Cadeira para Carro
+8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;9;Passeio;Cadeira para Carro
 8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;3;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
@@ -482,7 +482,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
 8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;1169.9;7;Carrinho de Bebê;Carrinho Travel System
-8.09.01.85.01;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Black Chrome - Safety 1st;3259.9;2;Carrinho de Bebê;Carrinho Travel System
+8.09.01.85.01;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Black Chrome - Safety 1st;3259.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;18;Carrinho de Bebê;Carrinho Travel System
 8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;1089.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;1160.1;5;Carrinho de Bebê;Carrinho Travel System
@@ -886,7 +886,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;71;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.96.01;Carrinho de Bebê Reverse Cosco - Preto Rajado;689.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.97.18;Carrinho de Bebê Reverse Cosco - Rosa;859.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.39.25.01;Carrinho de Bebê Rio K com Bebê Conforto Touring X Preto Cobre - Burigotto;1049.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.55.10;Carrinho de Bebê Rock Black Total - Infanti;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;809.1;3;Carrinho de Bebê;Carrinho de Bebê
@@ -904,7 +903,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;609.9;12;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;2179.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;36;Carrinho de Bebê;Carrinho Travel System
-8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;1269.9;4;Carrinho de Bebê;Carrinho Travel System
+8.09.28.79.01;Carrinho de Bebê Travel System Trio Napoli Preto e Cobre - Galzerano;1269.9;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.75.10;Carrinho de Bebê Travel System Trio Versatrax Cycle Cinza Shellgray + Brinde Exclusivo - Joie;4829.9;4;Passeio;Carrinho Travel System
 8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;4332.6;3;Passeio;Carrinho Travel System
 8.09.76.72.10;Carrinho de Bebê Travel System Trio Versatrax E Pebble Cinza + Brinde Exclusivo - Joie;4332.6;5;Passeio;Carrinho Travel System
@@ -912,7 +911,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.22.01;Carrinho de Bebê Up Black - Burigotto;959.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.21.10;Carrinho de Bebê Up! Metal Prata - Burigotto;979.9;2;Passeio;Carrinho de Bebê
 8.09.76.48.10;Carrinho de Bebê Versatrax Cycle Travel System TRIO Cinza Shellgray - Joie;4829.9;5;Carrinho de Bebê;Carrinho Travel System
-8.09.76.46.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Moon Light - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.76.46.01;Carrinho de Bebê Versatrax E Travel System TRIO Preto Moon Light - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.76.82.57;Carrinho de Bebê Versiti Areia Sandstone - Joie;4679.1;3;Passeio;Carrinho de Bebê
 8.09.76.81.10;Carrinho de Bebê Versiti Chumbo Ebony - Joie;4679.1;2;Passeio;Carrinho de Bebê
 8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;779.9;6;Carrinho de Bebê;Carrinho de Bebê
@@ -1326,14 +1325,14 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;3;Banho e Higiene;Toalha
 8.25.57.187.18;Toalha Poncho Aventuras Sereia Rosa - Buba;119.9;1;Banho e Higiene;Toalha
 8.25.57.186.11;Toalha Poncho Zoo Dino Verde - Buba;119.9;2;Banho e Higiene;Toalha
-8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;2;Banho e Higiene;Toalha
+8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;1;Banho e Higiene;Toalha
 8.30.02.01.60;Torre de Aprendizado Toucan 3 em 1 Natural Wood - Maxi-Cosi;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.57.09.69;Torre Espiral de Bola Buba Colorido;89.9;1;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;466;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;465;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
