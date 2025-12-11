@@ -286,7 +286,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.65.69;Brinquedo Para Banho Com Ventosa Amigos Marinhos - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
 8.30.96.01.00;Brinquedo Submarino Discovery Musical Toy - Baby Einstein;159.9;4;Brinquedo e Diversão;Brinquedos
 8.30.33.20.00;Brinquedo Wind Chime Christopher - Tiny Love;39.9;5;Brinquedo e Diversão;Brinquedos
-8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;44.9;3;Brinquedo e Diversão;Brinquedos
+8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;44.9;2;Brinquedo e Diversão;Brinquedos
 8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;39.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.57.99.00;Buzininha Com Mordedor Buba Zoo Dino - Buba;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;39.9;2;Brinquedo e Diversão;Mordedores
@@ -377,7 +377,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;5;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;11;Passeio;Cadeira para Carro
-8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;4;Passeio;Cadeira para Carro
+8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;3;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
 8.07.01.32.01;Cadeirinha de Carro Multifix com Isofix 0 a 36 kg Black Urban - Safety 1st;1379.9;17;Passeio;Cadeira para Carro
@@ -412,7 +412,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;459.9;1;Passeio;Cadeira para Carro
 8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;509.9;1;Passeio;Cadeira para Carro
 8.07.04.03.07;Cadeirinha para Carro Tour 9 a 36 kg Preto e Azul - Cosco;509.9;2;Passeio;Cadeira para Carro
-8.07.04.04.18;Cadeirinha para Carro Tour 9 a 36 kg Preto e Rosa - Cosco;499.9;3;Passeio;Cadeira para Carro
+8.07.04.04.18;Cadeirinha para Carro Tour 9 a 36 kg Preto e Rosa - Cosco;499.9;2;Passeio;Cadeira para Carro
 8.07.76.08.01;Cadeirinha para Carro Trillo Preto e Cinza Ember - Joie;677.9;1;Passeio;Cadeira para Carro
 8.07.84.04.10;Cadeirinha para Carro Uni-All 0 a 36kg London Grey - GB;3959.9;2;Passeio;Cadeira para Carro
 8.07.84.01.01;Cadeirinha para Carro Uni-All 0 a 36kg Velvet Black - GB;3959.9;2;Passeio;Cadeira para Carro
@@ -509,7 +509,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;5;Carrinho de Bebê;Carrinho Travel System
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;5;Carrinho de Bebê;Carrinho Travel System
-8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;24;Carrinho de Bebê;Carrinho Travel System
+8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;23;Carrinho de Bebê;Carrinho Travel System
 8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;50;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -546,7 +546,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;34;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;26;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -625,7 +625,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;241;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;112;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;141;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;140;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;138;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -675,10 +675,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;476;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;166;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;141;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;165;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;140;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;113;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;295;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;294;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;138;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;288;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -805,7 +805,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;16;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;15;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;12;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;3;Passeio;Acessórios para Passeio
