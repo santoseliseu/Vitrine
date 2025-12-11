@@ -171,6 +171,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;2;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;16;Bebê Conforto;Bebê Conforto
+8.03.04.50.01;Bebê Conforto Reverse 0 a 13 Kg Preto Rajado - Cosco;399.9;1;Passeio;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;3;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;3;Passeio;Bebê Conforto
 8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;4;Passeio;Bebê Conforto
@@ -223,7 +224,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.26.69;Bichinhos Para Banho Dino Tubo 4 Unidades Coloridos - Buba;39.9;2;Brinquedo e Diversão;Brinquedos
 6.28.60.13.08;Bicicleta com Rodinhas Aro 12 Motor X PU 3 anos até 21kg Vermelho e Amarelo - Nathor;271.92;4;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
-6.28.25.173.69;Bicicleta Infantil com Rodinhas Aro 12 Cecizinha 2023 Colorida - Caloi;297.5;1;Bicicletas;Infantil
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;4;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;1;Bicicletas;Infantil
 8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;3;Bicicletas;Infantil
@@ -509,7 +509,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;5;Carrinho de Bebê;Carrinho Travel System
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;5;Carrinho de Bebê;Carrinho Travel System
-8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;23;Carrinho de Bebê;Carrinho Travel System
+8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;22;Carrinho de Bebê;Carrinho Travel System
 8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;50;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -937,7 +937,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.105.07.17;Cesto Organizador Quadrado Raposa - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.09.17;Cesto Organizador Quadrado Tigre - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.04.18;Cesto Organizador Quadrado Unicórnio - 3 Sprouts;169.9;1;Quarto;Quarto
-8.30.33.01.10;Chocalho Koala Cinza Boho Chic - Tiny Love;49.9;3;Brinquedo e Diversão;Brinquedos
+8.30.33.01.10;Chocalho Koala Cinza Boho Chic - Tiny Love;49.9;2;Brinquedo e Diversão;Brinquedos
 8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;25;Brinquedo e Diversão;Mordedores
 8.25.86.04.18;Chupeta Air Night Pássaro 6m+ - Mam;27.9;35;Brinquedo e Diversão;Chupetas
 8.25.86.15.00;Chupeta Bico Simétrico 6m+ Girl - Mam - CavaloMarinho&Camarão;38.9;26;Brinquedo e Diversão;Chupetas
