@@ -782,7 +782,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
 8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;5;Disponível 01;Brinquedos Diversos
 8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;114.9;6;Brinquedo e Diversão;Brinquedos
-8.30.33.05.00;Móbile Take Along Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.05.18;Mochila com Guia Unicórnio Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1038,7 +1037,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.53.00;Escova De Dentes 3A+ Rosa - Chicco;14.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;9;Banho e Higiene;Utensílios de Higiene
-8.25.53.89.07;Escova De Dentes Elétrica Chicco 3A+ Pirata Azul;27.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.37.18;Escova e Pente Cerdas Macias Rosa - Buba;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.24.72.122.00;Escova Massageadora Com Disco Protetor Girafa Lola - Marcus & Marcus;69.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1058,9 +1056,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.34.113;Espelho Retrovisor Grande Para Banco Traseiro KaBaby Roxo;99.9;3;Alimentação;Acessórios de Alimentação
 8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;3;Passeio;Acessórios para Passeio
 8.25.35.28.00;Espelho Retrovisor Para Banco Traseiro Baby Look Multikids Baby;69.9;1;Passeio;Acessórios para Passeio
-8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;13;Passeio;Acessórios para Passeio
+8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;12;Passeio;Acessórios para Passeio
 8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;69.9;3;Alimentação;Acessórios de Alimentação
-8.24.58.23.06;Esterilizador Elétrico 110V Branco e Cinza - Philips Avent;969.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;989.9;1;Alimentação;Acessórios de Alimentação
 8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;3;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
@@ -1286,7 +1283,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;5;Brinquedo e Diversão;Ginásios
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;2;Brinquedo e Diversão;Tapetes
-8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;22;Brinquedo e Diversão;Ginásios
+8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;21;Brinquedo e Diversão;Ginásios
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;6;Brinquedo e Diversão;Ginásios
 8.13.33.01.00;Tapete e Ginásio de Atividades Gymini Dynamic Meadow Days - Tiny Love;0.0;6;Brinquedo e Diversão;Ginásios
 8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;599.9;6;Brinquedo e Diversão;Ginásios
