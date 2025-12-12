@@ -4,7 +4,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos Diversos
 8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;49.9;1;Passeio;Acessórios para Passeio
 8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;14;Banho e Higiene;Utensílios de Higiene
-8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;14.9;60;Banho e Higiene;Utensílios de Higiene
+8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;14.9;40;Banho e Higiene;Utensílios de Higiene
 8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;27.9;44;Banho e Higiene;Utensílios de Higiene
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
@@ -47,7 +47,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;6;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;15;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;14;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;149.9;1;Quarto;Quarto
@@ -76,7 +76,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;22;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;37;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;36;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
@@ -202,7 +202,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;1;Quarto;Berço
 8.04.23.13.07;Berço Portátil Hello Azul - Infanti;0.0;1;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;4;Quarto;Berço
-8.04.03.23.18;Berço Portátil Luck Rosa Boreal - Voyage;629.9;1;Quarto;Berço
 8.04.04.16.07;Berço Portátil Nanny Azul Rajado - Cosco;599.9;1;Quarto;Berço
 8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;599.9;1;Berço para quarto;Berço
 8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;699.9;2;Quarto;Berço
@@ -309,7 +308,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
-8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;4;Alimentação;Cadeira de Refeição
+8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;3;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;20;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;8;Alimentação;Cadeira de Refeição
 8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;4;Alimentação;Cadeira de Refeição
@@ -771,7 +770,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.02.69;Móbile Musical Luxe Tiny Love - Treasure the Ocean;259.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
-8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
+8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
 8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;114.9;6;Brinquedo e Diversão;Brinquedos
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1313,7 +1312,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;459;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;458;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
