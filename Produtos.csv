@@ -75,7 +75,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;22;Passeio;Cadeira para Carro
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;21;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;35;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;22;Passeio;Cadeira para Carro
@@ -129,7 +129,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;5;Banho e Higiene;Banheira
+8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;3;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;25;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -308,7 +308,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.01.08;Cadeira de Alimentação Jelly Red - Safety 1st;909.9;1;Alimentação;Cadeira de Refeição
 8.06.39.13.06;Cadeira de Alimentação Kiwi Polar - Burigotto;219.9;3;Alimentação;Cadeira de Refeição
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
-8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;3;Alimentação;Cadeira de Refeição
+8.06.39.27.10;Cadeira de Alimentação Merenda Granito - Burigotto;649.9;2;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;20;Alimentação;Cadeira de Refeição
 8.06.02.03.80;Cadeira de Alimentação Moa 8 em 1 Beyond Graphite - Maxi-Cosi;0.0;8;Alimentação;Cadeira de Refeição
 8.06.02.04.06;Cadeira de Alimentação Moa 8 em 1 Beyond White - Maxi-Cosi;0.0;4;Alimentação;Cadeira de Refeição
@@ -583,7 +583,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.42.18;Kit Colheres Verde e Rosa - Buba;19.9;4;Alimentação;Acessórios de Alimentação
 8.24.72.89.00;Kit Com 3 Potes Em Tritan 240Ml (Vem Com Label Em Silicone Para Escrever) - Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.90.00;Kit com 4 Potes em Tritan 120ml e 240ml Verde e Transparente – Marcus & Marcus;139.9;2;Alimentação;Acessórios de Alimentação
-8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;29.9;2;Alimentação;Acessórios de Alimentação
+8.24.23.23.18;Kit com 4 Pratos Infantis Bowls 300 ml Rosa e Roxo - Infanti;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.30.00;Kit Com Tigela e Primeiro Garfo e Colher Elefante - Marcus&Marcus;119.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.88.00;Kit Completo Cuidados Baby com Estojo - Buba;79.9;2;Banho e Higiene;Utensílios de Higiene
 8.24.57.78.03;Kit Copo Alimentador Graduado 3 Unidades Transparente – Buba;19.9;5;Alimentação;Acessórios de Alimentação
