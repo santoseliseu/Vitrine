@@ -55,7 +55,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.06.07;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Azul Jeans - D´Bella for Baby;139.9;3;Passeio;Acessórios para Passeio
 8.25.75.05.00;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Nude - D´Bella for Baby;139.9;7;Passeio;Acessórios para Passeio
 8.25.75.52.18;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Rosê - D´Bella for Baby;139.9;2;Banho e Higiene;Utensílios de Higiene
-8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;0.0;4;Brinquedo e Diversão;Andador
+8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
 8.05.03.17.07;Andador Infantil Baby Step Até 12 kg Azul - Voyage;259.9;3;Brinquedo e Diversão;Andador
 8.05.03.15.07;Andador Infantil Buggy Até 12kg Azul - Voyage;279.9;4;Brinquedo e Diversão;Andador
 8.67.170.01.11;Andador Infantil Divertido em Madeira Verde - Hape;559.9;3;Brinquedo e Diversão;Andador
@@ -485,7 +485,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;1160.1;5;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho Travel System
@@ -542,7 +542,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;30;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;26;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -1340,7 +1340,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;5;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;4;Brinquedo e Diversão;Brinquedos
-8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.25.57.201.06;Troninho Infantil com Som Branco - Buba;179.9;6;Troninho;Troninho
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
