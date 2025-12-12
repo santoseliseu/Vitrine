@@ -69,7 +69,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;3;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;6;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;5;Disponível 01;Brinquedos Diversos
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;6;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
@@ -615,7 +615,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;241;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;110;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;140;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;139;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;137;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -665,8 +665,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;476;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;164;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;140;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;163;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;139;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;111;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;293;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;137;Casa;Lixeira
@@ -1221,7 +1221,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;3;Alimentação;Acessórios de Alimentação
 8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;8;Travas e Protetores;Travas e Protetores
+8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;7;Travas e Protetores;Travas e Protetores
 8.01.71.02.18;Rede de Banheira Infantil Premium Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
 8.01.71.04.18;Rede Para Banheira de Bebê Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;49.9;3;Banho e Higiene;Utensílios de Higiene
