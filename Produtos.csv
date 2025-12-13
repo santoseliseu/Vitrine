@@ -47,7 +47,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;6;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;13;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;12;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;149.9;1;Quarto;Quarto
@@ -533,7 +533,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -603,7 +603,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.36.00;Kit Infantil Para Lanche Zoo 700 ml Borboleta - Skip Hop;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.38.00;Kit Infantil Para Lanche Zoo 700 ml Cachorro Pug - Skip Hop;139.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.39.00;Kit Infantil Para Lanche Zoo 700 ml Girafa - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
-8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;3;Alimentação;Acessórios de Alimentação
+8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;7;Banho e Higiene;Utensílios de Higiene
@@ -764,7 +764,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.02.69;Móbile Musical Luxe Tiny Love - Treasure the Ocean;259.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
-8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;1;Disponível 01;Brinquedos Diversos
 8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;114.9;6;Brinquedo e Diversão;Brinquedos
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.06.17;Mochila com Guia Tigre Laranja - Infanti;89.9;3;Bolsas e Mochilas;Bolsas e Mochilas
@@ -781,7 +780,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.08.00;Mochila Infantil Zoo Flamingo - Skip Hop;159.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.10.00;Mochila Infantil Zoo Koala - Skip Hop;209.9;5;Bolsas e Mochilas;Mochila Infantil
 8.11.92.12.00;Mochila Infantil Zoo Raposa - Skip Hop;209.9;1;Bolsas e Mochilas;Mochila Infantil
-8.11.92.14.00;Mochila Infantil Zoo Unicórnio - Skip Hop;189.9;4;Bolsas e Mochilas;Mochila Infantil
+8.11.92.14.00;Mochila Infantil Zoo Unicórnio - Skip Hop;189.9;3;Bolsas e Mochilas;Mochila Infantil
 8.11.47.04.111;Mochila Passeio com Guia Vaquinha - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.01.18;Mochila Passeio Corujinha Rosa - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1305,7 +1304,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;452;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;451;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
