@@ -71,7 +71,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
-8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
@@ -336,7 +336,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.61.27.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Ursinho - Mastela;709.9;1;Quarto;Cadeira de Descanso
 8.05.61.09.117;Cadeira de Descanso Compact Mastela Até 18Kg Cinza e Verde;369.9;2;Quarto;Cadeira de Descanso
 8.05.70.03.07;Cadeira de Descanso e Moisés com Balanço Aconchego Azul - Clingo;519.9;2;Quarto;Cadeira de Descanso
-8.05.70.04.10;Cadeira de Descanso e Moisés com Balanço Aconchego Cinza - Clingo;519.9;2;Quarto;Cadeira de Descanso
+8.05.70.04.10;Cadeira de Descanso e Moisés com Balanço Aconchego Cinza - Clingo;519.9;1;Quarto;Cadeira de Descanso
 8.05.61.08.07;Cadeira de Descanso Sinfonia Mastela Até 11,5Kg Azul Girafa;279.9;2;Quarto;Cadeira de Descanso
 8.05.61.03.89;Cadeira de Descanso Sunset Até 11,5Kg Azul e Cinza - Mastela;349.9;1;Quarto;Cadeira de Descanso
 8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;719.9;3;Quarto;Cadeira de Descanso
@@ -607,7 +607,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;241;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;108;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;137;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;136;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;135;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
@@ -657,7 +657,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;476;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;159;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;137;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;136;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;109;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;292;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;135;Casa;Lixeira
@@ -1335,7 +1335,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.09.10;Troninho Infantil Start Cinza - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;30;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;29;Banho e Higiene;Utensílios de Higiene
 8.30.74.04.06;Unicórnio de Pedal Montaria Uppi M Branca e Rosa - Kiddo;2859.9;1;Brinquedo e Diversão;Brinquedos
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
