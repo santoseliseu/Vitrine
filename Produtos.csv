@@ -42,7 +42,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;89.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;8;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;21;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;20;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;5;Passeio;Acessório para Passeio
@@ -71,7 +71,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
-8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
+8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
@@ -313,7 +313,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;5;Alimentação;Cadeira de Refeição
 8.06.03.11.07;Cadeira de Alimentação Portátil Cake Azul - Voyage;159.9;3;Alimentação;Cadeira de Refeição
 8.06.03.12.10;Cadeira de Alimentação Portátil Cake Cinza - Voyage;159.9;3;Alimentação;Cadeira de Refeição
-8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;3;Alimentação;Cadeira de Refeição
+8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;2;Alimentação;Cadeira de Refeição
 8.06.74.04.07;Cadeira de Alimentação Portátil Candy Azul - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
@@ -657,7 +657,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;476;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;160;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;159;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;137;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;109;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;292;Casa;Lixeira
