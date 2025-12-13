@@ -129,7 +129,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.57.01.07;Banheira de Bebê Inflável Baleia Feliz Azul - Buba;89.9;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
-8.01.28.15.06;Banheira de Bebê Plástica Acqua Trio Branca - Galzerano;189.9;2;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;25;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
@@ -169,7 +168,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;2;Passeio;Bebê Conforto
-8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;13;Bebê Conforto;Bebê Conforto
+8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;12;Bebê Conforto;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;3;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;3;Passeio;Bebê Conforto
 8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;4;Passeio;Bebê Conforto
@@ -384,7 +383,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;16;Passeio;Cadeira para Carro
-8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;27;Passeio;Cadeira para Carro
+8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;26;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;7;Passeio;Cadeira para Carro
 8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;5;Passeio;Cadeira para Carro
 8.15.02.09.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite + Espelho Back Seat;0.0;7;Passeio;Cadeira para Carro
@@ -534,7 +533,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;27;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;23;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
