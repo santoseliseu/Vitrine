@@ -3,7 +3,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;339.9;2;Passeio;Acessórios para Passeio
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos Diversos
 8.09.53.46.01;Adaptadores Mysa Fast In Black Chicco;49.9;1;Passeio;Acessórios para Passeio
-8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;14;Banho e Higiene;Utensílios de Higiene
+8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.135.03.00;Adesivo de Citronela Amo Protect 8 Und INR;14.9;40;Banho e Higiene;Utensílios de Higiene
 8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;27.9;44;Banho e Higiene;Utensílios de Higiene
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
@@ -70,7 +70,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;3;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
-8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos
+8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
@@ -220,7 +220,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
 6.28.60.23.69;Bicicleta Infantil com Rodinhas Aro 14 Cecizinha 2024 Colorida - Caloi;749.9;3;Bicicletas;Infantil
 6.28.60.09.114;Bicicleta Infantil com Rodinhas Violet Aro 12 até 21kg Rosa e Lilás - Nathor;231.92;1;Bicicletas;Infantil
-8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;2;Bicicletas;Infantil
+8.30.57.49.11;Bicicleta Infantil de Equilíbrio Scooter 4 Rodas Verde - Buba;259.9;1;Bicicletas;Infantil
 6.28.60.08.70;Bicicleta Infantil FireMan Aro 12'' até 21kg Vermelho e Azul - Nathor;231.92;8;Bicicletas;Infantil
 8.24.53.26.00;Bico de Mamadeira Step Up Fluxo Ajustável (4M+) 2 Unidades - Chicco;37.9;6;Alimentação;Acessórios de Alimentação
 8.24.53.25.00;Bico de Mamadeira Step Up Fluxo Médio (2M+) 1 Unidade - Chicco;19.9;10;Alimentação;Acessórios de Alimentação
@@ -255,7 +255,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;59.9;9;Alimentação;Acessórios de Alimentação
-8.24.86.07.11;Bomba Tira-Leite Manual - Mam;189.9;2;Alimentação;Acessórios de Alimentação
+8.24.86.07.11;Bomba Tira-Leite Manual - Mam;189.9;1;Alimentação;Acessórios de Alimentação
 8.30.148.44.16;Boneca Angela Chocolate - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.46.18;Boneca Angela Lily Bell - Metoo;119.9;1;Brinquedo e Diversão;Brinquedos
 8.30.148.10.00;Boneca Angela Tica Cacheada - Metoo;139.9;1;Brinquedo e Diversão;Brinquedos
@@ -1296,7 +1296,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;443;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;442;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
