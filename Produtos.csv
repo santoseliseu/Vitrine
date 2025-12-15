@@ -69,7 +69,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;3;Brinquedo e Diversão;Brinquedos
 8.30.33.29.00;Arco Nature Stroll Musical Into The Forest - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;3;Disponível 01;Brinquedos Diversos
+8.30.33.54.00;Arco Sunny Stroll Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
 8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.28.00;Arco Sunny Stroll Meadow Days - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
@@ -271,7 +271,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.33.61.69;Brinquedo Educativo de Encaixe Tiny Rockers - Tiny Love;169.9;5;Brinquedo e Diversão;Brinquedos
 8.30.53.77.69;Brinquedo Formas das Vogais Chicco;49.9;1;Brinquedo e Diversão;Brinquedos
-8.30.57.58.69;Brinquedo Interativo Pop-Up Zoo Colorido - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
 8.30.57.63.11;Brinquedo Jacaré Bate-Martelo Com Bolinhas - Buba;169.9;3;Brinquedo e Diversão;Brinquedos
 8.30.33.17.00;Brinquedo Jitter Jumpy Thomas - Tiny Love;59.9;13;Brinquedo e Diversão;Brinquedos
 8.30.57.65.69;Brinquedo Para Banho Com Ventosa Amigos Marinhos - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
@@ -530,7 +529,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.123.01;Carrinho de Bebê Griffy Preto - Cosco;749.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;6;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;21;Carrinho de Bebê;Carrinho de Bebê
@@ -652,7 +651,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;158;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;134;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;107;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;291;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;290;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;134;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;286;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1282,13 +1281,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.114.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorida Cavalo - D´Bella for Baby;139.9;3;Higene;Utensílios de Higiene
 8.25.75.115.06;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Colorido Laço - D´Bella for Baby;139.9;4;Higene;Utensílios de Higiene
 8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;3;Banho e Higiene;Toalha
-8.25.57.187.18;Toalha Poncho Aventuras Sereia Rosa - Buba;119.9;1;Banho e Higiene;Toalha
 8.25.57.185.18;Toalha Poncho Zoo Unicórnio Rosa - Buba;129.9;1;Banho e Higiene;Toalha
 8.30.02.01.60;Torre de Aprendizado Toucan 3 em 1 Natural Wood - Maxi-Cosi;0.0;3;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;440;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;439;Travas e Protetores;Travas e Protetores
 8.12.01.11.06;Trava para Janelas e Portas de Correr 2 Unidades White - Safety 1st;29.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.15.02.13.01;Travel System Anna³ Trio Maxi-Cosi Essential Black + Arco Sunny Stroll;0.0;1;Carrinho de Bebê;Carrinho Travel System
