@@ -248,7 +248,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;4;Banho e Higiene;Utensílios de Higiene
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;4;Alimentação;Acessórios de Alimentação
-8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;7;Alimentação;Acessórios de Alimentação
+8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;6;Alimentação;Acessórios de Alimentação
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;59.9;9;Alimentação;Acessórios de Alimentação
@@ -592,7 +592,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;239;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;238;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;105;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;134;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;134;Casa;Lixeira
@@ -639,7 +639,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;532;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;239;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;238;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;474;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
