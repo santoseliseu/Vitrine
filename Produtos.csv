@@ -154,7 +154,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;1;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;2;Passeio;Base para Bebê Conforto
-8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;22;Passeio;Base para Bebê Conforto
+8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;21;Passeio;Base para Bebê Conforto
 8.03.02.23.01;Base Veicular Marble Black - Maxi-Cosi;909.9;1;Passeio;Base para Bebê Conforto
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;20;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -602,7 +602,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.146.05;Kit Protetor Solar Blackout com Ventosas - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.69.26.00;Kit Queridinhos Limpa Mamadeiras, Frutinhas e Vegetais - Bioclub Baby;79.9;4;Banho e Higiene;Utensílios de Higiene
 8.24.57.38.07;Kit Talher com Estojo Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
-8.24.33.02.11;Lancheira Térmica Croco - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
+8.24.33.02.11;Lancheira Térmica Croco - Tiny Love;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.33.01.17;Lancheira Térmica Safari - Tiny Love;79.9;3;Alimentação;Acessórios de Alimentação
@@ -1006,7 +1006,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.04.01;Espelho Retrovisor Back Seat Black - Safety 1st;89.9;8;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
 8.25.47.34.113;Espelho Retrovisor Grande Para Banco Traseiro KaBaby Roxo;99.9;3;Alimentação;Acessórios de Alimentação
-8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;3;Passeio;Acessórios para Passeio
+8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;4;Passeio;Acessórios para Passeio
 8.25.35.28.00;Espelho Retrovisor Para Banco Traseiro Baby Look Multikids Baby;69.9;1;Passeio;Acessórios para Passeio
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;12;Passeio;Acessórios para Passeio
 8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;69.9;3;Alimentação;Acessórios de Alimentação
@@ -1234,7 +1234,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;4;Brinquedo e Diversão;Ginásios
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;2;Brinquedo e Diversão;Tapetes
-8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;9;Brinquedo e Diversão;Ginásios
+8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;8;Brinquedo e Diversão;Ginásios
 8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Ginásios
 8.13.33.01.00;Tapete e Ginásio de Atividades Gymini Dynamic Meadow Days - Tiny Love;0.0;4;Brinquedo e Diversão;Ginásios
 8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;599.9;6;Brinquedo e Diversão;Ginásios
