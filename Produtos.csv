@@ -126,7 +126,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;25;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
 8.01.28.32.10;Banheira de Bebê Plástica Koa Branca e Cinza - Galzerano;219.9;1;Banho e Higiene;Banheira
-8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;39;Banho e Higiene;Banheira
+8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;38;Banho e Higiene;Banheira
 8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;375.9;4;Banho e Higiene;Banheira
 8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;375.9;2;Banho e Higiene;Banheira
@@ -512,7 +512,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;19;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -599,7 +599,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.146.05;Kit Protetor Solar Blackout com Ventosas - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.69.26.00;Kit Queridinhos Limpa Mamadeiras, Frutinhas e Vegetais - Bioclub Baby;79.9;4;Banho e Higiene;Utensílios de Higiene
 8.24.57.38.07;Kit Talher com Estojo Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
-8.24.33.02.11;Lancheira Térmica Croco - Tiny Love;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.33.01.17;Lancheira Térmica Safari - Tiny Love;79.9;3;Alimentação;Acessórios de Alimentação
