@@ -633,12 +633,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;532;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;238;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;237;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1048;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;474;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;154;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;132;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;131;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;104;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;290;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;134;Casa;Lixeira
@@ -760,7 +760,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;3;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;14;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.01.01;Mochila Way Black - Safety 1st;359.9;13;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;12;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;2;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;3;Passeio;Acessórios para Passeio
@@ -1197,7 +1197,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;5;Alimentação;Acessórios de Alimentação
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;15;Quarto;Quarto
-8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;3;Quarto;Quarto
+8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;2;Quarto;Quarto
 8.60.171.06.18;Saco de Dormir em Soft Anti Pilling Rosa Bebê M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;2;Quarto;Quarto
 8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;13;Quarto;Quarto
