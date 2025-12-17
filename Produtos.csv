@@ -139,7 +139,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
 8.01.01.16.18;Banheira de Bebê Smile com Suporte Pink - Safety 1st;679.9;3;Banho e Higiene;Banheira
-8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;21;Banho e Higiene;Banheira
+8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;22;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;10;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
 8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
@@ -243,7 +243,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;4;Banho e Higiene;Utensílios de Higiene
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;4;Alimentação;Acessórios de Alimentação
-8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;6;Alimentação;Acessórios de Alimentação
+8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;5;Alimentação;Acessórios de Alimentação
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;59.9;9;Alimentação;Acessórios de Alimentação
@@ -300,7 +300,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;5;Alimentação;Cadeira de Refeição
 8.06.03.11.07;Cadeira de Alimentação Portátil Cake Azul - Voyage;159.9;2;Alimentação;Cadeira de Refeição
 8.06.03.12.10;Cadeira de Alimentação Portátil Cake Cinza - Voyage;159.9;3;Alimentação;Cadeira de Refeição
-8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;2;Alimentação;Cadeira de Refeição
+8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;1;Alimentação;Cadeira de Refeição
 8.06.74.04.07;Cadeira de Alimentação Portátil Candy Azul - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;3;Alimentação;Cadeira de Refeição
@@ -513,6 +513,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
