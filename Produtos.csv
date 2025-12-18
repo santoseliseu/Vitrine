@@ -48,7 +48,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;4;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;6;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;5;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;4;Almofadas;Almofadas para Bebê
 8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;19;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
@@ -75,7 +75,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;18;Passeio;Cadeira para Carro
-8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;26;Passeio;Cadeira para Carro
+8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;25;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;4;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;9;Passeio;Cadeira para Carro
@@ -146,7 +146,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.12.24;Banheira de Bebê Smile com Suporte Aqua Green - Safety 1st;679.9;3;Banho e Higiene;Banheira
 8.01.01.11.27;Banheira de Bebê Smile com Suporte Grey - Safety 1st;799.9;1;Banho e Higiene;Banheira
 8.01.01.16.18;Banheira de Bebê Smile com Suporte Pink - Safety 1st;679.9;3;Banho e Higiene;Banheira
-8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;22;Banho e Higiene;Banheira
+8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;23;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;10;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
 8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
@@ -334,7 +334,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.61.08.07;Cadeira de Descanso Sinfonia Mastela Até 11,5Kg Azul Girafa;279.9;2;Quarto;Cadeira de Descanso
 8.05.61.03.89;Cadeira de Descanso Sunset Até 11,5Kg Azul e Cinza - Mastela;349.9;1;Quarto;Cadeira de Descanso
 8.05.61.11.10;Cadeira de Descanso Techno Light Até 18 Kg Cinza Fit - Mastela;719.9;3;Quarto;Cadeira de Descanso
-8.05.61.10.69;Cadeira de Descanso Vibratória Rocker Até 18 Kg Elefante Colorido - Mastela;419.9;1;Quarto;Cadeira de Descanso
 8.05.57.02.11;Cadeira de Descanso Vibratória Selvinha - Buba;599.9;1;Quarto;Cadeira de Descanso
 8.06.01.09.01;Cadeira de Refeição Easy Safety 1st - Black;269.9;2;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;4;Alimentação;Cadeira de Refeição
