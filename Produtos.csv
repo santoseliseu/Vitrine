@@ -35,7 +35,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
-8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;19;Banho e Higiene;Utensílios de Higiene
+8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;18;Banho e Higiene;Utensílios de Higiene
 8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;4;Alimentação;Cadeira de Refeição
@@ -157,7 +157,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;219.9;1;Banho e Higiene;Banheira
 8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;929.9;3;Passeio;Base para Bebê Conforto
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
-8.03.04.43.01;Base para Bebê Conforto Guardian Cosco - Preto;149.9;1;Passeio;Base para Bebê Conforto
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;1;Passeio;Base para Bebê Conforto
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;3;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;2;Passeio;Base para Bebê Conforto
@@ -184,7 +183,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
 8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;92;Quarto;Berço
-8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;7;Quarto;Berço
+8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;6;Quarto;Berço
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;2;Quarto;Berço
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;1;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;6;Quarto;Berços Portáteis
@@ -337,7 +336,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.57.02.11;Cadeira de Descanso Vibratória Selvinha - Buba;599.9;1;Quarto;Cadeira de Descanso
 8.06.01.09.01;Cadeira de Refeição Easy Safety 1st - Black;269.9;2;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;4;Alimentação;Cadeira de Refeição
-21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;230;Móveis;Cadeira
+21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;228;Móveis;Cadeira
 21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;230;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;9;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
@@ -360,7 +359,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;1;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;4;Passeio;Cadeira para Carro
-8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;6;Passeio;Cadeira para Carro
+8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;5;Passeio;Cadeira para Carro
 8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;3;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
 8.07.74.05.07;Cadeirinha de Carro Mars Isofix 9 à 36kg Azul Marinho - Kiddo;1069.9;2;Passeio;Cadeira para Carro
@@ -529,7 +528,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;15;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;24;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -1186,7 +1185,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;7;Travas e Protetores;Travas e Protetores
-8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;7;Travas e Protetores;Travas e Protetores
+8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
 8.25.58.02.00;Protetor de Seio 21mm 2 Unidades - Philips Avent;79.9;5;Travas e Protetores;Travas e Protetores
 8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;64;Travas e Protetores;Travas e Protetores
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
@@ -1198,7 +1197,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;1;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;3;Alimentação;Acessórios de Alimentação
-8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;5;Travas e Protetores;Travas e Protetores
+8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;4;Travas e Protetores;Travas e Protetores
 8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;7;Travas e Protetores;Travas e Protetores
 8.25.02.06.06;Purificador de Ar Clean 3 em 1 White - Maxi-Cosi;0.0;6;Cuidados;Cuidados
 8.01.71.02.18;Rede de Banheira Infantil Premium Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
