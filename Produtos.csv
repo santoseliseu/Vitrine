@@ -157,6 +157,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.70.06.07;Banheira Infantil Portátil Dobrável Transparente Azul - Clingo;219.9;1;Banho e Higiene;Banheira
 8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;929.9;3;Passeio;Base para Bebê Conforto
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
+8.03.04.43.01;Base para Bebê Conforto Guardian Cosco - Preto;149.9;1;Passeio;Base para Bebê Conforto
 8.03.74.01.01;Base para Bebê Conforto Isofix para Casulo Click Preto - Kiddo;1049.9;1;Passeio;Base para Bebê Conforto
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;3;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;2;Passeio;Base para Bebê Conforto
@@ -597,7 +598,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.35.00;Kit Infantil Para Lanche Zoo 700 ml Baleia Narval - Skip Hop;139.9;5;Alimentação;Acessórios de Alimentação
 8.24.92.38.00;Kit Infantil Para Lanche Zoo 700 ml Cachorro Pug - Skip Hop;139.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.39.00;Kit Infantil Para Lanche Zoo 700 ml Girafa - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
-8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;2;Alimentação;Acessórios de Alimentação
+8.24.92.40.00;Kit Infantil Para Lanche Zoo 700 ml Koala - Skip Hop;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
@@ -1288,7 +1289,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;12;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
 8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;425;Travas e Protetores;Travas e Protetores
-8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;9;Travas e Protetores;Travas e Protetores
+8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
