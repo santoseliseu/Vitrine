@@ -36,7 +36,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;18;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;3;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;4;Alimentação;Cadeira de Refeição
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
@@ -126,7 +126,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;421;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;633;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;632;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
@@ -495,7 +495,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;4;Carrinho de Bebê;Carrinho Travel System
 8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;9;Carrinho de Bebê;Carrinho Travel System
-8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;47;Carrinho de Bebê;Carrinho Travel System
+8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;46;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.96.35;Carrinho com Bebê Conforto Travel System Trio Mobi Black & White - Safety 1St;2539.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -1027,7 +1027,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.35.28.00;Espelho Retrovisor Para Banco Traseiro Baby Look Multikids Baby;69.9;1;Passeio;Acessórios para Passeio
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;11;Passeio;Acessórios para Passeio
 8.30.33.59.69;Estação de DJ Tiny Rockers - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos Diversos
-8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;69.9;2;Alimentação;Acessórios de Alimentação
+8.24.57.91.06;Esterilizador de Mamadeiras Branco - Buba;69.9;1;Alimentação;Acessórios de Alimentação
 8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;989.9;1;Alimentação;Acessórios de Alimentação
 8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;3;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
