@@ -35,7 +35,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;18;Banho e Higiene;Utensílios de Higiene
-8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;3;Alimentação;Acessórios de Alimentação
+8.03.23.03.57;Almofada de Elevação Mangiare Bege - Infanti;0.0;2;Alimentação;Acessórios de Alimentação
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;4;Alimentação;Cadeira de Refeição
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
@@ -68,12 +68,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
 8.25.47.39.18;Apoio de Cabeça Soneca Para Carro Rosa - KaBaby;79.9;1;Passeio;Acessórios para Passeio
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;3;Brinquedo e Diversão;Brinquedos
-8.30.33.32.00;Arco Sunny Stroll Magical Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;12;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;7;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;18;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;23;Passeio;Cadeira para Carro
-8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;4;Passeio;Cadeira para Carro
+8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;9;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;37;Passeio;Cadeira para Carro
@@ -82,7 +81,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;92;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;89;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;2;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;5;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -374,9 +373,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;16;Passeio;Cadeira para Carro
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;13;Passeio;Cadeira para Carro
-8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;4;Passeio;Cadeira para Carro
+8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;3;Passeio;Cadeira para Carro
 8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;5;Passeio;Cadeira para Carro
-8.15.02.09.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite + Espelho Back Seat;0.0;4;Passeio;Cadeira para Carro
+8.15.02.09.80;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 Kg Authentic Graphite + Espelho Back Seat;0.0;3;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;3;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;3;Passeio;Cadeira para Carro
@@ -470,9 +469,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.28.18;Carrinho com Bebê Conforto Travel System Ecco CZ Rosa - Burigotto;1160.1;5;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.23.44.01;Carrinho com Bebê Conforto Travel System Epic Lite Trio Black Deep - Infanti;2879.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;64;Carrinho de Bebê;Carrinho Travel System
-8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;44;Carrinho de Bebê;Carrinho Travel System
-8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;39;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;63;Carrinho de Bebê;Carrinho Travel System
+8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;43;Carrinho de Bebê;Carrinho Travel System
+8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;38;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
@@ -525,7 +524,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;19;Carrinho de Bebê;Carrinho de Bebê
