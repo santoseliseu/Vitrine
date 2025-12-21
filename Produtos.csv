@@ -246,7 +246,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;4;Alimentação;Acessórios de Alimentação
-8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;4;Alimentação;Acessórios de Alimentação
+8.25.86.01.00;Bomba Tira Leite 2 em 1 Unitária Mam;749.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.01.11;Bomba Tira Leite Elétrica Leia Plus - Kikka Boo;359.9;3;Alimentação;Acessórios de Alimentação
 8.24.53.02.00;Bomba Tira Leite Manual Step Up - Chicco;59.9;9;Alimentação;Acessórios de Alimentação
@@ -1203,7 +1203,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;84;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
-8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;3;Brinquedo e Diversão;Brinquedos
+8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;2;Brinquedo e Diversão;Brinquedos
 8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.41.00;Rosquinhas de Amamentação Nude - D´Bella for Baby;59.9;4;Alimentação;Acessórios de Alimentação
@@ -1280,7 +1280,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;7;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;419;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;418;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
