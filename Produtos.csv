@@ -119,7 +119,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;3;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;420;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;419;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;630;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;3;Banho e Higiene;Banheira
@@ -418,7 +418,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;3;Passeio;Canguru
-8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;2;Passeio;Canguru
+8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;1;Passeio;Canguru
 8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;569.9;2;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
@@ -740,7 +740,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;59.9;6;Brinquedo e Diversão;Brinquedos
 8.30.33.14.00;Mini Móbile Pack & Go Meadow Days - Tiny Love;59.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;59.9;3;Brinquedo e Diversão;Brinquedos
-8.11.160.16.07;Mini Mochila com Bolso Frontal Cachorrinho - MaiT;209.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.07.02;Mini Mochila com Bolso Frontal Ovelhinha - MaiT;209.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.29.02;Mini Mochila com Pochete Xadrez Borboleta - MaiT;199.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.30.39.02.11;Mini Trator Eletrico Infantil John Deere 6V - Peg Perego;789.9;4;Brinquedo e Diversão;Brinquedos
@@ -803,7 +802,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.119.00;Naninha Zebrinha - Buba;49.9;2;Quarto;Quarto
 8.11.160.20.113;Necessaire Arco Iris - MaiT;119.9;7;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.18.07;Necessaire Astronauta - MaiT;119.9;10;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.160.15.07;Necessaire Cachorrinho - MaiT;109.9;2;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.160.15.07;Necessaire Cachorrinho - MaiT;109.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.02.07;Necessaire Cupcake - MaiT;109.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.34.07;Necessaire Dino Marinho - MaiT;89.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.04.08;Necessaire Pipoca - MaiT;109.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -883,11 +882,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;3;Passeio;Acessório para Passeio
 8.09.84.02.01;Carrinho para Bebê Compacto Qbit+All Terrain Night Black - GB;2309.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.16.07;Carrinho para Bebê Compacto Qbit+All Terrain Night Blue - GB;2319.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;959.9;2;Carrinho de Bebê;Carrinho Travel System
+8.09.28.77.01;Carrinho Travel System Milano Reversível II Preto e Cobre - Galzerano;959.9;1;Carrinho de Bebê;Carrinho Travel System
 6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;0.0;6;Brinquedo e Diversão;Brinquedos
 8.30.04.01.57;Casinha Portátil Kids Playhouse Bege e Vermelha - Cosco;929.9;5;Brinquedo e Diversão;Brinquedos
 8.30.74.05.76;Cavalo de Pedal Montaria Uppi M Marrom - Kiddo;2859.9;1;Brinquedo e Diversão;Brinquedos
-8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;0.0;8;Brinquedo e Diversão;Centro de Atividades
+8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;0.0;5;Brinquedo e Diversão;Centro de Atividades
 8.30.94.10.00;Centro de Atividades Sophie La Girafe - Vulli;189.9;9;Brinquedo e Diversão;Centro de Atividades
 8.04.74.04.10;Cercado Portátil ICI Cinza - Kiddo;445.9;2;Quarto;Quarto
 8.04.74.05.01;Cercado Portátil ICI Preto - Kiddo;445.9;1;Quarto;Quarto
@@ -912,7 +911,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;15;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;18;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;27;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;26;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;8;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;12;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -1018,7 +1017,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;10;Passeio;Acessórios para Passeio
 8.30.33.59.69;Estação de DJ Tiny Rockers - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos Diversos
 8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;989.9;1;Alimentação;Acessórios de Alimentação
-8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;3;Brinquedo e Diversão;Brinquedos
+8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.15.11;Ferrovia Estação de Cargas Verde - Hape;459.9;1;Brinquedo e Diversão;Brinquedos
 8.25.02.05.01;Filtro para Purificador de Ar Clean 3 Unidades Black - Maxi-Cosi;0.0;1;Cuidados;Cuidados
@@ -1043,9 +1042,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;7;Alimentação;Acessórios de Alimentação
 8.24.92.19.00;Garrafa com Canudo Flip Zoo 384 ml Unicórnio - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.11.00;Garrafa de Aço Inox 350ml Zoo Unicórnio - Skip Hop;169.9;1;Alimentação;Acessórios de Alimentação
-8.24.128.10.10;Garrafa Easy Open Térmica 700ml Grafite - Büp One;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.128.13.18;Garrafa Easy Open Térmica 700ml Rosa Cereja - Büp One;139.9;2;Alimentação;Acessórios de Alimentação
-8.24.128.11.11;Garrafa Easy Open Térmica 700ml Verde - Büp One;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.128.14.11;Garrafa Easy Open Térmica 700ml Verde Sálvia - Büp One;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.148.03.18;Garrafa Flip Infantil Angela Fada Mia - Metoo;49.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.05.07;Garrafa Flip Térmica com Alça de Silicone Dálmata - Büp Baby;69.9;1;Alimentação;Acessórios de Alimentação
@@ -1242,7 +1239,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;2;Brinquedo e Diversão;Tapetes
 8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;1;Brinquedo e Diversão;Ginásios
-8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;4;Brinquedo e Diversão;Ginásios
+8.13.33.02.00;Tapete e Ginásio de Atividades Gymini Black & White Magical Tales - Tiny Love;0.0;3;Brinquedo e Diversão;Ginásios
 8.13.33.01.00;Tapete e Ginásio de Atividades Gymini Dynamic Meadow Days - Tiny Love;0.0;2;Brinquedo e Diversão;Ginásios
 8.13.33.08.00;Tapete e Ginásio de Atividades Gymini Kick & Play Tiny Farm - Tiny Love;599.9;6;Brinquedo e Diversão;Ginásios
 8.13.98.05.69;Tapete EPE Rolo ABC Carros 200x180cm - Ibimboo;199.9;2;Brinquedo e Diversão;Tapetes
@@ -1280,7 +1277,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;7;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;410;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;409;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
