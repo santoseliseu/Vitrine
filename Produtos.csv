@@ -849,7 +849,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.56.10;Carrinho de Bebê Rock Grey Total - Infanti;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;809.1;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.87.01;Carrinho de Bebê Romano Preto e Cobre - Galzerano;809.1;2;Carrinho de Bebê;Carrinho de Bebê
-8.09.169.07.11;Carrinho de Bebê Ruby Mint - Kikka Boo;699.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;2699.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.129.01;Carrinho de Bebê Skinny 6 meses a 15 Kg Preto - Cosco;269.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;44;Carrinho de Bebê;Carrinho de Bebê
@@ -1034,7 +1033,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.13.00;Garrafa com Canudo Flip Zoo 384 ml Borboleta - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
-8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
+8.24.92.65.11;Garrafa com Canudo Flip Zoo 384 ml Cachorro Pug - Skip Hop;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;7;Alimentação;Acessórios de Alimentação
 8.24.92.19.00;Garrafa com Canudo Flip Zoo 384 ml Unicórnio - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.92.11.00;Garrafa de Aço Inox 350ml Zoo Unicórnio - Skip Hop;169.9;1;Alimentação;Acessórios de Alimentação
@@ -1079,7 +1078,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.104.00;Jogo Anatômico Colher Garfo E Faca Com Inox Girafa Lola 3Pcs - Marcus & Marcus;79.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.105.00;Jogo Anatômico Colher Garfo E Faca Com Inox Hipopótamo Lucas 3Pcs - Marcus & Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.107.00;Jogo Anatômico Colher Garfo E Faca Com Inox Porquinha Pokey 3Pcs - Marcus & Marcus;79.9;1;Alimentação;Acessórios de Alimentação
-8.24.72.59.113;Jogo de Colher e Garfo Cabo em Silicone Baleia Roxa - Marcus&Marcus;59.9;2;Alimentação;Acessórios de Alimentação
+8.24.72.59.113;Jogo de Colher e Garfo Cabo em Silicone Baleia Roxa - Marcus&Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.95.00;Jogo de Colher e Garfo em Inox e Silicone Leão Vermelho - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.123.02.18;Jogo de Talheres Infantil Branca/Rosa - Oxotot;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.116.01.00;Kit 2 Adaptadores de Colher Squeeze - Infantino;29.9;3;Alimentação;Acessórios de Alimentação
@@ -1124,7 +1123,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.82.69;Pratinho Bowl Animal Fun Leão - Buba;9.9;4;Alimentação;Acessórios de Alimentação
 8.24.57.83.69;Pratinho Bowl Frutti Melancia - Buba;9.9;4;Alimentação;Acessórios de Alimentação
 8.24.120.19.00;Pratinho Monstro - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
-8.24.47.17.07;Prato Bowl Quadrado Baleia Azul - KaBaby;29.9;5;Alimentação;Acessórios de Alimentação
+8.24.47.17.07;Prato Bowl Quadrado Baleia Azul - KaBaby;29.9;4;Alimentação;Acessórios de Alimentação
 8.24.47.18.18;Prato Bowl Quadrado Pássaro Rosa - KaBaby;29.9;5;Alimentação;Acessórios de Alimentação
 8.24.72.126.11;Prato com Divisória e Sucção 4 Compartimentos Elefante Ollie - Marcus&Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
@@ -1229,7 +1228,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.13.57.05.69;Tapete De Água Inflável Mar - Buba;59.9;3;Brinquedo e Diversão;Brinquedos
 8.30.57.66.07;Tapete De Água Inflável Oceano - Buba;49.9;3;Brinquedo e Diversão;Brinquedos
 8.13.53.01.11;Tapete de Atividades Colorir as Estacões Verde - Chicco;65.0;15;Brinquedo e Diversão;Tapetes
-8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;3;Brinquedo e Diversão;Ginásios
+8.13.33.10.69;Tapete de Atividades Luxe Developmental Gymini Boho Chic - Tiny Love;599.9;2;Brinquedo e Diversão;Ginásios
 8.13.33.12.69;Tapete de Atividades Picnic Mat Treasure the Ocean - Tiny Love;309.9;5;Brinquedo e Diversão;Tapetes
 8.13.33.05.00;Tapete de Atividades Super Mat Magic Tales - Tiny Love;289.9;2;Brinquedo e Diversão;Tapetes
 8.13.33.03.00;Tapete Deluxe Gymini Into the Forest - Tiny Love;0.0;1;Brinquedo e Diversão;Ginásios
@@ -1288,11 +1287,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.37.69;Treme-Treme De Atividades Zoo Unicórnio - Buba;89.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
-8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;5;Brinquedo e Diversão;Andador
+8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;2;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;4;Brinquedo e Diversão;Brinquedos
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
-8.25.57.201.06;Troninho Infantil com Som Branco - Buba;179.9;6;Troninho;Troninho
+8.25.57.201.06;Troninho Infantil com Som Branco - Buba;179.9;5;Troninho;Troninho
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
 8.27.01.09.18;Troninho Infantil Kingdom Potty 3 in 1 Pink - Safety 1st;129.9;2;Banho e Higiene;Troninho
 8.27.04.03.07;Troninho Infantil Peppy Azul - Cosco;99.9;1;Banho e Higiene;Troninho
