@@ -652,6 +652,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;285;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
+8.30.53.15.07;Luminária e Projetor Rainbow Bear Azul - Chicco;59.9;1;Quarto;Decoração
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;4;Quarto;Decoração
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
 8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
@@ -881,7 +882,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;0.0;6;Brinquedo e Diversão;Brinquedos
 8.30.04.01.57;Casinha Portátil Kids Playhouse Bege e Vermelha - Cosco;929.9;5;Brinquedo e Diversão;Brinquedos
 8.30.74.05.76;Cavalo de Pedal Montaria Uppi M Marrom - Kiddo;2859.9;1;Brinquedo e Diversão;Brinquedos
-8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;0.0;5;Brinquedo e Diversão;Centro de Atividades
+8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;0.0;4;Brinquedo e Diversão;Centro de Atividades
 8.30.94.10.00;Centro de Atividades Sophie La Girafe - Vulli;189.9;9;Brinquedo e Diversão;Centro de Atividades
 8.04.74.04.10;Cercado Portátil ICI Cinza - Kiddo;445.9;2;Quarto;Quarto
 8.04.74.05.01;Cercado Portátil ICI Preto - Kiddo;445.9;1;Quarto;Quarto
@@ -1181,7 +1182,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;1;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;3;Alimentação;Acessórios de Alimentação
-8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;4;Travas e Protetores;Travas e Protetores
+8.25.01.22.18;Pulseira de Segurança Unicorn Rosa - Safety 1st;69.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;7;Travas e Protetores;Travas e Protetores
 8.25.02.06.06;Purificador de Ar Clean 3 em 1 White - Maxi-Cosi;0.0;6;Cuidados;Cuidados
 8.01.71.02.18;Rede de Banheira Infantil Premium Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
@@ -1269,7 +1270,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;7;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;397;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;396;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
