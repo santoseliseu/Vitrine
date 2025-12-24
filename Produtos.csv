@@ -519,7 +519,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;5;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;4;Carrinho de Bebê;Carrinho de Bebê
@@ -785,7 +785,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;2;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;26;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;25;Passeio;Acessório para Passeio
 8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;10;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
@@ -1202,7 +1202,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;14;Quarto;Quarto
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;3;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;1;Quarto;Quarto
-8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;8;Quarto;Quarto
+8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;7;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
@@ -1267,7 +1267,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;7;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;394;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;393;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
