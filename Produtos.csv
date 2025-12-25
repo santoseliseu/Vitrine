@@ -173,7 +173,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.61.18;Bebê Conforto Wizz Rosa - Cosco;359.9;3;Passeio;Bebê Conforto
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;2;Bebê Conforto;Bebê Conforto
-8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;7;Passeio;Bebê Conforto
+8.03.02.29.10;Bebê Conforto Zion Cinza Bold - Infanti;0.0;6;Passeio;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas;Gravidicas
 8.24.92.76.00;Bento Box Spark Style Espaço - Skip Hop;239.9;1;Bolsas e Mochilas;Mochila Infantil
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
@@ -781,7 +781,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;2;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;24;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;23;Passeio;Acessório para Passeio
 8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;10;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
@@ -1262,7 +1262,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;7;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;379;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;378;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
