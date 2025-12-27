@@ -589,7 +589,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;532;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;234;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;233;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;88;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;125;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;130;Casa;Lixeira
@@ -635,7 +635,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;532;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;234;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;233;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1047;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;474;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
@@ -1164,7 +1164,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;36;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;35;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;1;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
@@ -1257,7 +1257,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;368;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;367;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
