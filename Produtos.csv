@@ -347,7 +347,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.51.10;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Cinza Mescla - Cosco;1239.9;2;Passeio;Cadeira para Carro
 8.07.04.52.01;Cadeirinha de Carro Evolutty 360° X 0 a 36kg com Isofix Preta - Cosco;1239.9;1;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
-8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;3;Passeio;Cadeira para Carro
+8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;2;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;5;Passeio;Cadeira para Carro
 8.07.03.20.47;Cadeirinha de Carro Legacy 0 a 36 kg Preta e Cinza - Voyage;959.9;3;Passeio;Cadeira para Carro
 8.07.03.16.01;Cadeirinha de Carro Legacy 0 a 36 kg Preto - Voyage;819.9;4;Passeio;Cadeira para Carro
@@ -724,7 +724,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.148.27.69;Mini Chaveiro de Pelúcia Angela Zoo Koala - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.28.69;Mini Chaveiro de Pelúcia Angela Zoo Unicórnio - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
 8.30.148.26.11;Mini Chaveiro de Pelúcia Dino - Metoo;69.9;1;Carrinho de Passeio;Acessório para Passeio
-8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;59.9;6;Brinquedo e Diversão;Brinquedos
+8.30.33.12.00;Mini Móbile Pack & Go Magical Tales - Tiny Love;59.9;5;Brinquedo e Diversão;Brinquedos
 8.30.33.14.00;Mini Móbile Pack & Go Meadow Days - Tiny Love;59.9;1;Brinquedo e Diversão;Brinquedos
 8.30.33.13.00;Mini Móbile Pack & Go Princess Tales - Tiny Love;59.9;2;Brinquedo e Diversão;Brinquedos
 8.11.160.07.02;Mini Mochila com Bolso Frontal Ovelhinha - MaiT;209.9;1;Bolsas e Mochilas;Bolsas e Mochilas
@@ -875,7 +875,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.105.07.17;Cesto Organizador Quadrado Raposa - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.09.17;Cesto Organizador Quadrado Tigre - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.04.18;Cesto Organizador Quadrado Unicórnio - 3 Sprouts;169.9;1;Quarto;Quarto
-8.30.33.01.10;Chocalho Koala Cinza Boho Chic - Tiny Love;49.9;1;Brinquedo e Diversão;Brinquedos
 8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;24;Brinquedo e Diversão;Mordedores
 8.25.86.04.18;Chupeta Air Night Pássaro 6m+ - Mam;27.9;34;Brinquedo e Diversão;Chupetas
 8.25.86.15.00;Chupeta Bico Simétrico 6m+ Girl - Mam - CavaloMarinho&Camarão;38.9;26;Brinquedo e Diversão;Chupetas
@@ -1252,7 +1251,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;339;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;338;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;2;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
