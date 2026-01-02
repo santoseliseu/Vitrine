@@ -1021,7 +1021,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.128.13.18;Garrafa Easy Open Térmica 700ml Rosa Cereja - Büp One;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.14.11;Garrafa Easy Open Térmica 700ml Verde Sálvia - Büp One;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.148.03.18;Garrafa Flip Infantil Angela Fada Mia - Metoo;49.9;1;Alimentação;Acessórios de Alimentação
-8.24.128.05.07;Garrafa Flip Térmica com Alça de Silicone Dálmata - Büp Baby;69.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.125.07;Garrafa Pote Com Alça 300ml Sealife Azul - Marcus&Marcus;179.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.18.18;Garrafa Térmica 1,2L Easy Open Rosa - Büp One;179.9;1;Alimentação;Acessórios de Alimentação
 8.24.128.19.18;Garrafa Térmica 1,2l Easy Open Rosa Cereja - Büp One;179.9;2;Alimentação;Acessórios de Alimentação
@@ -1106,7 +1105,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.49.07;Prato De Silicone Com Divisória E Ventosa Azul - Clingo;99.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.48.07;Prato de Silicone com Divisórias Piccolo Azul - Infanti;64.9;4;Alimentação;Acessórios de Alimentação
-8.24.23.49.11;Prato de Silicone com Divisórias Piccolo Verde - Infanti;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.50.18;Prato De Silicone Flex Com Divisória e Ventosa Rosa - Clingo;99.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.52.00;Prato De Silicone Flex Com Ventosa Formato Leão Bege - Clingo;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.29.16;Prato Infantil Bowl 300 ml Amarelo - Infanti;9.9;1;Alimentação;Acessórios de Alimentação
@@ -1190,7 +1188,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.88.22.07;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Azul - NoseWash;19.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.88.23.18;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Rosa - NoseWash;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.88.24.11;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Verde - NoseWash;19.9;5;Banho e Higiene;Utensílios de Higiene
-8.25.179.02.17;Seringa Tira Picada Laranja - Bug Boom;24.9;5;Banho e Higiene;Utensílios de Higiene
+8.25.179.02.17;Seringa Tira Picada Laranja - Bug Boom;24.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.179.03.18;Seringa Tira Picada Laranja Rosa - Bug Boom;24.9;10;Banho e Higiene;Utensílios de Higiene
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
@@ -1245,7 +1243,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;276;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;272;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
