@@ -200,7 +200,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.23.04.27;Berço Portátil Stelle Grey Light - Infanti;0.0;5;Quarto;Berço
 8.04.23.16.01;Berço Portátil Stelle Preto Noite - Infanti;0.0;1;Berço para quarto;Berços Portáteis
 8.04.61.03.11;Berço Techno Bluetooth Balanço com Timer e Música Chumbo e Verde - Mastela;1329.9;23;Quarto;Berço
-8.04.61.02.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Claro - Mastela;1521.9;5;Quarto;Berço
+8.04.61.02.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Claro - Mastela;1521.9;4;Quarto;Berço
 8.04.61.01.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Escuro - Mastela;1569.9;5;Quarto;Berço
 8.30.57.28.69;Bichinho Mola Zoo Dino - Buba;79.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.29.69;Bichinho Mola Zoo Elefante - Buba;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -325,8 +325,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.57.02.11;Cadeira de Descanso Vibratória Selvinha - Buba;599.9;1;Quarto;Cadeira de Descanso
 8.06.01.09.01;Cadeira de Refeição Easy Safety 1st - Black;269.9;2;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;4;Alimentação;Cadeira de Refeição
-21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;225;Móveis;Cadeira
-21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;228;Móveis;Cadeira
+21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;223;Móveis;Cadeira
+21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;222;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;9;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;11;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
@@ -358,7 +358,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;19;Passeio;Cadeira para Carro
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;4;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
-8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;15;Passeio;Cadeira para Carro
+8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;14;Passeio;Cadeira para Carro
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;5;Passeio;Cadeira para Carro
 8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;5;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
@@ -473,7 +473,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;4;Carrinho de Bebê;Carrinho Travel System
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;4;Carrinho de Bebê;Carrinho Travel System
-8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;3;Carrinho de Bebê;Carrinho Travel System
+8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;46;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -510,7 +510,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;20;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.24.01.01;Carrinho de Bebê Flick Preto - Multikids Baby;529.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -585,8 +585,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;531;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;228;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;82;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;123;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;128;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;122;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;127;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;2;Banho e Higiene;Utensílios de Higiene
@@ -633,10 +633,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;473;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;144;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;123;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;122;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;83;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;286;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;128;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;127;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;283;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
@@ -759,7 +759,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;3;Passeio;Acessórios para Passeio
 8.04.76.02.10;Moisés Ramble XL Signature Carbon Cinza - Joie;1479.9;2;Carrinho de Bebê;Moisés
 8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;1389.9;1;Passeio;Acessórios para Passeio
-8.25.94.01.69;Mordedor Aros Coloridos Sophie La Girafe Vulli;189.9;15;Brinquedo e Diversão;Mordedores
+8.25.94.01.69;Mordedor Aros Coloridos Sophie La Girafe Vulli;189.9;14;Brinquedo e Diversão;Mordedores
 8.25.94.14.00;Mordedor Bandana Buddies Coruja Vulli;139.9;2;Brinquedo e Diversão;Mordedores
 8.25.94.13.00;Mordedor Bandana Buddies Guaxinim Vulli;129.9;2;Brinquedo e Diversão;Mordedores
 8.30.53.64.17;Mordedor Charlie Eco Cachorro Laranja - Chicco;19.9;5;Brinquedo e Diversão;Mordedores
@@ -1030,7 +1030,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.128.20.11;Garrafa Térmica 1,2l Easy Open Verde Sálvia - Büp One;179.9;3;Alimentação;Acessórios de Alimentação
 8.24.92.20.00;Garrafa Tritan com Bico 350ml Raposa - 3 Sprouts;69.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
-8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;7;Brinquedo e Diversão;Ginásios
+8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;6;Brinquedo e Diversão;Ginásios
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;9;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;24;Quarto;Grade de Proteção
 8.12.74.05.06;Grade de Proteção para Cama Zen - Kiddo;101.9;1;Quarto;Grade de Proteção
@@ -1143,7 +1143,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;1;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;51;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;50;Banho e Higiene;Utensílios de Higiene
 8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;7;Travas e Protetores;Travas e Protetores
