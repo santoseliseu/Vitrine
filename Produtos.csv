@@ -522,7 +522,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.117.01;Carrinho de Bebê Hobby Preto Mescla - Cosco;609.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.09.01;Carrinho de Bebê Hoodie Burigotto Black;899.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.25.57.67.00;Kit 2 Chupetas Comfort Tamanho 1 Unicórnio - Buba;29.9;3;Brinquedo e Diversão;Chupetas
@@ -634,7 +634,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;144;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;121;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;83;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;285;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;284;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;127;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;283;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -967,7 +967,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.24.00;Cortina Retrátil Solar Para Carro 2 Unidades - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.30.170.19.06;Cozinha em Madeira Premium Infantil Branco - Hape;1009.9;1;Brinquedo e Diversão;Brinquedos
 8.25.70.26.10;Degrau Infantil Antiderrapante Step Dots Cinza - Clingo;39.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;3;Banho e Higiene;Utensílios de Higiene
+8.25.167.01.00;Desodorante Infantil Roll-On Vybe Antiperspirante 24 horas 70ml - Vegetal Brasil;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.57.48.10;Elefantinho Cinza - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.53.00;Escova De Dentes 3A+ Rosa - Chicco;14.9;1;Banho e Higiene;Utensílios de Higiene
