@@ -40,7 +40,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.164.07;Almofada Infantil Para Banho Azul - Buba;89.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;6;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;7;Passeio;Acessórios para Passeio
+8.03.01.08.27;Almofada Para Carrinho SafeDream 2 em 1 Grey - Safety 1st;269.9;6;Passeio;Acessórios para Passeio
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;3;Passeio;Acessório para Passeio
@@ -763,7 +763,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;11;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;10;Passeio;Acessório para Passeio
 8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;2;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
@@ -888,7 +888,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.08.18;Colher de Silicone com Estojo Rosa - Nûby;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.03.07;Colher de Silicone Multi Ponta Dupla Azul – Clingo;19.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.88.07;Colher Dosadora para Papinha em Silicone com Ventosa Azul - Buba;29.9;4;Alimentação;Acessórios de Alimentação
-8.24.57.90.11;Colher Dosadora para Papinha em Silicone com Ventosa Verde - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.149.06.11;Colher e Garfo Silicone e Bambu Dig In Aqua Green - Minikoioi;59.9;2;Alimentação;Talheres
 8.24.149.09.07;Colher e Garfo Silicone e Bambu Dig In Deep Blue - Minikoioi;59.9;1;Alimentação;Talheres
 8.24.149.26.18;Colher e Garfo Silicone e Bambu Dig In Pinky Pink - Minikoioi;59.9;2;Alimentação;Talheres
@@ -1261,7 +1260,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.08.18;Troninho Infantil Sanny Rosa - Cosco;29.9;2;Banho e Higiene;Troninho
 8.27.04.07.11;Troninho Infantil Sanny Verde Água - Cosco;19.9;1;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
-8.27.03.09.10;Troninho Infantil Start Cinza - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.08.18;Troninho Infantil Start Rosa - Voyage;19.9;1;Banho e Higiene;Troninho
 8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;18;Banho e Higiene;Utensílios de Higiene
 8.30.74.06.06;Unicórnio de Pedal Montaria Uppi P Branco e Rosa - Kiddo;1959.9;1;Brinquedo e Diversão;Brinquedos
