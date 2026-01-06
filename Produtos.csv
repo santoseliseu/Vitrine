@@ -511,7 +511,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;8;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;21;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -574,7 +574,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;15;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;531;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;226;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;225;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;80;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;117;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;127;Casa;Lixeira
@@ -619,7 +619,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;4;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;531;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;226;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;225;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1047;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;473;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;117;Casa;Lixeira
@@ -927,7 +927,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;2;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
-8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;3;Alimentação;Acessórios de Alimentação
+8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.89.02.18;Copo de Treinamento Active Cup 300ml Disney By Britto Minnie – NUK;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.126.02.00;Copo de Treinamento com Canudo Trainer Straw 230ml Razzle Dazzle Rose/Mulberry - Tommee Tippee;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1064,7 +1064,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.25.16;Porta Salgadinho Girafa - Marcus&Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.23.18;Porta Salgadinho Leão - Marcus&Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.26.07;Porta-Frutinha em Silicone Azul - Buba;29.9;14;Alimentação;Acessórios de Alimentação
-8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;19.9;5;Alimentação;Acessórios de Alimentação
+8.24.57.07.07;Porta-Frutinha Sugador em Silicone Azul e Verde - Buba;19.9;4;Alimentação;Acessórios de Alimentação
 8.14.110.04.11;Poster Minha Chegada Aquarela Verde - Coloré;19.9;5;Quarto;Decoração
 8.24.57.63.00;Pote Térmico com Talher Animal Fun Colorido Leão – Buba;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.68.11;Pote Térmico com Talher Gumy 320 ml Verde - Buba;89.9;2;Alimentação;Acessórios de Alimentação
