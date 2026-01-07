@@ -175,7 +175,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;2;Quarto;Berço
 8.04.169.01.07;Berço Dobrável So Gifted Navy - Kikka Boo;559.9;1;Quarto;Berço
 8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;3;Quarto;Berços Portáteis
-8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;3;Quarto;Berço
+8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;2;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;29;Quarto;Berço
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;21;Quarto;Berço
 8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;849.9;5;Quarto;Berço
@@ -396,7 +396,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;50;Passeio;Canguru
 8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;0.0;1;Passeio;Canguru
 8.08.04.02.10;Canguru Infantil Loop Até 9 kg Cinza Escuro - Cosco;139.9;2;Passeio;Canguru
-8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;2;Passeio;Canguru
+8.08.04.01.01;Canguru Infantil Loop Até 9 kg Preto - Cosco;129.9;1;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;3;Passeio;Canguru
@@ -464,7 +464,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.135.01;Carrinho com Bebê Conforto Travel System Reverse Duo Preto Onda - Cosco;1039.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.136.18;Carrinho com Bebê Conforto Travel System Reverse Duo Rosa Onda - Cosco Kids;1217.07;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;4;Carrinho de Bebê;Carrinho Travel System
-8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;2;Carrinho de Bebê;Carrinho Travel System
+8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;4;Carrinho de Bebê;Carrinho Travel System
 8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;44;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;3;Carrinho de Bebê;Carrinho Travel System
@@ -1220,7 +1220,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;209;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;208;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
