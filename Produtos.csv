@@ -2,7 +2,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.47.10.18;2 colheres Silicone Flexíveis Rosa - KaBaby;19.9;1;Alimentação;Acessórios de Alimentação
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;339.9;2;Passeio;Acessórios para Passeio
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos Diversos
-8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;10;Banho e Higiene;Utensílios de Higiene
+8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.135.01.00;Adesivo Monitor de Febre Termo Friends 4 Und INR;27.9;44;Banho e Higiene;Utensílios de Higiene
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
@@ -16,7 +16,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;33;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;13;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;12;Alimentação;Amamentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;3;Centro de Atividades;Centro de Atividades
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;3;Brinquedo e Diversão;Centro de Atividades
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
@@ -352,7 +352,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;2;Passeio;Cadeira para Carro
 8.07.04.36.01;Cadeirinha de Carro Unique 0 a 36kg Preto Sport - Cosco;1119.9;2;Passeio;Cadeira para Carro
 8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;889.9;3;Passeio;Cadeira para Carro
-8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;3099.9;2;Passeio;Cadeira para Carro
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
 8.07.76.20.10;Cadeirinha para Carro I-Spin XL 360 Chumbo Ebony - Joie;0.0;1;Passeio;Cadeira para Carro
@@ -1128,7 +1127,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;82;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.30.57.01.00;Risque e Apague Com Esponja Buba;19.9;1;Brinquedo e Diversão;Brinquedos
-8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;2;Alimentação;Acessórios de Alimentação
+8.24.23.67.10;Rosquinha para Seios Serena M Cinza Mescla Escuro - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.41.00;Rosquinhas de Amamentação Nude - D´Bella for Baby;59.9;4;Alimentação;Acessórios de Alimentação
 8.25.75.39.18;Rosquinhas de Amamentação Rosa - D´Bella for Baby;59.9;1;Alimentação;Acessórios de Alimentação
@@ -1200,7 +1199,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;167;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;166;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
