@@ -16,7 +16,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;33;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;29;Alimentação;Acessórios de Alimentação
-8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;12;Alimentação;Amamentação
+8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;11;Alimentação;Amamentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;3;Centro de Atividades;Centro de Atividades
 8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;3;Brinquedo e Diversão;Centro de Atividades
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
@@ -222,7 +222,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.30.01.01;Bolsa Changing Bag Zapp X Black - Quinny;459.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;249.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.14.07;Bolsa de Passeio Cachorrinho - MaiT;239.9;1;Bolsas e Mochilas;Bolsas e Mochilas
-8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.57.183.06;Bolsa Térmica de Sílica Ursinho Branco - Buba;89.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;4;Alimentação;Acessórios de Alimentação
@@ -461,7 +460,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.13.01;Carrinho de Bebê Bossa Preto Pleno - Voyage;479.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -712,7 +711,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.92.03.00;Mochila Escolar Zoo Koala - Skip Hop;279.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.19.00;Mochila Escolar Zoo Unicórnio - SkipHop;299.9;4;Bolsas e Mochilas;Mochila Infantil
 8.11.33.02.18;Mochila Infantil Safari Flamingo - Tiny Love;99.9;2;Passeio;Bolsas e Mochilas
-8.11.33.03.17;Mochila Infantil Safari Jaguar - Tiny Love;99.9;2;Passeio;Bolsas e Mochilas
+8.11.33.03.17;Mochila Infantil Safari Jaguar - Tiny Love;99.9;1;Passeio;Bolsas e Mochilas
 8.11.92.15.00;Mochila Infantil Spark Style Arco-Iris - SkipHop;559.9;1;Bolsas e Mochilas;Mochila Infantil
 8.11.92.17.00;Mochila Infantil Spark Style Morango - SkipHop;419.9;2;Bolsas e Mochilas;Mochila Infantil
 8.11.92.08.00;Mochila Infantil Zoo Flamingo - Skip Hop;159.9;2;Bolsas e Mochilas;Mochila Infantil
@@ -1191,7 +1190,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;151;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;150;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
