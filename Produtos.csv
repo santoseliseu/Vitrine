@@ -820,7 +820,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.129.01;Carrinho de Bebê Skinny 6 meses a 15 Kg Preto - Cosco;269.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;43;Carrinho de Bebê;Carrinho de Bebê
-8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;999.9;2;Brinquedo e Diversão;Brinquedos
+8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;999.9;3;Brinquedo e Diversão;Brinquedos
 8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;999.9;4;Brinquedo e Diversão;Brinquedos
 8.09.104.03.01;Carrinho de Bebê Spring Black - Thule;4319.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.05.01;Carrinho de Bebê Sprint Melange Preto - Kiddo;1026.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -1145,7 +1145,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;2;Quarto;Quarto
-8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;5;Quarto;Quarto
+8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;6;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
@@ -1159,6 +1159,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.69.13.00;Shampoo Infantil Sem Sal Bebês Fofos 300ml - BioClub;29.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;1;Banho e Higiene;Banheira
 8.30.148.29.06;Suporte para Bonecas e Pelúcias - Metoo;21.9;21;Casa;Decoração
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
@@ -1209,7 +1210,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;5;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;134;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;135;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
