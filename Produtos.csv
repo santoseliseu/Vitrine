@@ -46,6 +46,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;4;Passeio;Acessório para Passeio
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;1;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;149.9;1;Quarto;Quarto
@@ -82,7 +83,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;10;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;9;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;5;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;7;Alimentação;Acessórios de Alimentação
@@ -574,7 +575,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;225;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;76;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;113;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;120;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;121;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;2;Banho e Higiene;Utensílios de Higiene
@@ -625,13 +626,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;113;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;77;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;278;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;120;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;121;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;282;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;3;Quarto;Decoração
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
-8.25.47.32.06;Luminária Musical Little Egg - KaBaby;99.9;1;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;6;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;5;Brinquedo e Diversão;Mordedores
 8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;49;Quarto;Decoração
