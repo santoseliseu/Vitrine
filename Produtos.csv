@@ -60,7 +60,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
-8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;11;Brinquedo e Diversão;Andador
+8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;10;Brinquedo e Diversão;Andador
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;19.9;5;Banho e Higiene;Utensílios de Higiene
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
@@ -425,7 +425,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.104.02.10;Capota para Carrinho de Bebê Spring Shadow Grey - Thule;569.9;1;Passeio;Acessórios para Passeio
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;6;Carrinho de Bebê;Carrinho Travel System
-8.09.23.77.01;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Preto Ouro - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;61;Carrinho de Bebê;Carrinho Travel System
 8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;0.0;8;Carrinho de Bebê;Carrinho Travel System
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
@@ -485,7 +484,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.10.10;Carrinho de Bebê Cosmos Melange Grafite - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.74.11.01;Carrinho de Bebê Cosmos Melange Preto - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;599.9;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;108;Carrinho de Bebê;Carrinho de Bebê
+8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;109;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.78.01;Carrinho de Bebê Discover Black Chrome - Safety 1st;2259.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.01.57;Carrinho de Bebê Ecco Bege - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -503,7 +502,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.05.18;Carrinho de Bebê Guarda-Chuva Pipa Rosa Mescla - Voyage;499.9;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.108.07;Carrinho de Bebê Guarda-Chuva Wing Azul - Voyage;399.9;21;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.02.10;Carrinho de Bebê Guarda-Chuva Wing Cinza Mescla - Voyage;379.9;2;Carrinho de Bebê;Carrinho de Bebê
-8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;4;Carrinho de Bebê;Carrinho de Bebê
+8.09.04.116.01;Carrinho de Bebê Guarda-Chuva Wing Preto - Voyage;379.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.109.18;Carrinho de Bebê Guarda-Chuva Wing Rosa - Voyage;379.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.118.10;Carrinho de Bebê Hobby Cinza Mescla - Cosco;579.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.117.01;Carrinho de Bebê Hobby Preto Mescla - Cosco;609.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -752,7 +751,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;3;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;2;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -774,7 +773,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.92.06.10;Organizador de Acessórios com Led Cinza - Skip Hop;479.9;3;Passeio;Acessórios para Passeio
 8.25.105.02.01;Organizador de Banho Pinguim Preto - 3 Sprouts;129.9;3;Quarto;Quarto
 8.25.92.08.00;Organizador de Banho Tubarão - 3 Sprouts;119.9;1;Banho e Higiene;Utensílios de Higiene
-8.04.92.07.01;Organizador Para Carrinho de Bebê Preto - Skip Hop;219.9;1;Passeio;Acessórios para Passeio
 8.25.53.110.11;Pack 2 Escovas de Dentes 3 a 6 Anos Verde - Chicco;9.9;7;Banho e Higiene;Utensílios de Higiene
 8.24.58.56.07;Pack Triplo Mamadeira Anti-colic Azul 125ml, 260ml 330ml – Philips Avent;129.9;7;Alimentação;Acessórios de Alimentação
 8.24.72.14.07;Palitinhos de Treinamento Hipopótamo - Marcus&Marcus;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1198,7 +1196,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;119;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;118;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
