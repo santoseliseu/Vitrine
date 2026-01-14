@@ -119,7 +119,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;409;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;612;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;1;Banho e Higiene;Banheira
-8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;2;Banho e Higiene;Banheira
+8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;1;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;22;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
@@ -439,7 +439,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;107;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;45;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;33;Carrinho de Bebê;Carrinho Travel System
-8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
+8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;31;Carrinho de Bebê;Carrinho Travel System
 8.09.01.04.10;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Grey Denin - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho Travel System
@@ -1196,7 +1196,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;110;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;109;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
@@ -1218,7 +1218,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Andador
 8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;4;Brinquedo e Diversão;Brinquedos
-8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.25.57.201.06;Troninho Infantil com Som Branco - Buba;179.9;4;Troninho;Troninho
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
