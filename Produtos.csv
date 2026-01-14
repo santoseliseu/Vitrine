@@ -148,7 +148,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;3;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;14;Passeio;Base para Bebê Conforto
-8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;17;Passeio;Base para Bebê Conforto
+8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;16;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
@@ -616,7 +616,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;137;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;112;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;75;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;278;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;277;Casa;Lixeira
 24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;120;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;282;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1116,7 +1116,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;49.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;39.9;4;Banho e Higiene;Utensílios de Higiene
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;89.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;12;Banho e Higiene;Troninho
+8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;11;Banho e Higiene;Troninho
 8.25.70.52.07;Redutor de Assento Sanitário Degrau Penico Azul - Clingo;149.9;3;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;82;Banho e Higiene;Utensílios de Higiene
@@ -1130,7 +1130,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;13;Quarto;Quarto
 8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
-8.60.171.10.18;Saco de Dormir Swaddle em Algodão Egípcio Rosa Primavera Verão P - Casulo;199.0;1;Quarto;Quarto
 8.60.171.12.10;Saco de Dormir Swaddle em Soft Anti Pilling Cinza P - Casulo;199.0;2;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;3;Quarto;Quarto
