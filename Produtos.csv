@@ -149,6 +149,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;14;Passeio;Base para Bebê Conforto
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;16;Passeio;Base para Bebê Conforto
+8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;344.9;11;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
@@ -474,7 +475,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;66;Carrinho de Bebê;Carrinho Travel System
+8.09.76.49.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto e Base I-snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.44.10;Carrinho de Bebê Combo Parcel Oyster com Bebê Conforto I-snug Pebble Joie;3599.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;3599.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.84.07.01;Carrinho de Bebê Compacto Pockit+ All-City 6 meses a 15kg Velvet Black - GB;1619.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -748,7 +751,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;2;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;1;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1103,7 +1106,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;21;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;20;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;2;Alimentação;Acessórios de Alimentação
@@ -1193,8 +1196,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;111;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;110;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
+8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
+8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
+8.09.76.58.01;Travel Sistem Versatrax E Trio Preto Pavement com I-Base Isofix I-Snug - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.39.06.08;Travel System Ecco Burigotto Vermelho;1199.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.27.35;Travel System Mobi Safety 1st Black & White;3719.9;3;Carrinho de Bebê;Carrinho Travel System
