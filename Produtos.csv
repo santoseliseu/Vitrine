@@ -171,7 +171,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;89;Quarto;Berço
 8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;5;Quarto;Berço
 8.04.169.03.10;Berço Dobrável So Gifted Grey - Kikka Boo;559.9;2;Quarto;Berço
-8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;2;Quarto;Berços Portáteis
+8.04.61.10.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Escuro – Mastela;1259.9;1;Quarto;Berços Portáteis
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;9;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;29;Quarto;Berço
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;21;Quarto;Berço
@@ -467,7 +467,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.103.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Sport - Safety 1st;2709.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.12.10;Carrinho de Bebê Anna³ Select Grey - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.13.01;Carrinho de Bebê Bossa Preto Pleno - Voyage;479.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -713,7 +713,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.48.06;Móbile Para Berço Luxe Musical Boho Chic - Tiny Love;0.0;3;Brinquedo e Diversão;Brinquedos
 8.30.33.07.00;Móbile Soothe'n Groove Meadow Days - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
 8.30.33.08.00;Móbile Soothe'n Groove Tiny Princess Tales - Tiny Love;0.0;2;Brinquedo e Diversão;Brinquedos
-8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;2;Disponível 01;Brinquedos Diversos
+8.30.33.55.00;Mobile Take Along Black & White Decor - Tiny Love;0.0;1;Disponível 01;Brinquedos Diversos
 8.30.33.04.00;Móbile Take Along Meadow Days - Tiny Love;114.9;5;Brinquedo e Diversão;Brinquedos
 8.11.23.04.18;Mochila com Guia Borboleta Rosa - Infanti;89.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.23.03.11;Mochila com Guia Dino Verde - Infanti;79.9;2;Bolsas e Mochilas;Bolsas e Mochilas
@@ -1107,7 +1107,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
 8.25.57.04.00;Protetor Solar Para Carro Com Ventosas 2 Unidades Preto - Buba;19.9;5;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;23;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;22;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;2;Alimentação;Acessórios de Alimentação
