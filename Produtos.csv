@@ -26,7 +26,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;20;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
-8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;3;Banho e Higiene;Utensílios de Higiene
+8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;2;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;25;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -124,7 +124,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;375.9;2;Banho e Higiene;Banheira
 8.01.74.10.18;Banheira de Bebê Shower Rosa - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.12.07;Banheira de Bebê Slim Plus Azul - Kiddo;429.9;1;Banho e Higiene;Banheira
-8.01.74.05.10;Banheira de Bebê Slim Plus Cinza - Kiddo;429.9;3;Banho e Higiene;Banheira
 8.01.74.06.18;Banheira de Bebê Slim Plus Rosa - Kiddo;429.9;2;Banho e Higiene;Banheira
 8.01.70.13.18;Banheira de Bebê Smart Dobrável Rosa - Clingo;239.9;3;Banho e Higiene;Banheira
 8.01.01.14.11;Banheira de Bebê Smile Aqua Green - Safety 1st;319.9;31;Banho e Higiene;Banheira
@@ -275,7 +274,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;3;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;65;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;19;Alimentação;Cadeira de Refeição
+8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;18;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;60;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
@@ -426,7 +425,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.136.18;Carrinho com Bebê Conforto Travel System Reverse Duo Rosa Onda - Cosco Kids;1217.07;1;Carrinho de Bebê;Carrinho Travel System
 8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;4;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;3;Carrinho de Bebê;Carrinho Travel System
-8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;41;Carrinho de Bebê;Carrinho Travel System
+8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;40;Carrinho de Bebê;Carrinho Travel System
 8.09.01.102.57;Carrinho com Bebê Conforto Travel System Trio Mobi Beige Nature - Safety 1st;2539.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.100.83;Carrinho com Bebê Conforto Travel System Trio Mobi Black & Silver - Safety 1St;2709.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.96.35;Carrinho com Bebê Conforto Travel System Trio Mobi Black & White - Safety 1St;2539.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -945,13 +944,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.59.18;Jogo Americano Em Silicone Rosa - Buba;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.60.11;Jogo Americano Em Silicone Verde - Buba;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.114.00;Jogo Anatômico Colher E Garfo Com Inox Baleia Willo 2Pcs - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
-8.24.72.109.00;Jogo Anatômico Colher E Garfo Com Inox Elefante Ollie 2Pcs - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.110.00;Jogo Anatômico Colher E Garfo Com Inox Girafa Lola 2Pcs - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.111.00;Jogo Anatômico Colher E Garfo Com Inox Hipopótamo Lucas 2Pcs - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.112.00;Jogo Anatômico Colher E Garfo Com Inox Leão Marcus 2Pcs - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.103.00;Jogo Anatômico Colher Garfo E Faca Com Inox Elefante Ollie 3Pcs - Marcus & Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.104.00;Jogo Anatômico Colher Garfo E Faca Com Inox Girafa Lola 3Pcs - Marcus & Marcus;79.9;2;Alimentação;Acessórios de Alimentação
-8.24.72.105.00;Jogo Anatômico Colher Garfo E Faca Com Inox Hipopótamo Lucas 3Pcs - Marcus & Marcus;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.59.113;Jogo de Colher e Garfo Cabo em Silicone Baleia Roxa - Marcus&Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.95.00;Jogo de Colher e Garfo em Inox e Silicone Leão Vermelho - Marcus & Marcus;59.9;1;Alimentação;Acessórios de Alimentação
 8.24.123.02.18;Jogo de Talheres Infantil Branca/Rosa - Oxotot;79.9;1;Alimentação;Acessórios de Alimentação
@@ -1121,7 +1118,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;18;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;17;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.55.01;Travel Sistem Versatrax E Trio Preto Moon Light com I-Base Isofix I-Snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
