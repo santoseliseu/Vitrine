@@ -67,9 +67,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;11;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;2;Passeio;Cadeira para Carro
-8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;3;Passeio;Cadeira para Carro
+8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;2;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;24;Passeio;Cadeira para Carro
-8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;19;Passeio;Cadeira para Carro
+8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;18;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
@@ -855,7 +855,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
-8.24.89.02.18;Copo de Treinamento Active Cup 300ml Disney By Britto Minnie – NUK;59.9;1;Alimentação;Acessórios de Alimentação
+8.24.89.02.18;Copo de Treinamento Active Cup 300ml Disney By Britto Minnie – NUK;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.126.02.00;Copo de Treinamento com Canudo Trainer Straw 230ml Razzle Dazzle Rose/Mulberry - Tommee Tippee;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.20.16;Copo de Treinamento em Silicone com Grip Girafa Lola - Marcus&Marcus;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.02.18;Copo de Treinamento First com Tampa e Alça 200 ml Rosa – Clingo;39.9;1;Alimentação;Acessórios de Alimentação
@@ -969,7 +969,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.11.76;Piano Musical Infantil Marrom - Hape;359.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.16.76;Piano Musical Premium Infantil Marrom - Hape;459.9;1;Brinquedo e Diversão;Brinquedos
 8.30.170.02.07;Pinguim Musical de Balanço Infantil Azul - Hape;154.9;1;Brinquedo e Diversão;Brinquedos
-8.09.02.18.01;Plataforma com Assento Hop-On Board Black - Maxi-Cosi;0.0;2;Passeio;Acessório para Passeio
+8.09.02.18.01;Plataforma com Assento Hop-On Board Black - Maxi-Cosi;0.0;1;Passeio;Acessório para Passeio
 8.24.70.12.08;Porta Frutas e Legumes Vermelho com Redinha - Clingo;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.14.00;Porta Lanchinho Flor - Nûby;29.9;13;Alimentação;Acessórios de Alimentação
 8.24.72.24.18;Porta Salgadinho Baleia - Marcus&Marcus;79.9;1;Alimentação;Acessórios de Alimentação
@@ -1029,7 +1029,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;1;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;24;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;23;Banho e Higiene;Utensílios de Higiene
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
