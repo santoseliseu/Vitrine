@@ -272,7 +272,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;3;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;65;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;11;Alimentação;Cadeira de Refeição
+8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;9;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;59;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
@@ -519,7 +519,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
-24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;518;Casa;Lixeira
+24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;513;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;211;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;65;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;104;Casa;Lixeira
@@ -564,11 +564,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;4;Banho e Higiene;Utensílios de Higiene
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
-24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;518;Casa;Lixeira
+24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;513;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;211;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1046;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;467;Casa;Lixeira
-24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;105;Casa;Lixeira
+24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;110;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;120;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;104;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;66;Casa;Lixeira
@@ -1028,7 +1028,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;1;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;23;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;22;Banho e Higiene;Utensílios de Higiene
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
