@@ -307,7 +307,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;2;Alimentação;Cadeira de Refeição
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;7;Passeio;Cadeira para Carro
-8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;6;Passeio;Cadeira para Carro
+8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;8;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;2;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;1;Passeio;Cadeira para Carro
@@ -735,7 +735,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;10;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
+8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;8;Carrinho de Bebê;Carrinho Travel System
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;13;Carrinho de Bebê;Carrinho de Bebê
@@ -1133,7 +1133,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Andador
-8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;3;Brinquedo e Diversão;Brinquedos
+8.67.103.01.10;Triciclo Infantil Multifuncional E-lite Trike 5 em 1 Off White e Cinza - Premium Baby;899.0;2;Brinquedo e Diversão;Brinquedos
 8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;2;Trocador;Trocador
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
