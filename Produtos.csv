@@ -63,7 +63,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;10;Banho e Higiene;Utensílios de Higiene
 8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;6;Banho e Higiene;Utensílios de Higiene
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;5;Passeio;Cadeira para Carro
-8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;2;Passeio;Cadeira para Carro
+8.07.23.24.01;Assento de Elevação Booster Stage Preto Eclipse - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;1;Passeio;Cadeira para Carro
@@ -248,7 +248,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.25.01;Cadeira de Alimentação Cook Preto - Cosco;339.9;2;Alimentação;Cadeira de Refeição
 8.06.01.07.01;Cadeira de Alimentação Dobrável Mellow Black - Safety 1st;869.9;2;Alimentação;Cadeira de Refeição
 8.06.01.08.11;Cadeira de Alimentação Dobrável Mellow Grey - Safety 1st;869.9;3;Alimentação;Cadeira de Refeição
-8.06.103.06.57;Cadeira de Alimentação Executive 5 em 1 Bege - Premium Baby;699.0;5;Alimentação;Cadeira de Refeição
+8.06.103.06.57;Cadeira de Alimentação Executive 5 em 1 Bege - Premium Baby;699.0;4;Alimentação;Cadeira de Refeição
 8.06.103.07.10;Cadeira de Alimentação Executive 5 em 1 Cinza - Premium Baby;699.0;7;Alimentação;Cadeira de Refeição
 8.06.103.08.18;Cadeira de Alimentação Executive 5 em 1 Rose - Premium Baby;899.1;5;Alimentação;Cadeira de Refeição
 8.06.01.16.07;Cadeira de Alimentação Feed Blue Sky - Safety 1st;769.9;2;Alimentação;Cadeira de Refeição
@@ -268,9 +268,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;2;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;62;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;61;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;49;Alimentação;Cadeira de Refeição
+8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;47;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
