@@ -61,8 +61,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.68.00;Arco de Cama Rainbow Sky Neutro - Chicco;59.9;2;Brinquedo e Diversão;Brinquedos
 8.30.33.30.00;Arco Sunny Stroll Princess Tales - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos
 8.25.57.59.03;Aspirador Nasal De Sucção e Seringa - Buba;19.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;6;Banho e Higiene;Utensílios de Higiene
-8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;5;Passeio;Cadeira para Carro
+8.25.01.36.03;Aspirador Nasal de Sucção Transparente - Safety 1st;29.9;5;Banho e Higiene;Utensílios de Higiene
+8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;4;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;1;Passeio;Cadeira para Carro
 8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;2;Passeio;Cadeira para Carro
@@ -298,7 +298,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;2;Alimentação;Cadeira de Refeição
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;6;Passeio;Cadeira para Carro
-8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;8;Passeio;Cadeira para Carro
+8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;7;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;7;Passeio;Cadeira para Carro
 8.07.02.46.01;Cadeirinha de Carro Jasper com Isofix 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
 8.07.03.15.10;Cadeirinha de Carro Legacy 0 a 36 kg Cinza Mescla - Voyage;789.9;1;Passeio;Cadeira para Carro
@@ -567,7 +567,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;4;Quarto;Decoração
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
-8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;5;Brinquedo e Diversão;Mordedores
+8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;4;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;4;Brinquedo e Diversão;Mordedores
 8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;33;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;1;Quarto;Decoração
@@ -724,7 +724,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;9;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;8;Carrinho de Bebê;Carrinho Travel System
+8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;13;Carrinho de Bebê;Carrinho de Bebê
