@@ -269,7 +269,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;2;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;61;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;47;Alimentação;Cadeira de Refeição
+8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;46;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
@@ -428,7 +428,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.13.01;Carrinho de Bebê Bossa Preto Pleno - Voyage;479.9;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.03.13.01;Carrinho de Bebê Bossa Preto Pleno - Voyage;479.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -724,6 +724,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.23.89.01;Carrinho de Bebê Magno Preto Infinito - Infanti;899.1;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;759.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.06.01;Carrinho de Bebê Nivo Preto e Cinza - Tutti Baby;769.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.28.70.10;Carrinho de Bebê Olympus Cinza - Galzerano;999.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.28.71.01;Carrinho de Bebê Olympus New Black - Galzerano;899.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;9;Carrinho de Bebê;Carrinho de Bebê
