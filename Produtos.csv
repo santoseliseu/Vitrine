@@ -355,7 +355,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.98.01.07;Canguru Infantil 3 em 1 até 12 kg Azul - Ibimboo;169.9;6;Passeio;Canguru
 8.08.98.06.08;Canguru Infantil 3 Em 1 Até 12Kg Vermelho Marsala - Ibimboo;169.9;4;Passeio;Canguru
 8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;8;Passeio;Canguru
-8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;48;Passeio;Canguru
+8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;47;Passeio;Canguru
 8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;0.0;1;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
@@ -778,7 +778,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.74.05.01;Cercado Portátil ICI Preto - Kiddo;445.9;1;Quarto;Quarto
 8.25.105.07.17;Cesto Organizador Quadrado Raposa - 3 Sprouts;169.9;1;Quarto;Quarto
 8.25.105.04.18;Cesto Organizador Quadrado Unicórnio - 3 Sprouts;169.9;1;Quarto;Quarto
-8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;23;Brinquedo e Diversão;Mordedores
+8.30.53.62.07;Chocalho Mordedor Roca Mocho Eco Chicco Corujinha Azul;19.9;22;Brinquedo e Diversão;Mordedores
 8.25.86.04.18;Chupeta Air Night Pássaro 6m+ - Mam;27.9;34;Brinquedo e Diversão;Chupetas
 8.25.86.15.00;Chupeta Bico Simétrico 6m+ Girl - Mam - CavaloMarinho&Camarão;38.9;26;Brinquedo e Diversão;Chupetas
 8.25.57.66.00;Chupeta Comfort Brilha no Escuro Unicórnio Rosa - Buba;19.9;2;Brinquedo e Diversão;Chupetas
@@ -916,7 +916,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;1;Brinquedo e Diversão;Ginásios
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;9;Quarto;Grade de Proteção
-8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;6;Quarto;Grade de Proteção
+8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;5;Quarto;Grade de Proteção
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
 8.30.170.13.06;Guitarra Musical Infantil Branco - Hape;479.9;2;Brinquedo e Diversão;Brinquedos
 8.25.69.22.00;Higienizador de Frutas e Vegetais Orgânico 300 ml - Bioclub Baby;29.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1019,7 +1019,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;1;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;15;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;14;Banho e Higiene;Utensílios de Higiene
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
