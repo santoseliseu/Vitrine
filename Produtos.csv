@@ -264,7 +264,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;2;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;61;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
-8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;40;Alimentação;Cadeira de Refeição
+8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;39;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
 8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
@@ -392,7 +392,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
 8.09.02.01.10;Carrinho com Bebê Conforto Travel System Anna Luxe Trio Twillic Grey - Maxi-Cosi;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.03.93.01;Carrinho com Bebê Conforto Travel System Delta Duo Pro Preto - Voyage;1169.9;7;Carrinho de Bebê;Carrinho Travel System
-8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;17;Carrinho de Bebê;Carrinho Travel System
+8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;16;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;100;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;38;Carrinho de Bebê;Carrinho Travel System
@@ -509,11 +509,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;501;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;209;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;58;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;102;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;79;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;101;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;76;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;1;Banho e Higiene;Utensílios de Higiene
-8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;2;Banho e Higiene;Utensílios de Higiene
+8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.69.28.00;Kit Miniaturas de Cosmésticos Infantis 60ml Cada - BioClub;39.9;5;Cuidados;Cuidados
 8.25.98.02.00;Kit Pente Escova Com Cerdas Naturais Azul/Verde Ibimboo;39.9;7;Banho e Higiene;Utensílios de Higiene
 8.25.98.03.18;Kit Pente Escova Com Cerdas Naturais Pink - Ibimboo;39.9;7;Banho e Higiene;Utensílios de Higiene
@@ -556,11 +556,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1046;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;462;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;107;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;114;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;102;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;113;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;101;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;59;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;274;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;79;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;76;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;279;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
@@ -855,7 +855,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.09.18;Copo Infantil Tritan com Alça e Canudo Retrátil 240ml Rosa - Nûby;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.13.18;Copo Tritan 360º Rosa Cachorro 300ml - Nûby;22.9;22;Alimentação;Acessórios de Alimentação
 8.30.170.18.76;Corrida de Bolinha Quadri 44 Peças Marrom - Hape;702.9;1;Brinquedo e Diversão;Brinquedos
-8.25.70.10.07;Cortador de Unhas com Lupa Smart Azul - Clingo;29.9;4;Banho e Higiene;Utensílios de Higiene
+8.25.70.10.07;Cortador de Unhas com Lupa Smart Azul - Clingo;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.70.25.00;Cortina Retrátil Solar Para Carro - Clingo;39.9;1;Passeio;Acessórios para Passeio
 8.25.70.24.00;Cortina Retrátil Solar Para Carro 2 Unidades - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.30.170.19.06;Cozinha em Madeira Premium Infantil Branco - Hape;1009.9;1;Brinquedo e Diversão;Brinquedos
