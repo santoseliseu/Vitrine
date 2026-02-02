@@ -230,7 +230,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.65.69;Brinquedo Para Banho Com Ventosa Amigos Marinhos - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
 8.30.96.01.00;Brinquedo Submarino Discovery Musical Toy - Baby Einstein;159.9;4;Brinquedo e Diversão;Brinquedos
 8.30.33.20.00;Brinquedo Wind Chime Christopher - Tiny Love;39.9;5;Brinquedo e Diversão;Brinquedos
-8.30.33.21.00;Brinquedo Wind Chime Thomas - Tiny Love;44.9;1;Brinquedo e Diversão;Brinquedos
 8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;39.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.57.99.00;Buzininha Com Mordedor Buba Zoo Dino - Buba;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;39.9;2;Brinquedo e Diversão;Mordedores
@@ -740,7 +739,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.28.86.07;Carrinho de Bebê Romano Azul - Galzerano;809.1;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.20.01;Carrinho de Bebê Savvy Melange Preto - Kiddo;2699.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.129.01;Carrinho de Bebê Skinny 6 meses a 15 Kg Preto - Cosco;269.9;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.01.08.01;Carrinho de Bebê Spark Plus Black Graphite - Safety 1st;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.07.10;Carrinho de Bebê Spark Plus Grey Frost - Safety 1st;0.0;44;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.18.10;Carrinho de Bebê Spider Grafite - Kiddo;999.9;3;Brinquedo e Diversão;Brinquedos
 8.09.74.19.01;Carrinho de Bebê Spider Preto - Kiddo;999.9;4;Brinquedo e Diversão;Brinquedos
@@ -912,8 +910,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.20.00;Garrafa Tritan com Bico 350ml Raposa - 3 Sprouts;69.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.13.57.02.69;Ginásio de Atividades Com Piano Buba Colorido;179.9;1;Brinquedo e Diversão;Ginásios
-8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;8;Quarto;Grade de Proteção
-8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;5;Quarto;Grade de Proteção
+8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;7;Quarto;Grade de Proteção
+8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;2;Quarto;Grade de Proteção
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
 8.30.170.13.06;Guitarra Musical Infantil Branco - Hape;479.9;2;Brinquedo e Diversão;Brinquedos
 8.25.69.22.00;Higienizador de Frutas e Vegetais Orgânico 300 ml - Bioclub Baby;29.9;2;Banho e Higiene;Utensílios de Higiene
