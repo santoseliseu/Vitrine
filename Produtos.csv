@@ -70,7 +70,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;61;Quarto;Babá Eletrônica
+8.25.02.04.06;Babá Eletrônica See Pro com Monitor White - Maxi-Cosi;0.0;60;Quarto;Babá Eletrônica
 8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;45;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;4;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
@@ -380,7 +380,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;7;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.23.78.10;Carrinho com Bebê Conforto e Base Travel System Epic 360º Trio Isofix Cinza Névoa - Infanti;0.0;1;Carrinho de Bebê;Carrinho Travel System
-8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;4;Carrinho de Bebê;Carrinho Travel System
+8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
@@ -428,7 +428,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.10.10;Carrinho de Bebê Cosmos Melange Grafite - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.74.11.01;Carrinho de Bebê Cosmos Melange Preto - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.03.42.00;Carrinho de Bebê Delta Colorê - Voyage;599.9;4;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;91;Carrinho de Bebê;Carrinho de Bebê
+8.09.03.77.01;Carrinho de Bebê Delta Preto - Voyage;529.9;90;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.78.01;Carrinho de Bebê Discover Black Chrome - Safety 1st;2259.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.01.57;Carrinho de Bebê Ecco Bege - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.23.01;Carrinho de Bebê Ecco com Bebê Conforto Touring X Petro Cobre - Burigotto;969.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -827,7 +827,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.23.70.10.07;Copo com Alças e Bico em Silicone 220ml Azul - Clingo;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;1;Alimentação;Acessórios de Alimentação
-8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
@@ -872,7 +871,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.34.113;Espelho Retrovisor Grande Para Banco Traseiro KaBaby Roxo;99.9;3;Alimentação;Acessórios de Alimentação
 8.25.57.51.01;Espelho Retrovisor Para Banco Traseiro - Buba;59.9;1;Passeio;Acessórios para Passeio
 8.25.35.28.00;Espelho Retrovisor Para Banco Traseiro Baby Look Multikids Baby;69.9;1;Passeio;Acessórios para Passeio
-8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;10;Passeio;Acessórios para Passeio
+8.25.57.10.00;Espelho Retrovisor Para Banco Traseiro Preto - Buba;69.9;9;Passeio;Acessórios para Passeio
 8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;989.9;1;Alimentação;Acessórios de Alimentação
 8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
