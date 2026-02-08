@@ -121,7 +121,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;22;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;8;Banho e Higiene;Banheira
-8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;31;Banho e Higiene;Banheira
+8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;30;Banho e Higiene;Banheira
 8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;375.9;4;Banho e Higiene;Banheira
 8.01.74.09.10;Banheira de Bebê Shower Grafite - Kiddo;375.9;2;Banho e Higiene;Banheira
@@ -429,7 +429,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;50;Carrinho de Bebê;Carrinho Travel System
 8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
-8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;3599.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.84.07.01;Carrinho de Bebê Compacto Pockit+ All-City 6 meses a 15kg Velvet Black - GB;1619.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.10.10;Carrinho de Bebê Cosmos Melange Grafite - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -732,7 +731,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;13;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.24.11;Carrinho de Bebê Parcel Verde Pine - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.117.01;Carrinho de Bebê Prestige Preto - Voyage;1279.9;3;Passeio;Carrinho de Bebê
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;28;Carrinho de Bebê;Carrinho de Bebê
@@ -1128,7 +1126,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.03.01.07;Troninho Infantil Ploc Azul - Voyage;79.9;2;Banho e Higiene;Troninho
 8.27.03.02.10;Troninho Infantil Ploc Cinza - Voyage;79.9;1;Banho e Higiene;Troninho
 8.27.03.03.18;Troninho Infantil Ploc Rosa - Voyage;79.9;1;Banho e Higiene;Troninho
-8.27.04.06.06;Troninho Infantil Sanny Gelo - Cosco;29.9;1;Banho e Higiene;Troninho
 8.27.04.08.18;Troninho Infantil Sanny Rosa - Cosco;29.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;37;Banho e Higiene;Utensílios de Higiene
