@@ -13,7 +13,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.18.07;Alimentador de Silicone para Bebê com Regulagem Azul - Nûby;29.9;4;Alimentação;Acessórios de Alimentação
 8.24.23.69.18;Alimentador Infantil de Silicone Piccolo 3 Bicos Rosa - Infanti;39.9;6;Alimentação;Acessórios de Alimentação
 8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;22;Alimentação;Acessórios de Alimentação
-8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;32;Alimentação;Acessórios de Alimentação
+8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;31;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;24;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;28;Alimentação;Acessórios de Alimentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;3;Centro de Atividades;Centro de Atividades
@@ -58,7 +58,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
-8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;16;Brinquedo e Diversão;Andador
+8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;15;Brinquedo e Diversão;Andador
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
@@ -116,7 +116,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;394;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;601;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;600;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;23;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;22;Banho e Higiene;Banheira
@@ -188,7 +188,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.43.00;Bico de Transição em Silicone - Marcus&Marcus;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.89.11.00;Bico Para Reposição Essence TC Smart Flow Fluxo Médio 2 Unidades - NUK;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.89.12.00;Bico Para Reposição Essence TC Smart Flow Fluxo Rápido 2 Unidades - NUK;29.9;4;Alimentação;Acessórios de Alimentação
-8.24.53.22.00;Bico Perfect 5 Fl Médio (2M+) Chicco 2 Unidades;16.9;20;Alimentação;Acessórios de Alimentação
+8.24.53.22.00;Bico Perfect 5 Fl Médio (2M+) Chicco 2 Unidades;16.9;19;Alimentação;Acessórios de Alimentação
 8.25.142.12.69;Boia Auxiliar Infantil Até 2 anos Candy - Sea Float;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.142.13.18;Boia Auxiliar Infantil Até 2 anos Flamingo - Sea Float;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.142.19.18;Boia Auxiliar Infantil Até 2 anos Fundo do Mar - Sea Float;19.9;1;Travas e Protetores;Travas e Protetores
@@ -295,7 +295,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.03.17.18;Cadeirinha de Alimentação Macaron Rosa - Voyage;279.9;3;Alimentação;Cadeira de Refeição
 8.06.76.01.06;Cadeirinha de Alimentação Mimzy Snacker Alphabet - Joie;549.9;1;Alimentação;Cadeira de Refeição
 8.06.23.14.06;Cadeirinha de Alimentação Panacota Branco Bronze - Infanti;0.0;3;Alimentação;Cadeira de Refeição
-8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;2;Alimentação;Cadeira de Refeição
+8.06.04.26.01;Cadeirinha de Alimentação Portátil Pop Preto - Cosco;279.9;1;Alimentação;Cadeira de Refeição
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;6;Passeio;Cadeira para Carro
 8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;6;Passeio;Cadeira para Carro
@@ -348,7 +348,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.23.04.01;Canguru Close 5 em 1 Preto Infanti;0.0;2;Passeio;Canguru
 8.08.98.01.07;Canguru Infantil 3 em 1 até 12 kg Azul - Ibimboo;169.9;6;Passeio;Canguru
 8.08.98.06.08;Canguru Infantil 3 Em 1 Até 12Kg Vermelho Marsala - Ibimboo;169.9;4;Passeio;Canguru
-8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;7;Passeio;Canguru
+8.08.01.24.01;Canguru Infantil Freedom Até 18 kg Black - Safety 1st;259.9;6;Passeio;Canguru
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;46;Passeio;Canguru
 8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;0.0;1;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
@@ -503,11 +503,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
-24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;497;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;207;Casa;Lixeira
+24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;491;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;206;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;48;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;94;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;70;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;91;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;61;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
@@ -546,19 +546,19 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.43.69;Livrinho De Banho Um Dia Com O Ursinho - Buba;19.9;2;Brinquedo e Diversão;Brinquedos
 8.25.70.11.10;Lixa de Unhas Elétrico Cinza e Branco Clingo;49.9;9;Banho e Higiene;Utensílios de Higiene
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;3;Banho e Higiene;Utensílios de Higiene
-24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;423;Casa;Lixeira
+24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;421;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
-24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;497;Casa;Lixeira
+24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;491;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;206;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1044;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;459;Casa;Lixeira
-24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;100;Casa;Lixeira
+24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;99;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;104;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;91;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;49;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;271;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;70;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;274;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;61;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;273;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;4;Quarto;Decoração
@@ -577,7 +577,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.26.138.76.16;Macacão Magnético Amarelo com girafa lateral branca - 24 meses (2 a 3 anos);109.9;8;Roupas de Bebê;Roupas de Bebê
 8.26.138.72.16;Macacão Magnético Amarelo com girafa lateral branca - 6 meses;109.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.73.16;Macacão Magnético Amarelo com girafa lateral branca - 9 meses;109.9;3;Roupas de Bebê;Roupas de Bebê
-8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;109.9;5;Roupas de Bebê;Roupas de Bebê
+8.26.138.70.16;Macacão Magnético Amarelo com girafa lateral branca - Recém nascido;109.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.47.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 12 meses;109.9;4;Roupas de Bebê;Roupas de Bebê
 8.26.138.48.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 18 meses (1 a 2 anos);99.9;2;Roupas de Bebê;Roupas de Bebê
 8.26.138.49.57;Macacão Magnético Avelã, girafa de courinho decorativa no peito - 24 meses (2 a 3 anos);99.9;6;Roupas de Bebê;Roupas de Bebê
@@ -790,7 +790,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;18;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;6;Passeio;Acessórios para Passeio
-8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;2;Passeio;Acessórios para Passeio
+8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;1;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
 8.24.18.01.07;Colher Centopéia em Silicone - Girotondo Baby;19.9;11;Alimentação;Acessórios de Alimentação
 8.24.120.07.07;Colher de Silicone com Estojo Azul - Nûby;29.9;1;Alimentação;Acessórios de Alimentação
@@ -1094,7 +1094,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.02.01.60;Torre de Aprendizado Toucan 3 em 1 Natural Wood - Maxi-Cosi;0.0;3;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;186;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;185;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -1105,7 +1105,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.74.08.06;Travesseiro Pillow Soneca - Kiddo;51.9;2;Quarto;Quarto
 8.25.01.06.00;Travesseiro Recém-Nascido Cinza Mescla - Fom Baby;89.9;1;Quarto;Quarto
 8.25.57.136.06;Travesseiro Viscoelástico Branco - Buba;59.9;4;Quarto;Quarto
-8.30.57.33.69;Treme-Treme De Atividades Zoo Dino - Buba;89.9;1;Brinquedo e Diversão;Brinquedos
 8.30.57.34.69;Treme-Treme De Atividades Zoo Elefante - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.36.69;Treme-Treme De Atividades Zoo Panda - Buba;89.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.37.69;Treme-Treme De Atividades Zoo Unicórnio - Buba;89.9;1;Brinquedo e Diversão;Brinquedos
