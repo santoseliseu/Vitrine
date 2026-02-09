@@ -47,7 +47,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.02.00;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Nude - D'Bella For Baby;149.9;1;Quarto;Quarto
-8.25.75.50.01;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Preto - D´Bella for Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.75.06.07;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Azul Jeans - D´Bella for Baby;139.9;3;Passeio;Acessórios para Passeio
 8.25.75.05.00;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Nude - D´Bella for Baby;139.9;7;Passeio;Acessórios para Passeio
 8.25.75.52.18;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Rosê - D´Bella for Baby;139.9;2;Banho e Higiene;Utensílios de Higiene
@@ -772,7 +771,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.84.02.01;Carrinho para Bebê Compacto Qbit+All Terrain Night Black - GB;2309.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.16.07;Carrinho para Bebê Compacto Qbit+All Terrain Night Blue - GB;2319.9;1;Carrinho de Bebê;Carrinho de Bebê
 6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;0.0;6;Brinquedo e Diversão;Brinquedos
-8.05.23.01.11;Centro de Atividade Jumper Joyfull Infanti Verde;0.0;1;Brinquedo e Diversão;Centro de Atividades
 8.30.94.10.00;Centro de Atividades Sophie La Girafe - Vulli;189.9;9;Brinquedo e Diversão;Centro de Atividades
 8.04.74.04.10;Cercado Portátil ICI Cinza - Kiddo;445.9;2;Quarto;Quarto
 8.04.74.05.01;Cercado Portátil ICI Preto - Kiddo;445.9;1;Quarto;Quarto
@@ -792,7 +790,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.70.07;Chupeta Comfort Tamanho 2 Ursinho Azul - Buba;19.9;2;Brinquedo e Diversão;Chupetas
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
-8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;18;Brinquedo e Diversão;Chupetas
+8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;13;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;6;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -820,7 +818,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.30.18;Colher Silicone Premium Colors 2 Unidades Rosé - Clingo;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.98.03.07;Colher Soft Spoon 8m+ Ergonômica Azul - Ibimboo;19.9;3;Alimentação;Acessórios de Alimentação
 8.24.98.02.18;Colher Soft Spoon 8m+ Ergonômica Rosa - Ibimboo;19.9;4;Alimentação;Acessórios de Alimentação
-8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;21.9;80;Banho e Higiene;Utensílios de Higiene
+8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;21.9;79;Banho e Higiene;Utensílios de Higiene
 21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;141;Móveis;Cadeira
 21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;134;Móveis;Cadeira
 21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;145;Móveis;Cadeira
@@ -999,7 +997,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.149.66.18;Prato Infantil de Silicone Encaixe Puzzle Velvet Rose e Cinza - Minikoioi;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.16.00;Prato Silicone Sucção e Divisórias Light Orchid - Nûby;26.9;22;Alimentação;Acessórios de Alimentação
 8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;39.9;8;Banho e Higiene;Utensílios de Higiene
-8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;45;Brinquedo e Diversão;Chupetas
+8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;44;Brinquedo e Diversão;Chupetas
 8.25.89.03.00;Prendedor de Chupeta com Argola Rose & Blue Boy - NUK;39.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.03.00;Prendedor de Chupeta e Talher Baleia - Marcus&Marcus;49.9;3;Brinquedo e Diversão;Chupetas
 8.25.72.04.00;Prendedor de Chupeta e Talher Girafa - Marcus&Marcus;49.9;2;Brinquedo e Diversão;Chupetas
