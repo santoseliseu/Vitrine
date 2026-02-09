@@ -320,6 +320,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;2;Passeio;Cadeira para Carro
 8.07.04.36.01;Cadeirinha de Carro Unique 0 a 36kg Preto Sport - Cosco;1119.9;2;Passeio;Cadeira para Carro
 8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;889.9;2;Passeio;Cadeira para Carro
+8.07.103.09.01;Cadeirinha para Carro Comfort Grow Black - Premium Baby;629.1;3;Passeio;Cadeira para Auto
 8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;3099.9;2;Passeio;Cadeira para Carro
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
 8.07.76.18.10;Cadeirinha para Carro I-Spin XL 360 Cinza Carbon - Joie;0.0;11;Passeio;Cadeira para Carro
@@ -414,6 +415,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.101.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;2709.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.01.36.58;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Denim Silver - Safety 1St;3489.9;1;Carrinho de Bebê;Carrinho Travel System
 8.09.01.103.27;Carrinho com Bebê Conforto Travel System Trio Mobi Grey Sport - Safety 1st;2709.9;1;Carrinho de Bebê;Carrinho Travel System
+8.09.161.01.10;Carrinho de Bebê + Moisés Combo Demi Grow Cinza Threaded - Nuna;0.0;4;Carrinho de Bebê;Carrinho Travel System
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho de Bebê
@@ -440,6 +442,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.76.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Chumbo Shale - Joie;0.0;3;Carrinho de Passeio;Travel System
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;6;Carrinho de Bebê;Carrinho de Bebê
@@ -672,6 +675,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.23.07.01;Mochila Together Preta - Infanti;0.0;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;1;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;1;Passeio;Acessórios para Passeio
+8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;1389.9;3;Passeio;Acessórios para Passeio
 8.25.94.01.69;Mordedor Aros Coloridos Sophie La Girafe Vulli;189.9;13;Brinquedo e Diversão;Mordedores
 8.25.94.14.00;Mordedor Bandana Buddies Coruja Vulli;139.9;2;Brinquedo e Diversão;Mordedores
 8.25.94.13.00;Mordedor Bandana Buddies Guaxinim Vulli;129.9;2;Brinquedo e Diversão;Mordedores
@@ -724,6 +728,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;9;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;6;Carrinho de Bebê;Carrinho Travel System
+8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.66.10;Carrinho de Bebê Pact Pro com Cadeirinha de Carro Every Stage FX Cinza - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;13;Carrinho de Bebê;Carrinho de Bebê
@@ -759,6 +765,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.03.87.10;Carrinho de Bebê Yupi Cinza Mescla - Voyage;779.9;5;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.88.01;Carrinho de Bebê Yupi Preto - Voyage;779.9;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.26.01;Carrinho de Bebê Zap Preto e Metal Cobre - Burigotto;739.9;3;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.77.10;Carrinho de Gêmeos Aire Twin Cinza Pebble - Joie;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.30.57.61.69;Carrinho Infantil De Atividades Com Luz e Som - Buba;149.9;1;Brinquedo e Diversão;Brinquedos
 8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;3;Passeio;Acessório para Passeio
 8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;1309.9;19;Passeio;Acessório para Passeio
@@ -884,7 +891,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.58.24.06;Esterilizador Elétrico 220V Branco e Cinza - Philips Avent;989.9;1;Alimentação;Acessórios de Alimentação
 8.30.170.20.11;Feirinha em Madeira Infantil Verde - Hape;1009.9;2;Brinquedo e Diversão;Brinquedos
 8.30.170.03.08;Ferrovia Clássica em Formato de 8 Vermelho - Hape;209.9;1;Brinquedo e Diversão;Brinquedos
-8.25.02.05.01;Filtro para Purificador de Ar Clean 3 Unidades Black - Maxi-Cosi;0.0;3;Cuidados;Cuidados
+8.25.02.05.01;Filtro para Purificador de Ar Clean 3 Unidades Black - Maxi-Cosi;0.0;1;Cuidados;Cuidados
 8.30.170.12.08;Forninho Mágico em Madeira Infantil Vermelho - Hape;409.9;1;Brinquedo e Diversão;Brinquedos
 8.09.169.03.11;Forro Acolchoado para Carrinho Anti-Sweat Sleepy Sheep Mint - Kikka Boo;159.9;3;Passeio;Acessório para Passeio
 8.09.169.04.07;Forro Acolchoado para Carrinho Anti-Sweat Stripy Friends Blue - Kikka Boo;159.9;3;Passeio;Acessório para Passeio
