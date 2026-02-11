@@ -12,7 +12,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.06.07;Alimentador de Silicone Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.120.18.07;Alimentador de Silicone para Bebê com Regulagem Azul - Nûby;29.9;4;Alimentação;Acessórios de Alimentação
 8.24.23.69.18;Alimentador Infantil de Silicone Piccolo 3 Bicos Rosa - Infanti;39.9;6;Alimentação;Acessórios de Alimentação
-8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;22;Alimentação;Acessórios de Alimentação
+8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;21;Alimentação;Acessórios de Alimentação
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;31;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;24;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;28;Alimentação;Acessórios de Alimentação
@@ -170,7 +170,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.23.14.10;Berço Portátil Hello Cinza Risca - Infanti;0.0;2;Quarto;Berço
 8.04.23.04.27;Berço Portátil Stelle Grey Light - Infanti;0.0;4;Quarto;Berço
 8.04.61.03.11;Berço Techno Bluetooth Balanço com Timer e Música Chumbo e Verde - Mastela;1329.9;23;Quarto;Berço
-8.04.61.01.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Escuro - Mastela;1569.9;5;Quarto;Berço
+8.04.61.01.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Escuro - Mastela;1569.9;4;Quarto;Berço
 8.30.57.28.69;Bichinho Mola Zoo Dino - Buba;79.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.29.69;Bichinho Mola Zoo Elefante - Buba;79.9;1;Brinquedo e Diversão;Brinquedos
 8.30.57.30.69;Bichinho Mola Zoo Leão - Buba;79.9;7;Brinquedo e Diversão;Brinquedos
@@ -261,7 +261,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.11.11;Cadeira de Alimentação Portátil e Ultracompacta Toast Green Lush - Infanti;0.0;1;Alimentação;Cadeira de Refeição
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;2;Alimentação;Cadeira de Refeição
-8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;21;Alimentação;Cadeira de Refeição
+8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;19;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;31;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
@@ -304,7 +304,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.21.01;Cadeirinha de Carro Mundi Isofix 360º Preto - Infanti;0.0;3;Passeio;Cadeira para Carro
 8.07.23.23.01;Cadeirinha de Carro Nonna Isofix 360º Preto Noturno - Infanti;0.0;14;Cadeirinha de Auto;Cadeirinha de Auto
 8.07.04.39.10;Cadeirinha de Carro Progress 0 a 36kg Cinza Mescla - Cosco;859.9;9;Passeio;Cadeira para Carro
-8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;11;Passeio;Cadeira para Carro
+8.07.04.40.01;Cadeirinha de Carro Progress 0 a 36kg Preto - Cosco;794.0;10;Passeio;Cadeira para Carro
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;2;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;14;Passeio;Cadeira para Carro
@@ -389,7 +389,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;27;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;17;Carrinho de Bebê;Carrinho Travel System
 8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;3;Carrinho de Bebê;Carrinho Travel System
-8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;11;Carrinho de Bebê;Carrinho Travel System
+8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;29;Carrinho de Bebê;Carrinho Travel System
 8.09.01.02.10;Carrinho com Bebê Conforto Travel System Magnific Trio Grey Denin - Safety 1st;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.23.91.07;Carrinho com Bebê Conforto Travel System Magno Duo Azul Oceano - Infanti;1349.1;3;Carrinho de Bebê;Carrinho Travel System
@@ -1086,7 +1086,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.02.01.60;Torre de Aprendizado Toucan 3 em 1 Natural Wood - Maxi-Cosi;0.0;3;Brinquedo e Diversão;Brinquedos
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;179;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;178;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
