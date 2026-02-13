@@ -250,7 +250,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.08.07;Bongo Musical Infantil Azul - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.24.57.43.18;Bowl de Silicone com Ventosa Rosa - Buba;29.9;5;Alimentação;Acessórios de Alimentação
 8.24.57.48.11;Bowl de Silicone com Ventosa Verde - Buba;39.9;3;Alimentação;Acessórios de Alimentação
-8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;3;Alimentação;Acessórios de Alimentação
+8.24.23.54.18;Bowl de Silicone Piccolo Ursinho Rosa - Infanti;29.9;2;Alimentação;Acessórios de Alimentação
 8.30.33.58.69;Brinquedo de Empilhar 3 em 1 Eletrônico Panda Tiny Rockers - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos Diversos
 8.30.33.61.69;Brinquedo Educativo de Encaixe Tiny Rockers - Tiny Love;169.9;5;Brinquedo e Diversão;Brinquedos
 8.30.57.63.11;Brinquedo Jacaré Bate-Martelo Com Bolinhas - Buba;169.9;3;Brinquedo e Diversão;Brinquedos
@@ -569,7 +569,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.146.05;Kit Protetor Solar Blackout com Ventosas - Buba;19.9;3;Travas e Protetores;Travas e Protetores
 8.25.69.26.00;Kit Queridinhos Limpa Mamadeiras, Frutinhas e Vegetais - Bioclub Baby;79.9;4;Banho e Higiene;Utensílios de Higiene
 8.24.57.38.07;Kit Talher com Estojo Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
-8.24.33.02.11;Lancheira Térmica Croco - Tiny Love;79.9;5;Alimentação;Acessórios de Alimentação
+8.24.33.02.11;Lancheira Térmica Croco - Tiny Love;79.9;4;Alimentação;Acessórios de Alimentação
 8.24.33.03.18;Lancheira Térmica Flamingo - Tiny Love;79.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.79.00;Lancheira Térmica Infantil com Zíper Zoo Baleia Narval - Skip Hop;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.33.01.17;Lancheira Térmica Safari - Tiny Love;79.9;1;Alimentação;Acessórios de Alimentação
@@ -1040,7 +1040,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.07.00;Prato Com Sucção Porquinha Pokey Marcus & Marcus;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.49.07;Prato De Silicone Com Divisória E Ventosa Azul - Clingo;99.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.48.07;Prato de Silicone com Divisórias Piccolo Azul - Infanti;64.9;1;Alimentação;Acessórios de Alimentação
-8.24.23.50.18;Prato de Silicone com Divisórias Piccolo Rosa - Infanti;49.9;3;Alimentação;Acessórios de Alimentação
+8.24.23.50.18;Prato de Silicone com Divisórias Piccolo Rosa - Infanti;49.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.50.18;Prato De Silicone Flex Com Divisória e Ventosa Rosa - Clingo;99.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.52.00;Prato De Silicone Flex Com Ventosa Formato Leão Bege - Clingo;89.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.30.07;Prato Infantil Bowl 300 ml Azul Escuro - Infanti;9.9;3;Alimentação;Acessórios de Alimentação
@@ -1164,9 +1164,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;356;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;355;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;15;Travas e Protetores;Travas e Protetores
-8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;22;Travas e Protetores;Travas e Protetores
+8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;21;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.03.96.00;Travel System Delta Trio Pro Voyage - Colorê;1249.9;2;Carrinho de Bebê;Carrinho Travel System
