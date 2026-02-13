@@ -43,7 +43,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;7;Passeio;Acessório para Passeio
-8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;3;Passeio;Acessório para Passeio
+8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
 8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;14;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
@@ -298,7 +298,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;1;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;13;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;2;Alimentação;Cadeira de Refeição
-8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;18;Alimentação;Cadeira de Refeição
+8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;17;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;31;Alimentação;Cadeira de Refeição
 8.06.04.04.18;Cadeira de Alimentação Portátil Smart Rosa - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
@@ -319,7 +319,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.09.01;Cadeira de Refeição Easy Safety 1st - Black;269.9;1;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;3;Alimentação;Cadeira de Refeição
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;194;Móveis;Cadeira
-21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;153;Móveis;Cadeira
+21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;151;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;3;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;9;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
@@ -393,7 +393,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;1;Passeio;Canguru
-8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;569.9;2;Passeio;Canguru
+8.08.30.01.01;Canguru Whizbang Aussie Black - Quinny;569.9;1;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
 8.25.01.28.11;Canudo Reutilizável Abre e Fecha Green - Safety 1st;9.9;2;Alimentação;Acessórios de Alimentação
@@ -560,8 +560,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;482;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;203;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;48;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;83;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;16;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;82;Casa;Lixeira
+24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;15;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
@@ -606,12 +606,12 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;203;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1044;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;457;Casa;Lixeira
-24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;94;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;94;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;83;Casa;Lixeira
+24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;93;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;93;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;82;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;49;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;271;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;16;Casa;Lixeira
+24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;15;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;265;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
@@ -825,11 +825,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.77.10;Carrinho de Gêmeos Aire Twin Cinza Pebble - Joie;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.30.57.61.69;Carrinho Infantil De Atividades Com Luz e Som - Buba;149.9;1;Brinquedo e Diversão;Brinquedos
 8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;3;Passeio;Acessório para Passeio
-8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;1309.9;18;Passeio;Acessório para Passeio
+8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;1309.9;17;Passeio;Acessório para Passeio
 8.09.84.02.01;Carrinho para Bebê Compacto Qbit+All Terrain Night Black - GB;2309.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.16.07;Carrinho para Bebê Compacto Qbit+All Terrain Night Blue - GB;2319.9;1;Carrinho de Bebê;Carrinho de Bebê
 6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;0.0;6;Brinquedo e Diversão;Brinquedos
-8.30.04.01.57;Casinha Portátil Kids Playhouse Bege e Vermelha - Cosco;929.9;4;Brinquedo e Diversão;Brinquedos
+8.30.04.01.57;Casinha Portátil Kids Playhouse Bege e Vermelha - Cosco;929.9;3;Brinquedo e Diversão;Brinquedos
 8.30.94.10.00;Centro de Atividades Sophie La Girafe - Vulli;189.9;9;Brinquedo e Diversão;Centro de Atividades
 8.04.74.04.10;Cercado Portátil ICI Cinza - Kiddo;445.9;2;Quarto;Quarto
 8.04.74.05.01;Cercado Portátil ICI Preto - Kiddo;445.9;1;Quarto;Quarto
@@ -881,7 +881,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.98.02.18;Colher Soft Spoon 8m+ Ergonômica Rosa - Ibimboo;19.9;4;Alimentação;Acessórios de Alimentação
 21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;137;Móveis;Cadeira
 21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;132;Móveis;Cadeira
-21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;140;Móveis;Cadeira
+21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;138;Móveis;Cadeira
 8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;99.9;1;Alimentação;Acessórios para alimentação
 8.24.149.31.07;Conjunto Copo com Canudo + Tampa Snack Blue e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
 8.24.149.35.76;Conjunto Copo com Canudo + Tampa Snack Brown e Grey - Minikoioi;99.9;2;Alimentação;Acessórios para alimentação
@@ -956,7 +956,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
 8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;29;Passeio;Acessórios para Passeio
-8.25.01.42.01;Gancho Multiuso Grande Black - Safety 1st;29.9;1;Passeio;Acessório para Passeio
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;1;Alimentação;Acessórios de Alimentação
@@ -1059,7 +1058,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.149.66.18;Prato Infantil de Silicone Encaixe Puzzle Velvet Rose e Cinza - Minikoioi;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.16.00;Prato Silicone Sucção e Divisórias Light Orchid - Nûby;26.9;22;Alimentação;Acessórios de Alimentação
 8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;39.9;8;Banho e Higiene;Utensílios de Higiene
-8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;44;Brinquedo e Diversão;Chupetas
+8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;43;Brinquedo e Diversão;Chupetas
 8.25.89.03.00;Prendedor de Chupeta com Argola Rose & Blue Boy - NUK;39.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.03.00;Prendedor de Chupeta e Talher Baleia - Marcus&Marcus;49.9;3;Brinquedo e Diversão;Chupetas
 8.25.72.04.00;Prendedor de Chupeta e Talher Girafa - Marcus&Marcus;49.9;2;Brinquedo e Diversão;Chupetas
