@@ -52,7 +52,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.05.00;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Nude - D´Bella for Baby;139.9;7;Passeio;Acessórios para Passeio
 8.25.75.52.18;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Rosê - D´Bella for Baby;139.9;2;Banho e Higiene;Utensílios de Higiene
 8.03.01.07.27;Almofada Redutora de Assento SafeNest Grey - Safety 1st;149.9;1;Passeio;Acessórios para Passeio
-8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;0.0;4;Brinquedo e Diversão;Andador
+8.67.33.01.07;Andador e Centro de Atividades Here I Grow Magical Tales 4 em 1 Branco e Azul - Tiny Love;0.0;3;Brinquedo e Diversão;Andador
 8.05.03.17.07;Andador Infantil Baby Step Até 12 kg Azul - Voyage;259.9;2;Brinquedo e Diversão;Andador
 8.05.03.15.07;Andador Infantil Buggy Até 12kg Azul - Voyage;279.9;4;Brinquedo e Diversão;Andador
 8.67.170.01.11;Andador Infantil Divertido em Madeira Verde - Hape;559.9;3;Brinquedo e Diversão;Andador
@@ -126,6 +126,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;4;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;6;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;22;Banho e Higiene;Banheira
+8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
 8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;22;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
 8.01.28.24.95;Banheira de Bebê Plástica Premium Branca e Rosa - Galzerano;429.9;30;Banho e Higiene;Banheira
@@ -152,7 +153,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;2;Passeio;Base para Bebê Conforto
 8.03.04.68.01;Base para Bebê Conforto Wizz 2.0 Preto - Cosco;199.9;3;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;1;Passeio;Base para Bebê Conforto
-8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;8;Passeio;Base para Bebê Conforto
+8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;9;Passeio;Base para Bebê Conforto
 8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;344.9;21;Passeio;Base para Bebê Conforto
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.30.57.10.69;Bate Martelo Com Bolinhas Buba Colorido;79.9;1;Brinquedo e Diversão;Brinquedos
@@ -744,7 +745,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;51;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;22;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;21;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -898,8 +899,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.58.18;Copo de Silicone 2 em 1 Piccolo Rosa - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;13;Alimentação;Acessórios de Alimentação
+8.24.53.67.11;Copo de Transição 200ml 4m+ Verde - Chicco;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
+8.24.53.60.07;Copo de Treinamento 200ml 6M+ Verde e Azul - Chicco;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.126.02.00;Copo de Treinamento com Canudo Trainer Straw 230ml Razzle Dazzle Rose/Mulberry - Tommee Tippee;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.72.20.16;Copo de Treinamento em Silicone com Grip Girafa Lola - Marcus&Marcus;49.9;1;Alimentação;Acessórios de Alimentação
