@@ -3,7 +3,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.99.02.00;Acolchoado Dupla Face Para Recém-Nascido Mesh Verde e Cinza - 4 Moms;339.9;2;Passeio;Acessórios para Passeio
 8.30.33.57.69;Acordeão Eletrônico Tiny Rockers - Tiny Love;0.0;1;Brinquedo e Diversão;Brinquedos Diversos
 8.09.93.02.01;Adaptador M para Bebê Conforto Preto - Yoyo;769.9;1;Passeio;Acessórios para Passeio
-8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;2;Banho e Higiene;Utensílios de Higiene
+8.25.135.05.00;Adesivo Calmante de Picadas de Insetos 20 unidades - Post Picada;14.9;1;Banho e Higiene;Utensílios de Higiene
 8.09.47.01.06;Adesivo Refletor Para Carrinhos KaBaby;9.9;1;Passeio;Acessórios para Passeio
 8.25.69.11.00;Água de Cheiro de Passar Roupa Cheirosinha Algodão e Melissa 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.69.01.00;Água de Cheiro de Passar Roupa Cheirosinha de Bebê 500ml - BioClub Baby;39.9;3;Banho e Higiene;Utensílios de Higiene
@@ -124,7 +124,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;384;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;598;Banho e Higiene;Banheira
-8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;4;Banho e Higiene;Banheira
+8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;6;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;22;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
@@ -752,7 +752,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;49;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;21;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;20;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1094,7 +1094,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;3;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;2;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;1;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.53.02.00;Protetores de Seios em Silicone Tamanho M-G - Chicco;29.9;1;Alimentação;Acessórios de Alimentação
@@ -1176,7 +1176,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;353;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;352;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;15;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;21;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
