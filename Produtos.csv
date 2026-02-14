@@ -159,7 +159,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;1;Passeio;Base para Bebê Conforto
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.15.10;Bebê Conforto Beta Cinza Mescla - Voyage;359.9;1;Passeio;Bebê Conforto
-8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;3;Passeio;Bebê Conforto
+8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;2;Passeio;Bebê Conforto
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;1;Passeio;Bebê Conforto
 8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;4;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;4;Bebê Conforto;Bebê Conforto
@@ -299,7 +299,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.05.57;Cadeira de Alimentação Portátil Pop Bege - Cosco;259.9;1;Alimentação;Cadeira de Refeição
 8.06.04.10.10;Cadeira de Alimentação Portátil Pop Cinza - Cosco;249.9;12;Alimentação;Cadeira de Refeição
 8.06.04.03.07;Cadeira de Alimentação Portátil Smart Azul - Cosco;183.9;2;Alimentação;Cadeira de Refeição
-8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;12;Alimentação;Cadeira de Refeição
+8.06.04.06.10;Cadeira de Alimentação Portátil Smart Cinza - Cosco;183.9;11;Alimentação;Cadeira de Refeição
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;30;Alimentação;Cadeira de Refeição
 8.06.04.04.18;Cadeira de Alimentação Portátil Smart Rosa - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
@@ -365,7 +365,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.76.19.11;Cadeirinha para Carro I-Spin XL 360 Verde Pine - Joie;0.0;1;Passeio;Cadeira para Carro
 8.07.103.04.01;Cadeirinha para Carro Murphy Lux 360º Preta e Cinza - Premium Baby;1109.9;2;Passeio;Cadeira para Carro
 8.07.39.11.01;Cadeirinha para Carro Protege Fix Preto - Burigotto;459.9;1;Passeio;Cadeira para Carro
-8.07.02.05.01;Cadeirinha para Carro Rodifix Pro² i-Size 15 a 36 kg Authentic Black - Maxi-Cosi;0.0;6;Passeio;Cadeira para Carro
+8.07.02.05.01;Cadeirinha para Carro Rodifix Pro² i-Size 15 a 36 kg Authentic Black - Maxi-Cosi;0.0;5;Passeio;Cadeira para Carro
 8.07.04.02.01;Cadeirinha para Carro Tour 9 a 36 kg Preto Bronze - Cosco Kids;509.9;5;Passeio;Cadeira para Carro
 8.07.04.03.07;Cadeirinha para Carro Tour 9 a 36 kg Preto e Azul - Cosco;509.9;3;Passeio;Cadeira para Carro
 8.07.04.04.18;Cadeirinha para Carro Tour 9 a 36 kg Preto e Rosa - Cosco;499.9;3;Passeio;Cadeira para Carro
