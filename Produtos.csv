@@ -263,7 +263,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;39.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.101.00;Buzininha Com Mordedor Buba Zoo Leão - Buba;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.102.00;Buzininha Com Mordedor Buba Zoo Panda - Buba;39.9;2;Brinquedo e Diversão;Mordedores
-8.06.103.02.16;Cadeira de Alimentação Belle Compacta e Dobrável Amarela - Premium Baby;669.9;2;Alimentação;Cadeira de Refeição
+8.06.103.02.16;Cadeira de Alimentação Belle Compacta e Dobrável Amarela - Premium Baby;669.9;1;Alimentação;Cadeira de Refeição
 8.06.04.11.16;Cadeira de Alimentação Convertty 8 em 1 Amarela - Cosco;869.9;2;Alimentação;Cadeira de Refeição
 8.06.04.12.10;Cadeira de Alimentação Convertty 8 em 1 Cinza - Cosco;869.9;9;Alimentação;Cadeira de Refeição
 8.06.04.07.06;Cadeira de Alimentação Cook Branco - Cosco;319.9;9;Alimentação;Cadeira de Refeição
@@ -556,7 +556,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;482;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;202;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;201;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;32;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;81;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;15;Casa;Lixeira
@@ -601,7 +601,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;421;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;482;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;202;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;201;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1044;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;457;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;93;Casa;Lixeira
@@ -957,7 +957,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;28;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;26;Passeio;Acessórios para Passeio
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;1;Alimentação;Acessórios de Alimentação
