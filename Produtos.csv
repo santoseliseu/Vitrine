@@ -45,7 +45,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;4;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;2;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;1;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.06.07;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Azul Jeans - D´Bella for Baby;139.9;3;Passeio;Acessórios para Passeio
@@ -186,7 +186,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.23.17.10;Berço Portátil Donatello co-bed Cinza Grafite - Infanti;0.0;2;Berço para quarto;Berços Portáteis
 8.04.03.20.18;Berço Portátil Fit Rosa Geo - Voyage;459.9;16;Quarto;Berço
 8.04.04.05.07;Berço Portátil Happy Azul - Cosco;719.9;1;Quarto;Berço
-8.04.04.04.10;Berço Portátil Happy Cinza - Cosco;719.9;3;Quarto;Berço
+8.04.04.04.10;Berço Portátil Happy Cinza - Cosco;719.9;2;Quarto;Berço
 8.04.04.21.01;Berço Portátil Happy Preto Mescla - Cosco Kids;773.99;3;Berço para quarto;Berços Portáteis
 8.04.04.06.18;Berço Portátil Happy Rosa - Cosco;639.9;3;Quarto;Berço
 8.04.23.12.10;Berço Portátil Hello Cinza - Infanti;0.0;1;Quarto;Berço
@@ -1195,6 +1195,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.08.18;Troninho Infantil Sanny Rosa - Cosco;29.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
 8.27.03.09.10;Troninho Infantil Start Cinza - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;36;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;35;Banho e Higiene;Utensílios de Higiene
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;37.9;11;Banho e Higiene;Utensílios de Higiene
