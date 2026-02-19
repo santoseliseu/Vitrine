@@ -45,7 +45,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;4;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;4;Almofadas;Almofadas para Bebê
+8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;3;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;5;Quarto;Quarto
 8.25.75.06.07;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Azul Jeans - D´Bella for Baby;139.9;3;Passeio;Acessórios para Passeio
@@ -735,7 +735,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;40;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;9;Travas e Protetores;Travas e Protetores
+8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;8;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -899,6 +899,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.86.06.18;Copo de Treinamento Trainer 4+ Rosa - Mam - Coração;49.9;7;Alimentação;Acessórios de Alimentação
 8.24.120.02.00;Copo Decorado 360° 300ML - NUBY;9.9;2;Alimentação;Acessórios de Alimentação
 8.24.120.03.18;Copo Gator Tritan e Canudo Rígido Retrátil 450ml Rosa - Nûby;29.9;2;Alimentação;Acessórios de Alimentação
+8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;9.9;1;Alimentação;Acessórios de Alimentação
+8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;7.9;1;Alimentação;Acessórios de Alimentação
+8.24.23.07.08;Copo Infantil 200 ml Vermelho - Infanti;9.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.16.18;Copo Infantil 380 ml Rosa Escuro - Infanti;9.9;1;Alimentação;Acessórios de Alimentação
 8.24.47.20.07;Copo Infantil com Bico de Silicone 125ml Azul - KaBaby;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.47.21.10;Copo Infantil com Bico de Silicone 125ml Cinza - KaBaby;29.9;1;Alimentação;Acessórios de Alimentação
@@ -962,7 +965,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;28;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;30;Quarto;Grade de Proteção
 8.12.01.02.06;Grade de Segurança Retrátil Rolling Gate White - Safety 1st;439.9;1;Quarto;Grade de Proteção
-8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;5;Travas e Protetores;Travas e Protetores
+8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;4;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
 8.30.170.13.06;Guitarra Musical Infantil Branco - Hape;479.9;2;Brinquedo e Diversão;Brinquedos
 8.25.69.22.00;Higienizador de Frutas e Vegetais Orgânico 300 ml - Bioclub Baby;29.9;2;Banho e Higiene;Utensílios de Higiene
