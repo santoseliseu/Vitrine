@@ -286,7 +286,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;5;Alimentação;Cadeira de Refeição
 8.06.03.11.07;Cadeira de Alimentação Portátil Cake Azul - Voyage;159.9;1;Alimentação;Cadeira de Refeição
 8.06.03.12.10;Cadeira de Alimentação Portátil Cake Cinza - Voyage;159.9;3;Alimentação;Cadeira de Refeição
-8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;3;Alimentação;Cadeira de Refeição
+8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;2;Alimentação;Cadeira de Refeição
 8.06.74.04.07;Cadeira de Alimentação Portátil Candy Azul - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.23.10.01;Cadeira de Alimentação Portátil e Ultracompacta Toast Black Lush - Infanti;0.0;1;Alimentação;Cadeira de Refeição
@@ -551,7 +551,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;482;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;199;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;198;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;30;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;71;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;8;Casa;Lixeira
@@ -596,7 +596,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;421;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;482;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;199;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;198;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1043;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;455;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;88;Casa;Lixeira
@@ -952,7 +952,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.61.130.18.00;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Cru - Arrumadinho;19.9;3;Quarto;Berço
 8.61.130.20.18;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Rosa - Arrumadinho;19.9;2;Quarto;Berço
 8.61.130.21.11;Fronha de Berço 30cm x 40cm Avulsa Malha 100% Algodão Verde - Arrumadinho;19.9;3;Quarto;Berço
-8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;23;Passeio;Acessórios para Passeio
+8.09.01.54.01;Gancho Duplo Para Pendurar Black - Safety 1st;19.9;21;Passeio;Acessórios para Passeio
 8.24.23.63.57;Garfo e Colher de Silicone Piccolo Terracota - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;1;Alimentação;Acessórios de Alimentação
@@ -1075,7 +1075,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
 8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;27;Banho e Higiene;Utensílios de Higiene
-8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;16;Travas e Protetores;Travas e Protetores
+8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;15;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
