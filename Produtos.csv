@@ -552,7 +552,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;482;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;200;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;199;Casa;Lixeira
 24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;30;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;72;Casa;Lixeira
 24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;8;Casa;Lixeira
@@ -597,7 +597,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;421;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;482;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;200;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;199;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1043;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;455;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;88;Casa;Lixeira
@@ -1184,7 +1184,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Andador
-8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;1;Trocador;Trocador
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
 8.27.01.09.18;Troninho Infantil Kingdom Potty 3 in 1 Pink - Safety 1st;129.9;1;Banho e Higiene;Troninho
