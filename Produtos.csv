@@ -150,7 +150,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.170.10.76;Bateria Musical Infantil Marrom - Hape;302.9;1;Brinquedo e Diversão;Brinquedos
 8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;2;Passeio;Bebê Conforto
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;1;Passeio;Bebê Conforto
-8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
+8.03.02.34.01;Bebê Conforto Citi2 com Base Essential Black - Maxi-Cosi;0.0;2;Bebê Conforto;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;3;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;4;Bebê Conforto;Bebê Conforto
@@ -533,11 +533,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;6;Banho e Higiene;Utensílios de Higiene
-24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;482;Casa;Lixeira
+24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;462;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;194;Casa;Lixeira
-24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;26;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;6;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;69;Casa;Lixeira
-24.25.49.21.01;Kit Lixeira Retrô com Pedal Preta 5 litros + 20 litros;0.0;6;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
@@ -578,17 +577,16 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;3;Banho e Higiene;Utensílios de Higiene
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;418;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
-24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;482;Casa;Lixeira
+24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;462;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;194;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1043;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;455;Casa;Lixeira
-24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;88;Casa;Lixeira
+24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;83;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;68;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;69;Casa;Lixeira
-24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;27;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;7;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;268;Casa;Lixeira
-24.25.49.17.01;Lixeira Retrô com Pedal Preta 20 litros - Mollie;295.9;6;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;249;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;244;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;4;Quarto;Decoração
