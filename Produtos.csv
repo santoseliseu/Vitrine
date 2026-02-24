@@ -290,7 +290,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.04.09.06;Cadeira de Alimentação Portátil Smart Gelo - Cosco;183.9;30;Alimentação;Cadeira de Refeição
 8.06.04.04.18;Cadeira de Alimentação Portátil Smart Rosa - Cosco;183.9;3;Alimentação;Cadeira de Refeição
 8.05.04.07.07;Cadeira de Balanço Bouncer Zeen Azul - Cosco;189.9;2;Quarto;Cadeira de Descanso
-8.05.04.06.18;Cadeira de Balanço Bouncer Zeen Rosa Floresta - Cosco;189.9;1;Quarto;Cadeira de Descanso
 8.05.62.01.07;Cadeira de Descanso Até 11 Kg Azul - Clean Weeler;209.9;1;Quarto;Cadeira de Descanso
 8.04.77.02.10;Cadeira de Descanso Bouncer Eternity Cinza Mescla e Branco - Singular Baby;629.9;3;Quarto;Cadeira de Descanso
 8.05.02.05.80;Cadeira de Descanso Bouncer Kori Essential Graphite - Maxi-Cosi;0.0;6;Quarto;Cadeira de Descanso
@@ -404,7 +403,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;29;Carrinho de Bebê;Carrinho Travel System
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;6;Carrinho de Bebê;Carrinho Travel System
-8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;26;Carrinho de Bebê;Carrinho Travel System
+8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;25;Carrinho de Bebê;Carrinho Travel System
 8.09.01.11.10;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Grey Frost - Safety 1st;0.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.76.59.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Carbon - Joie;5279.12;4;Carrinho de Bebê;Carrinho Travel System
 8.09.76.60.10;Carrinho com Bebê Conforto e Moisés Combo Aeria Trio Cinza Oyster - Joie;5279.12;6;Carrinho de Bebê;Carrinho Travel System
@@ -586,7 +585,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;69;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;7;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;268;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;244;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;243;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;4;Quarto;Decoração
@@ -719,7 +718,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;8;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;34;Passeio;Acessório para Passeio
-8.12.01.07.06;Mosquiteiro SafeNap White - Safety 1st;82.0;1;Travas e Protetores;Travas e Protetores
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -816,7 +814,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.54.00;Chupeta Comfort Tam.1 Noturna Kit Foguete - Buba;29.9;4;Brinquedo e Diversão;Chupetas
 8.25.57.74.07;Chupeta Comfort Tam.2 Brilha no Escuro Foguete Azul - Buba;19.9;3;Brinquedo e Diversão;Chupetas
 8.25.57.64.18;Chupeta Comfort Tamanho 1 Elefantinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
-8.25.57.68.07;Chupeta Comfort Tamanho 2 Azul - Buba;19.9;4;Brinquedo e Diversão;Chupetas
+8.25.57.68.07;Chupeta Comfort Tamanho 2 Azul - Buba;19.9;2;Brinquedo e Diversão;Chupetas
 8.25.57.76.18;Chupeta Comfort Tamanho 2 Coala Rosa - Buba;19.9;2;Brinquedo e Diversão;Chupetas
 8.25.57.73.18;Chupeta Comfort Tamanho 2 Elefantinho Rosa - Buba;19.9;3;Brinquedo e Diversão;Chupetas
 8.25.57.69.18;Chupeta Comfort Tamanho 2 Rosa - Buba;19.9;4;Brinquedo e Diversão;Chupetas
@@ -1054,7 +1052,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
 8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;10;Banho e Higiene;Utensílios de Higiene
-8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;10;Travas e Protetores;Travas e Protetores
+8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;6;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
@@ -1143,7 +1141,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;224;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;223;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;11;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;12;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
