@@ -17,7 +17,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;28;Alimentação;Acessórios de Alimentação
 8.24.23.47.10;Almofada de Amamentação Serena Cinza Mescla - Infanti;179.9;28;Alimentação;Amamentação
 8.03.57.04.69;Almofada de Atividades Amazônia - Buba;89.9;3;Centro de Atividades;Centro de Atividades
-8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;2;Brinquedo e Diversão;Centro de Atividades
+8.03.57.03.69;Almofada de Atividades Panda - Buba ;89.9;1;Brinquedo e Diversão;Centro de Atividades
 8.25.01.13.00;Almofada De Banho 0 a 10 meses Mickey - Fom Baby;149.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
@@ -342,7 +342,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.55.01;Cadeirinha de Carro Progress 0 a 36kg Preto Bronze - Cosco;859.9;3;Passeio;Cadeira para Carro
 8.07.23.20.10;Cadeirinha de Carro Ravenna 0 a 36kg  Cinza - Infanti;849.9;11;Passeio;Cadeira para Carro
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;14;Passeio;Cadeira para Carro
-8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;26;Passeio;Cadeira para Carro
+8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;25;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;2;Passeio;Cadeira para Carro
 8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;3;Passeio;Cadeira para Carro
 8.07.02.04.01;Cadeirinha de Carro Spinel 360º Plus 0 a 36kg Isofix Authentic Black - Maxi-Cosi;0.0;2;Passeio;Cadeira para Carro
@@ -529,7 +529,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.144.06;Kit Cuidados Branco - Buba;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.107.07;Kit Cuidados com o Bebê Com Estojo 9 Itens Azul - Buba;69.9;6;Banho e Higiene;Utensílios de Higiene
-8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;62.9;14;Banho e Higiene;Utensílios de Higiene
+8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;62.9;13;Banho e Higiene;Utensílios de Higiene
 8.24.72.72.00;Kit de Alimentação com Tigela 200ml Sem Sucção + Colher e Babador Elefante Ollie – Marcus & Marcus;159.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.19.113;Kit de Alimentação em Silicone Baleia Roxa - Marcus&Marcus;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.149.38.16;Kit de Alimentação Silicone BLW Set 2 Mellow Yellow - Minikoioi;189.9;1;Alimentação;Acessórios de Alimentação
@@ -651,7 +651,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.26.138.29.12;Macacão Magnético Off, detalhes vermelho e azul royal com letras e números nas mangas - Recém nascid;109.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.12.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 12 meses;109.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.13.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 18 meses (1 a 2 anos);109.9;7;Roupas de Bebê;Roupas de Bebê
-8.26.138.14.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 24 meses (2 a 3 anos);109.9;7;Roupas de Bebê;Roupas de Bebê
+8.26.138.14.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 24 meses (2 a 3 anos);109.9;6;Roupas de Bebê;Roupas de Bebê
 8.26.138.09.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 3 meses;109.9;1;Roupas de Bebê;Roupas de Bebê
 8.26.138.10.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 6 meses;99.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.11.18;Macacão Magnético Rosa, mangas lavanda e pink e detalhes menta - 9 meses;109.9;8;Roupas de Bebê;Roupas de Bebê
@@ -722,7 +722,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.70.36.07;Mordedor De Madeira Tartaruga Azul Navy - Clingo;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.112.18;Mordedor em Silicone e Bambu Leão Rosa – Buba;29.9;2;Brinquedo e Diversão;Mordedores
 8.30.121.02.00;Mordedor Grasp & Teethe Teether Colorido - Oball;49.9;3;Brinquedo e Diversão;Mordedores
-8.25.70.37.00;Mordedor Infantil Green Madeira e Silicone Coala Rose – Clingo;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.70.38.00;Mordedor Infantil Green Madeira e Silicone Siri Bege - Clingo;39.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.113.11;Mordedor Leão em Silicone e Bambu Verde - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
@@ -730,7 +729,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;7;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;33;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
-8.25.57.116.00;Naninha Coelhinho - Buba;49.9;2;Quarto;Quarto
+8.25.57.116.00;Naninha Coelhinho - Buba;49.9;1;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
 8.25.71.23.00;Naninha em Algodão Hipopótamo Marfim – Baby Pil;39.9;1;Quarto;Quarto
 8.25.57.117.00;Naninha Girafinha - Buba;49.9;2;Quarto;Quarto
@@ -897,7 +896,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.47.20.07;Copo Infantil com Bico de Silicone 125ml Azul - KaBaby;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.47.21.10;Copo Infantil com Bico de Silicone 125ml Cinza - KaBaby;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.52.18;Copo Infantil de Com Alça e Canudo 300 ml Gatinho Rosa - Buba;39.9;1;Alimentação;Acessórios de Alimentação
-8.24.57.53.00;Copo Infantil Parede Dupla Com Canudo 280 ml Animal Fun Girafa - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.12.18;Copo Infantil Tritan com Alça e Bico de Silicone 240ml Rosa - Nûby;39.9;4;Alimentação;Acessórios de Alimentação
 8.24.120.09.18;Copo Infantil Tritan com Alça e Canudo Retrátil 240ml Rosa - Nûby;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.13.18;Copo Tritan 360º Rosa Cachorro 300ml - Nûby;22.9;21;Alimentação;Acessórios de Alimentação
@@ -945,8 +943,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.60.07;Garfo e Colher de Silicone Piccolo Azul - Infanti;19.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.62.18;Garfo e Colher de Silicone Piccolo Rosa - Infanti;19.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.61.11;Garfo e Colher de Silicone Piccolo Verde - Infanti;19.9;1;Alimentação;Acessórios de Alimentação
-8.24.92.16.00;Garrafa com Canudo Flip Zoo 384 ml Lhama - Skip Hop;69.9;1;Alimentação;Acessórios de Alimentação
-8.24.92.19.00;Garrafa com Canudo Flip Zoo 384 ml Unicórnio - Skip Hop;59.9;3;Alimentação;Acessórios de Alimentação
+8.24.92.19.00;Garrafa com Canudo Flip Zoo 384 ml Unicórnio - Skip Hop;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.13.18;Garrafa Easy Open Térmica 700ml Rosa Cereja - Büp One;139.9;2;Alimentação;Acessórios de Alimentação
 8.24.128.14.11;Garrafa Easy Open Térmica 700ml Verde Sálvia - Büp One;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.125.07;Garrafa Pote Com Alça 300ml Sealife Azul - Marcus&Marcus;179.9;2;Alimentação;Acessórios de Alimentação
@@ -1013,7 +1010,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.14.110.04.11;Poster Minha Chegada Aquarela Verde - Coloré;19.9;5;Quarto;Decoração
 8.24.57.63.00;Pote Térmico com Talher Animal Fun Colorido Leão – Buba;89.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.68.11;Pote Térmico com Talher Gumy 320 ml Verde - Buba;89.9;2;Alimentação;Acessórios de Alimentação
-8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;99.9;7;Alimentação;Acessórios de Alimentação
+8.24.70.54.07;Pote Termico Dupla Camada Vacuo Luke - Clingo;99.9;6;Alimentação;Acessórios de Alimentação
 8.24.70.55.18;Pote Termico Dupla Camada Vacuo Milky - Clingo;99.9;5;Alimentação;Acessórios de Alimentação
 8.24.92.58.00;Pote Térmico Inox Com Talher 350 ml Alce 3 - Sprouts;119.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.63.00;Pote Térmico Inox Com Talher 350 ml Raposa - 3 Sprouts;139.9;2;Alimentação;Acessórios de Alimentação
@@ -1076,7 +1073,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;10;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;4;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
-8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;3;Travas e Protetores;Travas e Protetores
+8.25.01.21.07;Pulseira de Segurança Watch Azul - Safety 1st;69.9;2;Travas e Protetores;Travas e Protetores
 8.01.71.02.18;Rede de Banheira Infantil Premium Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
 8.01.71.04.18;Rede Para Banheira de Bebê Rosa - Baby Pil;49.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;49.9;3;Banho e Higiene;Utensílios de Higiene
@@ -1093,7 +1090,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.39.18;Rosquinhas de Amamentação Rosa - D´Bella for Baby;59.9;1;Alimentação;Acessórios de Alimentação
 8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;4;Alimentação;Acessórios de Alimentação
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
-8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;7;Quarto;Quarto
+8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;6;Quarto;Quarto
 8.60.171.04.18;Saco de Dormir em Algodão Egípcio Unicórnio Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;1;Quarto;Quarto
@@ -1175,7 +1172,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Andador
-8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;1;Trocador;Trocador
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
 8.27.01.09.18;Troninho Infantil Kingdom Potty 3 in 1 Pink - Safety 1st;129.9;1;Banho e Higiene;Troninho
