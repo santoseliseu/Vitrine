@@ -170,7 +170,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;85;Quarto;Berço
 8.04.01.07.50;Berço Compacto Mini Play Pop Bege - Safety 1st;589.9;3;Quarto;Berço
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;20;Quarto;Berço
-8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;6;Quarto;Berço
+8.04.02.11.12;Berço Portátil Co-bed Iora Air Classic Oat - Maxi-Cosi;0.0;5;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;28;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;4;Berço para quarto;Berços Portáteis
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;20;Quarto;Berço
@@ -312,6 +312,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;167;Móveis;Cadeira
 21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;148;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
+21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;1;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 21.14.50.1356.18;Cadeira Infantil Tiffany Rosa;0.0;3;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 8.06.03.16.07;Cadeirinha de Alimentação Macaron Azul - Voyage;279.9;1;Alimentação;Cadeira de Refeição
 8.06.03.15.10;Cadeirinha de Alimentação Macaron Cinza - Voyage;279.9;1;Alimentação;Cadeira de Refeição
@@ -825,7 +826,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.70.07;Chupeta Comfort Tamanho 2 Ursinho Azul - Buba;19.9;2;Brinquedo e Diversão;Chupetas
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
-8.25.53.18.00;Chupeta Physio Forma Soft 0 a 6 meses (Tamanho 1) Rosa - Chicco;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;6;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;23;Passeio;Acessórios para Passeio
@@ -1148,7 +1148,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.10.06;Trava Magnética Safety 1st White;90.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;8;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;150;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;149;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;11;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
