@@ -254,7 +254,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.65.69;Brinquedo Para Banho Com Ventosa Amigos Marinhos - Buba;99.9;1;Brinquedo e Diversão;Brinquedos
 8.30.96.01.00;Brinquedo Submarino Discovery Musical Toy - Baby Einstein;159.9;4;Brinquedo e Diversão;Brinquedos
 8.30.33.20.00;Brinquedo Wind Chime Christopher - Tiny Love;39.9;5;Brinquedo e Diversão;Brinquedos
-8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;39.9;5;Banho e Higiene;Utensílios de Higiene
+8.25.69.20.00;Brinquedos Limpinhos 500 ml - BioClub Baby;39.9;4;Banho e Higiene;Utensílios de Higiene
 8.25.57.99.00;Buzininha Com Mordedor Buba Zoo Dino - Buba;39.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.100.00;Buzininha Com Mordedor Buba Zoo Elefante - Buba;39.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.101.00;Buzininha Com Mordedor Buba Zoo Leão - Buba;39.9;1;Brinquedo e Diversão;Mordedores
@@ -528,7 +528,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.80.18;Kit Cuidados Baby Rosa - Buba;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.144.06;Kit Cuidados Branco - Buba;39.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.107.07;Kit Cuidados com o Bebê Com Estojo 9 Itens Azul - Buba;69.9;6;Banho e Higiene;Utensílios de Higiene
-8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;62.9;13;Banho e Higiene;Utensílios de Higiene
+8.25.57.109.11;Kit Cuidados com o Bebê Com Estojo 9 Itens Verde - Buba;62.9;9;Banho e Higiene;Utensílios de Higiene
 8.24.72.72.00;Kit de Alimentação com Tigela 200ml Sem Sucção + Colher e Babador Elefante Ollie – Marcus & Marcus;159.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.19.113;Kit de Alimentação em Silicone Baleia Roxa - Marcus&Marcus;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.149.38.16;Kit de Alimentação Silicone BLW Set 2 Mellow Yellow - Minikoioi;189.9;1;Alimentação;Acessórios de Alimentação
@@ -826,7 +826,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.84.18;Chupeta Comfort Tamanho 2 Ursinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
 8.25.53.18.00;Chupeta Physio Forma Soft 0 a 6 meses (Tamanho 1) Rosa - Chicco;19.9;1;Brinquedo e Diversão;Chupetas
-8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;8;Brinquedo e Diversão;Chupetas
+8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;6;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;23;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;6;Passeio;Acessórios para Passeio
@@ -1063,7 +1063,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
 8.25.58.02.00;Protetor de Seio 21mm 2 Unidades - Philips Avent;79.9;4;Travas e Protetores;Travas e Protetores
-8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;63;Travas e Protetores;Travas e Protetores
+8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;62;Travas e Protetores;Travas e Protetores
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;20;Passeio;Acessórios para Passeio
@@ -1076,7 +1076,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.132.07;Rede para Banheira Infantil Azul - Buba;49.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;39.9;4;Banho e Higiene;Utensílios de Higiene
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;89.9;3;Banho e Higiene;Utensílios de Higiene
-8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;9;Banho e Higiene;Troninho
+8.25.57.134.00;Redutor De Assento Dobrável e Portátil - Buba;39.9;6;Banho e Higiene;Troninho
 8.25.70.52.07;Redutor de Assento Sanitário Degrau Penico Azul - Clingo;149.9;3;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;73;Banho e Higiene;Utensílios de Higiene
@@ -1093,7 +1093,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.117.18;Saco de Dormir Swaddle Nude Borboletas - D'Bella For Baby;109.9;1;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;59.9;10;Passeio;Acessórios para Passeio
-8.25.88.01.11;Seringa para Lavagem Nasal Cachorro - NoseWash;26.9;48;Banho e Higiene;Utensílios de Higiene
+8.25.88.01.11;Seringa para Lavagem Nasal Cachorro - NoseWash;26.9;47;Banho e Higiene;Utensílios de Higiene
 8.25.88.22.07;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Azul - NoseWash;19.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.88.23.18;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Rosa - NoseWash;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.88.24.11;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Verde - NoseWash;19.9;4;Banho e Higiene;Utensílios de Higiene
