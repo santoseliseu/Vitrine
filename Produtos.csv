@@ -9,7 +9,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.118.04.16;Alimentador de Frutas e Papinhas com Redinha Amarela - Munchkin;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.68.07;Alimentador de Silicone 3 Bicos Azul - Infanti;39.9;4;Alimentação;Acessórios de Alimentação
 8.24.120.06.07;Alimentador de Silicone Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
-8.24.120.18.07;Alimentador de Silicone para Bebê com Regulagem Azul - Nûby;29.9;4;Alimentação;Acessórios de Alimentação
+8.24.120.18.07;Alimentador de Silicone para Bebê com Regulagem Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.69.18;Alimentador Infantil de Silicone Piccolo 3 Bicos Rosa - Infanti;39.9;6;Alimentação;Acessórios de Alimentação
 8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;20;Alimentação;Acessórios de Alimentação
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;28;Alimentação;Acessórios de Alimentação
@@ -115,7 +115,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;1;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;361;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;360;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;564;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
@@ -411,7 +411,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;39.9;1;Passeio;Acessórios para Passeio
 8.09.104.02.10;Capota para Carrinho de Bebê Spring Shadow Grey - Thule;569.9;1;Passeio;Acessórios para Passeio
 8.09.23.81.01;Carrinho com Bebê Conforto e Base Isofix Travel System Trio Romanzo Preto Bronze - Infanti;0.0;2;Carrinho de Bebê;Carrinho Travel System
-8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho Travel System
+8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;8;Carrinho de Bebê;Carrinho Travel System
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;16;Carrinho de Bebê;Carrinho Travel System
@@ -721,8 +721,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;1;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
 8.25.71.23.00;Naninha em Algodão Hipopótamo Marfim – Baby Pil;39.9;1;Quarto;Quarto
-8.25.57.117.00;Naninha Girafinha - Buba;49.9;2;Quarto;Quarto
-8.25.57.118.00;Naninha Leãozinho - Buba;49.9;1;Quarto;Quarto
+8.25.57.117.00;Naninha Girafinha - Buba;49.9;1;Quarto;Quarto
 8.25.57.119.00;Naninha Zebrinha - Buba;49.9;2;Quarto;Quarto
 8.11.160.20.113;Necessaire Arco Iris - MaiT;119.9;5;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.18.07;Necessaire Astronauta - MaiT;119.9;6;Bolsas e Mochilas;Bolsas e Mochilas
@@ -792,7 +791,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.77.10;Carrinho de Gêmeos Aire Twin Cinza Pebble - Joie;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.30.57.61.69;Carrinho Infantil De Atividades Com Luz e Som - Buba;149.9;1;Brinquedo e Diversão;Brinquedos
 8.04.01.02.07;Carrinho Multiuso Wagon Azul - Safety 1st;1309.9;3;Passeio;Acessório para Passeio
-8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;1309.9;13;Passeio;Acessório para Passeio
+8.04.01.01.10;Carrinho Multiuso Wagon Cinza - Safety 1st;1309.9;12;Passeio;Acessório para Passeio
 8.09.84.02.01;Carrinho para Bebê Compacto Qbit+All Terrain Night Black - GB;2309.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.84.16.07;Carrinho para Bebê Compacto Qbit+All Terrain Night Blue - GB;2319.9;1;Carrinho de Bebê;Carrinho de Bebê
 6.30.162.06.06;Carro Elétrico Mini Esportivo 12V Bivolt com Controle e Capacidade até 30kg - Bang Toys;0.0;6;Brinquedo e Diversão;Brinquedos
@@ -820,7 +819,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;5;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;24;Passeio;Acessórios para Passeio
-8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;5;Passeio;Acessórios para Passeio
+8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;4;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;8;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
 8.24.18.01.07;Colher Centopéia em Silicone - Girotondo Baby;19.9;11;Alimentação;Acessórios de Alimentação
