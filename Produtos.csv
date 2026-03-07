@@ -157,7 +157,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;3;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;23;Bebê Conforto;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;3;Passeio;Bebê Conforto
-8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;3;Passeio;Bebê Conforto
+8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;2;Passeio;Bebê Conforto
 8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;2;Passeio;Bebê Conforto
 8.03.04.59.01;Bebê Conforto Wizz Preto - Cosco;389.9;3;Passeio;Bebê Conforto
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;2;Bebê Conforto;Bebê Conforto
@@ -713,7 +713,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;5;Brinquedo e Diversão;Mordedores
-8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;22;Passeio;Acessório para Passeio
+8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;21;Passeio;Acessório para Passeio
 8.30.148.32.76;Naninha by Jimbao Leão Büp Baby - Metoo;89.9;1;Quarto;Quarto
 8.25.57.116.00;Naninha Coelhinho - Buba;49.9;1;Quarto;Quarto
 8.30.57.68.10;Naninha Elefantinho - Buba;49.9;2;Brinquedo e Diversão;Brinquedos
@@ -1041,7 +1041,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;3;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;2;Travas e Protetores;Travas e Protetores
+8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;1;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
