@@ -443,7 +443,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.74.21.01;Carrinho de Bebê 360º Savvy com Moisés Melange Preto - Kiddo;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.03.10;Carrinho de Bebê Aeria Oyster - Joie;3499.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.104.10;Carrinho de Bebê Anna Luxe Twillic Grey - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.95.01;Carrinho de Bebê Anna³ Essential Black - Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.23.63.10;Carrinho de Bebê Breeze Cinza - Infanti;719.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -583,7 +583,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;4;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;9;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;8;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;1;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -1030,7 +1030,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;62;Travas e Protetores;Travas e Protetores
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;6;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;5;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;8;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;4;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
