@@ -121,7 +121,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;21;Banho e Higiene;Banheira
 8.01.71.06.07;Banheira de Bebê Pequena e Dobrável 35L 2 em 1 Azul Marinho – Baby Pil;199.9;1;Banho e Higiene;Banheira
-8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;21;Banho e Higiene;Banheira
+8.01.28.33.18;Banheira de Bebê Plástica Acqua Trio Rose - Galzerano;199.9;20;Banho e Higiene;Banheira
 8.01.28.31.10;Banheira de Bebê Plástica Dobrável Branca e Cinza - Galzerano;279.9;9;Banho e Higiene;Banheira
 8.01.74.14.07;Banheira de Bebê Shower Azul - Kiddo;375.9;3;Banho e Higiene;Banheira
 8.01.74.11.10;Banheira de Bebê Shower Cinza - Kiddo;375.9;4;Banho e Higiene;Banheira
@@ -153,7 +153,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;1;Passeio;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;3;Bebê Conforto;Bebê Conforto
 8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;3;Passeio;Bebê Conforto
-8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;19;Bebê Conforto;Bebê Conforto
+8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;18;Bebê Conforto;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;3;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;2;Passeio;Bebê Conforto
 8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;2;Passeio;Bebê Conforto
@@ -434,7 +434,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.74.01;Carrinho com Bebê Conforto Travel System Romanzo Duo Preto Bronze - Infanti;0.0;29;Carrinho de Bebê;Carrinho Travel System
-8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;14;Carrinho de Bebê;Carrinho Travel System
+8.09.01.13.01;Carrinho com Bebê Conforto Travel System Spark Plus Duo Black Graphite - Safety 1st;0.0;15;Carrinho de Bebê;Carrinho Travel System
 8.09.01.14.10;Carrinho com Bebê Conforto Travel System Spark Plus Duo Grey Frost - Safety 1st;0.0;36;Carrinho de Bebê;Carrinho Travel System
 8.09.01.96.35;Carrinho com Bebê Conforto Travel System Trio Mobi Black & White - Safety 1St;2539.9;4;Carrinho de Bebê;Carrinho Travel System
 8.09.01.97.01;Carrinho com Bebê Conforto Travel System Trio Mobi Full Black - Safety 1St;2709.9;1;Carrinho de Bebê;Carrinho Travel System
@@ -467,7 +467,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;53;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;73;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;35;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;34;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.76.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Chumbo Shale - Joie;0.0;1;Carrinho de Passeio;Travel System
 8.09.04.124.92;Carrinho de Bebê Griffy Jeans - Cosco;649.9;1;Carrinho de Bebê;Carrinho de Bebê
@@ -585,7 +585,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.31.06;Luminária Musical Little Cloud - KaBaby;139.9;3;Quarto;Decoração
 8.25.57.26.07;Luvinha Mordedor Urso Azul -Buba;19.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.25.18;Luvinha Mordedor Urso Buba Rosa;19.9;4;Brinquedo e Diversão;Mordedores
-8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;11;Quarto;Decoração
+8.25.02.38.06;Luz e Som Soothe White Linha Conectada - Maxi-Cosi;0.0;10;Quarto;Decoração
 8.25.57.17.00;Luz Noturna Led Buba Branco;19.9;1;Quarto;Decoração
 8.26.138.52.06;Macacão Magnético Algodão Pima Branco com bordados em azul - 6 meses;179.9;3;Roupas de Bebê;Roupas de Bebê
 8.26.138.50.06;Macacão Magnético Algodão Pima Branco com bordados em azul - Recém nascido;179.9;6;Roupas de Bebê;Roupas de Bebê
@@ -846,7 +846,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.47.28.18;Copo 360 Sport 300ml Rosa - KaBaby;59.9;2;Alimentação;Acessórios de Alimentação
 8.23.70.10.07;Copo com Alças e Bico em Silicone 220ml Azul - Clingo;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.01.18;Copo com Alças e Bico em Silicone 220ml Rosa - Clingo;29.9;2;Alimentação;Acessórios de Alimentação
-8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
+8.24.23.56.07;Copo de Silicone 2 em 1 Piccolo Azul - Infanti;39.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;13;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;3;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;5;Alimentação;Acessórios de Alimentação
@@ -1033,7 +1033,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;62;Travas e Protetores;Travas e Protetores
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
-8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;8;Passeio;Acessórios para Passeio
+8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;7;Passeio;Acessórios para Passeio
 8.25.57.124.00;Protetor Solar Retrátil Para Carro com Ventosa - Buba;39.9;8;Travas e Protetores;Travas e Protetores
 8.25.01.02.01;Protetor Solar Stretch Black - Safety 1st;59.9;4;Passeio;Acessórios para Passeio
 8.12.98.01.00;Protetor Trava Porta - Ibimboo;19.9;1;Travas e Protetores;Travas e Protetores
