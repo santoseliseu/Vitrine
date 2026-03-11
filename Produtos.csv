@@ -22,7 +22,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;109.9;14;Banho e Higiene;Utensílios de Higiene
-8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;12;Banho e Higiene;Utensílios de Higiene
+8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -407,10 +407,10 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.01.86.10;Carrinho com Bebê Conforto Travel System Discover Trio Isofix Grey - Safety 1st;3079.9;15;Carrinho de Bebê;Carrinho Travel System
 8.09.03.115.01;Carrinho com Bebê Conforto Travel System Duo Choice Preto - Voyage;1089.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.23.43.27;Carrinho com Bebê Conforto Travel System Epic Lite Duo Grey Steel - Infanti;2319.9;1;Carrinho de Bebê;Carrinho Travel System
-8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;69;Carrinho de Bebê;Carrinho Travel System
+8.09.02.133.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;68;Carrinho de Bebê;Carrinho Travel System
 8.09.02.134.01;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;45;Carrinho de Bebê;Carrinho Travel System
 8.09.02.135.10;Carrinho com Bebê Conforto Travel System Eva³ Trio 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;46;Carrinho de Bebê;Carrinho Travel System
-8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;10;Carrinho de Bebê;Carrinho Travel System
+8.09.02.129.10;Carrinho com Bebê Conforto Travel System Leona2 Trio Select Grey - Maxi-Cosi;0.0;9;Carrinho de Bebê;Carrinho Travel System
 8.09.02.115.01;Carrinho com Bebê Conforto Travel System Leona² Trio Essential Black - Maxi-Cosi;0.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.01.03.01;Carrinho com Bebê Conforto Travel System Magnific 5 em 1 Full Black - Safety 1st;0.0;21;Carrinho de Bebê;Carrinho Travel System
 8.09.01.02.10;Carrinho com Bebê Conforto Travel System Magnific Trio Grey Denin - Safety 1st;0.0;3;Carrinho de Bebê;Carrinho Travel System
@@ -458,7 +458,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.02.01;Carrinho de Bebê Ecco Preto - Burigotto;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;14;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;53;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;52;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;72;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;32;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
