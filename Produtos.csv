@@ -298,7 +298,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.57.02.11;Cadeira de Descanso Vibratória Selvinha - Buba;599.9;1;Quarto;Cadeira de Descanso
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;3;Alimentação;Cadeira de Refeição
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;165;Móveis;Cadeira
-21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;133;Móveis;Cadeira
+21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;115;Móveis;Cadeira
 21.14.50.1355.07;Cadeira Infantil Tiffany Azul;0.0;5;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 8.06.03.16.07;Cadeirinha de Alimentação Macaron Azul - Voyage;279.9;1;Alimentação;Cadeira de Refeição
 8.06.03.18.01;Cadeirinha de Alimentação Macaron Preto - Voyage;289.9;3;Alimentação;Cadeira de Refeição
@@ -327,7 +327,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.23.19.01;Cadeirinha de Carro Ravenna 0 a 36kg  Preto - Infanti;899.9;14;Passeio;Cadeira para Carro
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;15;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
-8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;3;Passeio;Cadeira para Carro
+8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;2;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;6;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;1;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;22;Passeio;Cadeira para Carro
@@ -361,7 +361,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.98.08.07;Canguru Básico Avançado 5 Em 1 Navy Blue 15Kg - Ibimboo;189.9;5;Passeio;Canguru
 8.08.98.01.07;Canguru Infantil 3 em 1 até 12 kg Azul - Ibimboo;169.9;6;Passeio;Canguru
 8.08.98.06.08;Canguru Infantil 3 Em 1 Até 12Kg Vermelho Marsala - Ibimboo;169.9;4;Passeio;Canguru
-8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;0.0;2;Passeio;Canguru
+8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;0.0;1;Passeio;Canguru
 8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;40;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
@@ -520,7 +520,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.43.00;Kit Infantil Para Lanche Zoo 700 ml Unicórnio - Skip Hop;139.9;4;Alimentação;Acessórios de Alimentação
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;1;Banho e Higiene;Utensílios de Higiene
-24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;459;Casa;Lixeira
+24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;458;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;175;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;52;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
@@ -562,11 +562,11 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.179.06;Lixeira Antiodor 9 litros Branca - Buba;189.9;3;Banho e Higiene;Utensílios de Higiene
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;418;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
-24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;459;Casa;Lixeira
+24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;458;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;175;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1042;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;446;Casa;Lixeira
-24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;72;Casa;Lixeira
+24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;71;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;32;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;52;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;254;Casa;Lixeira
@@ -732,7 +732,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.67.18;Carrinho de Bebê Pact Pro Pink Lilac - Joie;0.0;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.07.10;Carrinho de Bebê Parcel Oyster - Joie;0.0;13;Carrinho de Bebê;Carrinho de Bebê
-8.09.03.117.01;Carrinho de Bebê Prestige Preto - Voyage;1279.9;3;Passeio;Carrinho de Bebê
+8.09.03.117.01;Carrinho de Bebê Prestige Preto - Voyage;1279.9;2;Passeio;Carrinho de Bebê
 8.09.74.04.10;Carrinho de Bebê Prima Melange Grafite Kiddo;1239.9;4;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.94.07;Carrinho de Bebê Reverse Azul Rajado - Cosco;739.9;27;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.95.10;Carrinho de Bebê Reverse Cinza Rajado - Cosco;739.9;69;Carrinho de Bebê;Carrinho de Bebê
@@ -791,7 +791,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
 8.25.86.13.18;Chupeta Sayings Flow 6m+ - Mam - Keep Calm;33.0;2;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
-8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;23;Passeio;Acessórios para Passeio
+8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;22;Passeio;Acessórios para Passeio
 8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;3;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;6;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
@@ -876,7 +876,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.73.07;Escova Para Mamadeira Em Silicone Azul - Buba;29.9;1;Alimentação;Acessórios de Alimentação
 8.24.57.75.18;Escova Para Mamadeira Em Silicone Rosa - Buba;29.9;3;Alimentação;Acessórios de Alimentação
 8.25.100.06.00;Espátula para Aplicar Pomada Pappum - LikLuc;37.9;23;Banho e Higiene;Utensílios de Higiene
-8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;3;Passeio;Acessórios para Passeio
+8.09.01.64.01;Espelho 2 em 1 Preto - Safety 1st;39.9;2;Passeio;Acessórios para Passeio
 8.25.47.33.07;Espelho Grande - Banco Traseiro Azul;109.9;1;Passeio;Acessórios para Passeio
 8.25.74.01.01;Espelho para Carro Howdy Kiddo;174.9;1;Passeio;Acessórios para Passeio
 8.25.70.27.00;Espelho Retrovisor Deluxe Grande Retangular - Clingo;99.9;3;Passeio;Acessórios para Passeio
