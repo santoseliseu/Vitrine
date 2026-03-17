@@ -22,7 +22,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.16.07;Almofada De Banho Azul - Baby Pil;149.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.02.07;Almofada De Banho Azul Marinho - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.21.07;Almofada De Banho Azul Marinho Tamanho P - Baby Pil;109.9;14;Banho e Higiene;Utensílios de Higiene
-8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;9;Banho e Higiene;Utensílios de Higiene
+8.03.71.19.07;Almofada De Banho Azul Tamanho P - Baby Pil;114.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;19;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -30,7 +30,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
-8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;6;Banho e Higiene;Utensílios de Higiene
+8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;5;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;9;Banho e Higiene;Utensílios de Higiene
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;5;Alimentação;Acessórios de Alimentação
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
@@ -52,7 +52,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.67.170.02.76;Andador Infantil Musical em Madeira Marrom - Hape;595.9;2;Brinquedo e Diversão;Andador
 8.05.01.18.27;Andador Infantil Space 3 em 1 Grey - Safety 1st;599.9;6;Brinquedo e Diversão;Andador
 8.05.01.19.17;Andador Infantil Space 3 em 1 Laranja - Safety 1st;599.9;2;Brinquedo e Diversão;Andador
-8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;13;Brinquedo e Diversão;Andador
+8.67.33.02.00;Andador Multifuncional de Madeira Boho Chic - Tiny Love;0.0;12;Brinquedo e Diversão;Andador
 8.25.100.05.00;Aparelho para Alívio da Dor na Hora da Injeção LikLuc;19.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.70.22.10;Apoio de Cabeça Para Crianças Cinza - Clingo;79.9;3;Passeio;Acessórios para Passeio
 8.25.70.06.01;Apoio de Cabeça Para Crianças Preto – Clingo;69.9;5;Passeio;Acessórios para Passeio
@@ -65,7 +65,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.50.10;Assento de Elevação Booster Clippy 15 a 36 Kg Cinza - Cosco;79.9;12;Passeio;Cadeira para Carro
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;69;Passeio;Cadeira para Carro
 8.07.23.25.10;Assento de Elevação Booster Stage Cinza Eclipse - Infanti;0.0;1;Passeio;Cadeira para Carro
-8.07.23.01.18;Assento de Elevação Booster Starfix Rosa Fantasy - Infanti;0.0;1;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;1;Passeio;Cadeira para Carro
 8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;3;Passeio;Cadeira para Carro
@@ -74,7 +73,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;1;Quarto;Babá Eletrônica
+8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;3;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;53;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;6;Alimentação;Acessórios de Alimentação
@@ -110,8 +109,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.23.01.10;Banheira de Bebê com Suporte Sicília Duo até 35 kg Branco e Cinza - Infanti;0.0;1;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;354;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;543;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;353;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;539;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;21;Banho e Higiene;Banheira
@@ -262,7 +261,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.39.25.07;Cadeira de Alimentação Merenda Baby Blue - Burigotto;659.9;1;Alimentação;Cadeira de Refeição
 8.06.02.01.80;Cadeira de Alimentação Minla Essential Graphite - Maxi-Cosi;0.0;19;Alimentação;Cadeira de Refeição
 8.06.39.09.11;Cadeira de Alimentação Poke Frosty Green - Burigotto;279.9;1;Alimentação;Cadeira de Refeição
-8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;4;Alimentação;Cadeira de Refeição
+8.06.39.23.18;Cadeira de Alimentação Poke Rose - Burigotto;299.9;3;Alimentação;Cadeira de Refeição
 8.06.03.13.18;Cadeira de Alimentação Portátil Cake Rosa - Voyage;159.9;2;Alimentação;Cadeira de Refeição
 8.06.74.04.07;Cadeira de Alimentação Portátil Candy Azul - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
 8.06.74.05.18;Cadeira de Alimentação Portátil Candy Rosa - Kiddo;289.9;1;Alimentação;Cadeira de Refeição
@@ -447,7 +446,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.13.57;Carrinho de Bebê Eva3 Luxe Twilic Truffle - Maxi-Cosi;0.0;7;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;38;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;63;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;64;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;27;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.76.01;Carrinho de Bebê Ginger com Bebê Conforto Rue e Base Chumbo Shale - Joie;0.0;1;Carrinho de Passeio;Travel System
@@ -470,7 +469,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.70.10.18;Kit 3 Copos de Transição Smart 250ml Rosa - Clingo;39.9;8;Alimentação;Acessórios de Alimentação
 8.24.23.45.62;Kit 4 Potes Infantis Multiuso 236ml Infanti Azul e Amarelo;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.126.03.00;Kit 4 Pratos Fundos Easy Scoop - Tommee Tippee - Razzle Dazzle Rose/Amethyst;69.9;1;Alimentação;Acessórios de Alimentação
-8.24.72.51.08;Kit Alimentação com 4 Divisórias Leão - Marcus&Marcus;139.9;1;Alimentação;Acessórios de Alimentação
 8.24.72.39.07;Kit Alimentação Infantil com Tigela, Babador e Colher Elefante - Marcus & Marcus;189.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.46.07;Kit Amassador para Papinha Azul - Buba;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.75.54.16;Kit Bebê a Caminho Tamanho Único P (1 a 3 meses) Amarelo - D´Bella for Baby;89.9;3;Quarto;Quarto
@@ -554,10 +552,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;170;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1042;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;445;Casa;Lixeira
-24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;22;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;44;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;252;Casa;Lixeira
-24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;237;Casa;Lixeira
+24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;235;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
 8.30.53.13.00;Luminária e Projetor Rainbow Bear Bege - Chicco;59.9;3;Quarto;Decoração
@@ -801,7 +798,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.98.03.07;Colher Soft Spoon 8m+ Ergonômica Azul - Ibimboo;19.9;3;Alimentação;Acessórios de Alimentação
 8.24.98.02.18;Colher Soft Spoon 8m+ Ergonômica Rosa - Ibimboo;19.9;4;Alimentação;Acessórios de Alimentação
 8.25.135.02.00;Compressas Antitérmicas em Gel Fever Friends 4 Und - INR;21.9;1;Banho e Higiene;Utensílios de Higiene
-21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;129;Móveis;Cadeira
+21.14.50.119.00;Conjunto Com 2 Cadeiras Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;194.9;128;Móveis;Cadeira
 21.14.50.123.00;Conjunto Com 2 Cadeiras Eames Infantil Preta Base Em Madeira - Empório Tiffany;194.9;131;Móveis;Cadeira
 21.14.50.125.00;Conjunto Com 2 Cadeiras Eames Infantil Rosa Base Em Madeira - Empório Tiffany;194.9;125;Móveis;Cadeira
 8.24.149.30.57;Conjunto Copo com Canudo + Tampa Snack Beige e Grey - Minikoioi;99.9;1;Alimentação;Acessórios para alimentação
@@ -848,7 +845,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.29.01.01.16;Degrau Infantil Duck Step - Safety 1st;39.9;6;Banho e Higiene;Utensílios de Higiene
 8.25.169.01.10;Escorredor de Mamadeira e Acessórios Cinza - Kikka Boo;79.9;3;Higene;Utensílios de Higiene
 8.25.53.54.00;Escova De Dentes 3A+ Roxa - Chicco;11.9;6;Banho e Higiene;Utensílios de Higiene
-8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;11;Banho e Higiene;Utensílios de Higiene
+8.25.57.16.00;Escova e Pente Cerdas Macias Sortido Buba;19.9;10;Banho e Higiene;Utensílios de Higiene
 8.25.72.10.113;Escova Massageadora em Silicone Baleia - Marcus&Marcus;59.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.72.08.07;Escova Massageadora em Silicone Elefante - Marcus&Marcus;59.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.72.09.08;Escova Massageadora em Silicone Leão - Marcus&Marcus;59.9;4;Banho e Higiene;Utensílios de Higiene
@@ -998,7 +995,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
 8.25.58.02.00;Protetor de Seio 21mm 2 Unidades - Philips Avent;79.9;2;Travas e Protetores;Travas e Protetores
-8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;62;Travas e Protetores;Travas e Protetores
+8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;61;Travas e Protetores;Travas e Protetores
 8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;2;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
@@ -1026,7 +1023,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;59.9;10;Passeio;Acessórios para Passeio
 8.25.88.01.11;Seringa para Lavagem Nasal Cachorro - NoseWash;26.9;47;Banho e Higiene;Utensílios de Higiene
 8.25.88.22.07;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Azul - NoseWash;19.9;1;Banho e Higiene;Utensílios de Higiene
-8.25.88.24.11;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Verde - NoseWash;19.9;3;Banho e Higiene;Utensílios de Higiene
+8.25.88.24.11;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Verde - NoseWash;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
@@ -1098,6 +1095,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.27.04.08.18;Troninho Infantil Sanny Rosa - Cosco;29.9;1;Banho e Higiene;Troninho
 8.27.04.07.11;Troninho Infantil Sanny Verde Água - Cosco;19.9;2;Banho e Higiene;Troninho
 8.27.03.07.07;Troninho Infantil Start Azul - Voyage;19.9;1;Banho e Higiene;Troninho
-8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;17;Banho e Higiene;Utensílios de Higiene
+8.25.02.36.06;Umidificador Breathe White - Maxi-Cosi;0.0;16;Banho e Higiene;Utensílios de Higiene
 8.30.170.07.11;Xilofone Musical Infantil Verde - Hape;309.9;1;Brinquedo e Diversão;Brinquedos
 8.25.100.02.00;Xô Febre Compressas Refrescantes Para Alívio de Febre 04 Unidades - LikLuc;37.9;11;Banho e Higiene;Utensílios de Higiene
