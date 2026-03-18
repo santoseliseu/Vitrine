@@ -115,7 +115,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;352;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;535;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;534;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;21;Banho e Higiene;Banheira
@@ -193,7 +193,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.30.69;Bichinho Mola Zoo Leão - Buba;79.9;3;Brinquedo e Diversão;Brinquedos
 8.30.57.31.69;Bichinho Mola Zoo Panda - Buba;69.9;2;Brinquedo e Diversão;Brinquedos
 8.30.57.32.69;Bichinho Mola Zoo Unicórnio - Buba;79.9;2;Brinquedo e Diversão;Brinquedos
-8.30.57.54.69;Bichinhos Para Banho Dino Card - Buba;29.9;1;Brinquedo e Diversão;Brinquedos Diversos
 8.30.57.26.69;Bichinhos Para Banho Dino Tubo 4 Unidades Coloridos - Buba;39.9;2;Brinquedo e Diversão;Brinquedos
 6.28.60.13.08;Bicicleta com Rodinhas Aro 12 Motor X PU 3 anos até 21kg Vermelho e Amarelo - Nathor;271.92;1;Bicicletas;Infantil
 8.30.57.59.07;Bicicleta de Equilíbrio Infantil com Som Azul - Buba;189.9;3;Brinquedo e Diversão;Brinquedos
@@ -687,7 +686,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.47.01.18;Mochila Passeio Corujinha Rosa - KaBaby;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.06.18;Mochila Passeio Rígida Trenzinho Girl - KaBaby;99.9;3;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.01.03.01;Mochila Paternidade Reserva Black - Safety 1st;0.0;4;Bolsas e Mochilas;Bolsas e Mochilas
-8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;11;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.01.02.10;Mochila Way Grey - Safety 1st;339.9;10;Bolsas e Mochilas;Bolsas e Mochilas
 8.04.74.01.01;Moisés para Carrinho de Bebê Savvy Melange Preto - Kiddo;1269.9;1;Passeio;Acessório para Passeio
 8.05.01.13.27;Moisés Portátil Dreamy Gray - Safety 1St;619.9;3;Passeio;Acessórios para Passeio
 8.04.76.07.01;Moisés Ramble XL Signature Eclipse - Joie;1389.9;3;Passeio;Acessórios para Passeio
@@ -791,7 +790,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.86.04.18;Chupeta Air Night Pássaro 6m+ - Mam;27.9;34;Brinquedo e Diversão;Chupetas
 8.25.86.15.00;Chupeta Bico Simétrico 6m+ Girl - Mam - CavaloMarinho&Camarão;38.9;24;Brinquedo e Diversão;Chupetas
 8.25.57.66.00;Chupeta Comfort Brilha no Escuro Unicórnio Rosa - Buba;19.9;2;Brinquedo e Diversão;Chupetas
-8.25.57.54.00;Chupeta Comfort Tam.1 Noturna Kit Foguete - Buba;29.9;4;Brinquedo e Diversão;Chupetas
+8.25.57.54.00;Chupeta Comfort Tam.1 Noturna Kit Foguete - Buba;29.9;3;Brinquedo e Diversão;Chupetas
 8.25.57.74.07;Chupeta Comfort Tam.2 Brilha no Escuro Foguete Azul - Buba;19.9;3;Brinquedo e Diversão;Chupetas
 8.25.57.64.18;Chupeta Comfort Tamanho 1 Elefantinho Rosa - Buba;19.9;1;Brinquedo e Diversão;Chupetas
 8.25.57.68.07;Chupeta Comfort Tamanho 2 Azul - Buba;19.9;1;Brinquedo e Diversão;Chupetas
