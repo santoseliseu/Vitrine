@@ -27,14 +27,14 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;10;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;25;Banho e Higiene;Utensílios de Higiene
-8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;10;Banho e Higiene;Utensílios de Higiene
+8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;5;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;9;Banho e Higiene;Utensílios de Higiene
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;5;Alimentação;Acessórios de Alimentação
 8.25.57.90.10;Almofada Elefante Gigante Cinza - Buba;169.9;2;Quarto;Quarto
-8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;5;Banho e Higiene;Utensílios de Higiene
+8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;4;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -131,7 +131,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.01.13.10;Banheira de Bebê Smile Grey - Safety 1st;389.9;27;Banho e Higiene;Banheira
 8.01.01.15.18;Banheira de Bebê Smile Pink - Safety 1st;319.9;8;Banho e Higiene;Banheira
 8.01.03.03.06;Banheira de Bebê Whippy Branca - Cosco;269.9;3;Banho e Higiene;Banheira
-8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;11;Banho e Higiene;Banheira
+8.01.71.19.07;Banheira Extra Grande 280 Litros Azul - Baby Pil;1049.9;10;Banho e Higiene;Banheira
 8.01.71.07.18;Banheira Extra Grande 280 Litros Rosa - Baby Pil;1049.9;7;Banho e Higiene;Banheira
 8.01.57.05.18;Banheira Infantil Dobrável Rosa - Buba;219.9;2;Banho e Higiene;Banheira
 8.01.39.12.07;Banheira Infantil Millenia com Suporte e Trocador Azul - Burigotto;409.9;17;Banho e Higiene;Banheira
@@ -175,7 +175,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.04.17.01;Berço Portátil Nanny Preto Mescla - Cosco;599.9;3;Berço para quarto;Berço
 8.04.04.15.18;Berço Portátil Nanny Rosa Rajado - Cosco;699.9;3;Quarto;Berço
 8.04.01.11.27;Berço Portátil Side by Side Gray - Safety 1st;1209.9;3;Quarto;Berço
-8.04.03.25.18;Berço Portátil Sleep Rosa - Voyage;449.9;1;Quarto;Berço
 8.04.23.04.27;Berço Portátil Stelle Grey Light - Infanti;0.0;6;Quarto;Berço
 8.04.61.03.11;Berço Techno Bluetooth Balanço com Timer e Música Chumbo e Verde - Mastela;1329.9;23;Quarto;Berço
 8.04.61.01.10;Berço Techno Bluetooth Balanço com Timer e Música Cinza Escuro - Mastela;1569.9;3;Quarto;Berço
@@ -508,7 +507,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.180.07;Kit Lavador Nasal Azul - Buba;22.9;14;Banho e Higiene;Utensílios de Higiene
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;1;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;458;Casa;Lixeira
-24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;170;Casa;Lixeira
+24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;168;Casa;Lixeira
 24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;44;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.68.10;Kit Manicure Cinza - KaBaby;19.9;1;Banho e Higiene;Utensílios de Higiene
@@ -550,7 +549,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.09.00;Lixeira Inox com Pedal 5 litros - Mollie;59.9;416;Casa;Lixeira
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;3;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;458;Casa;Lixeira
-24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;170;Casa;Lixeira
+24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;168;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1042;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;445;Casa;Lixeira
 24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;1;Casa;Lixeira
@@ -774,7 +773,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.32.114;Chupeta de Silicone Physio Light Lumi 6 a 16 meses 2 Unidades Branco e Azul - Chicco;19.9;8;Brinquedo e Diversão;Chupetas
 8.25.57.189.69;Chuveirinho Coala Colorido - Buba;119.9;1;Banho e Higiene;Utensílios de Higiene
 8.04.04.12.06;Colchonete para Berço TAM 1 (88x52x4) Branco Estampado - Cosco;82.0;16;Passeio;Acessórios para Passeio
-8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;2;Passeio;Acessórios para Passeio
+8.04.04.13.06;Colchonete Para Berço TAM 2 (95x61x4) Branco Estampado - Cosco;99.9;1;Passeio;Acessórios para Passeio
 8.04.04.14.06;Colchonete para Berço TAM 3 (101x66x4) Branco Estampado - Cosco;119.9;3;Passeio;Acessórios para Passeio
 8.25.85.01.00;Coletor Manual de Leite Materno Loren Baby;54.9;17;Alimentação;Acessórios de Alimentação
 8.24.18.01.07;Colher Centopéia em Silicone - Girotondo Baby;19.9;11;Alimentação;Acessórios de Alimentação
