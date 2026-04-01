@@ -31,7 +31,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;2;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;6;Alimentação;Acessórios de Alimentação
-8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;5;Alimentação;Acessórios de Alimentação
+8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;4;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -104,7 +104,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.103.02.11;Banheira de Bebê Baby Happy Verde - Premium Baby;265.9;5;Banho e Higiene;Banheira
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
-8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;346;Banho e Higiene;Banheira
+8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;345;Banho e Higiene;Banheira
 8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;516;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
@@ -989,7 +989,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.46.00;Projetor Tiny Dreamer Tiny Love - Boho Chic;0.0;2;Quarto;Decoração
 8.09.35.13.00;Protetor Acolchado 2 em 1 para Cadeira para Auto Multikids;79.9;1;Travas e Protetores;Travas e Protetores
 8.09.35.04.00;Protetor Acolchoado Automotivo Para Carrinhos e Cadeirinhas De Bebê - Multilaser;39.9;2;Passeio;Acessórios para Passeio
-8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;25;Banho e Higiene;Utensílios de Higiene
+8.12.01.15.01;Protetor de Banco Top Tether Black - Safety 1st;109.9;24;Banho e Higiene;Utensílios de Higiene
 8.25.01.11.00;Protetor de Cantos Clear - Safety 1st;9.9;12;Travas e Protetores;Travas e Protetores
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
