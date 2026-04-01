@@ -105,7 +105,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;346;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;517;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;516;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.07.23.32.06;Banheira de Bebê Fontana Duo Infanti - Branco;629.1;5;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;21;Banho e Higiene;Banheira
@@ -355,7 +355,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;2;Passeio;Canguru
-8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;11;Passeio;Canguru
+8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;10;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.10.00;Capa Para Bebê Conforto Clássico Estampada Listrada - D´Bella for Baby;179.9;2;Passeio;Acessórios para Passeio
@@ -828,7 +828,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.72.20.16;Copo de Treinamento em Silicone com Grip Girafa Lola - Marcus&Marcus;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.02.18;Copo de Treinamento First com Tampa e Alça 200 ml Rosa – Clingo;39.9;1;Alimentação;Acessórios de Alimentação
 8.24.86.06.18;Copo de Treinamento Trainer 4+ Rosa - Mam - Coração;49.9;7;Alimentação;Acessórios de Alimentação
-8.24.120.02.00;Copo Decorado 360° 300ML - NUBY;9.9;2;Alimentação;Acessórios de Alimentação
 8.24.120.03.18;Copo Gator Tritan e Canudo Rígido Retrátil 450ml Rosa - Nûby;29.9;2;Alimentação;Acessórios de Alimentação
 8.24.23.11.07;Copo Infantil 200 ml Azul Claro - Infanti;9.9;1;Alimentação;Acessórios de Alimentação
 8.24.23.10.07;Copo Infantil 200 ml Azul Escuro - Infanti;7.9;1;Alimentação;Acessórios de Alimentação
@@ -974,7 +973,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.149.66.18;Prato Infantil de Silicone Encaixe Puzzle Velvet Rose e Cinza - Minikoioi;129.9;1;Alimentação;Acessórios de Alimentação
 8.24.120.16.00;Prato Silicone Sucção e Divisórias Light Orchid - Nûby;26.9;22;Alimentação;Acessórios de Alimentação
 8.25.69.10.00;Pré Lavagem Tira Manchas 500 ml - Bioclub Baby;39.9;8;Banho e Higiene;Utensílios de Higiene
-8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;42;Brinquedo e Diversão;Chupetas
+8.25.86.14.07;Prendedor Clip It! & Cover Boy - Mam - Dark Blue;33.9;41;Brinquedo e Diversão;Chupetas
 8.25.89.03.00;Prendedor de Chupeta com Argola Rose & Blue Boy - NUK;39.9;2;Brinquedo e Diversão;Chupetas
 8.25.72.03.00;Prendedor de Chupeta e Talher Baleia - Marcus&Marcus;49.9;3;Brinquedo e Diversão;Chupetas
 8.25.72.04.00;Prendedor de Chupeta e Talher Girafa - Marcus&Marcus;49.9;2;Brinquedo e Diversão;Chupetas
@@ -1027,6 +1026,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.88.24.11;Seringa Para Lavagem Nasal Infantil Protect Sense 10ml Urso Verde - NoseWash;19.9;2;Banho e Higiene;Utensílios de Higiene
 8.30.94.08.00;Soft Ball Sophie La Girafa Chocalho Vulli;119.9;10;Brinquedo e Diversão;Brinquedos
 8.09.47.09.10;Suporte de Cabeca Almofadinha Cinza - KaBaby;39.9;1;Passeio;Acessórios para Passeio
+8.01.28.08.06;Suporte Para Banheira de Bebê Plástica Branca - Galzerano;139.9;12;Banho e Higiene;Banheira
 8.09.47.18.01;Suporte para Telefone com Alça Ajustável;49.9;2;Passeio;Acessórios para Passeio
 8.24.70.16.07;Talheres de Silicone com Ventosa Azul - Clingo;19.9;1;Alimentação;Acessórios de Alimentação
 8.24.70.17.18;Talheres de Silicone com Ventosa Sticker Rosa - Clingo;19.9;5;Alimentação;Acessórios de Alimentação
