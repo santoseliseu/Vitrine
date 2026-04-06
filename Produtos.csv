@@ -31,7 +31,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;6;Alimentação;Acessórios de Alimentação
-8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;4;Alimentação;Acessórios de Alimentação
+8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;1;Alimentação;Acessórios de Alimentação
 8.06.23.13.11;Almofada de Elevação Mangiare Verde - Infanti;0.0;2;Alimentação;Cadeira de Refeição
 8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;4;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
@@ -535,7 +535,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;450;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;164;Casa;Lixeira
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1035;Casa;Lixeira
-24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;429;Casa;Lixeira
+24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;422;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;27;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;237;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;230;Casa;Lixeira
