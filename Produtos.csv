@@ -284,7 +284,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.06.01.09.01;Cadeira de Refeição Easy Safety 1st - Black;269.9;2;Alimentação;Cadeira de Refeição
 8.06.39.29.01;Cadeira de Refeição Prima Pappa 0 a 3 Anos Preto - Burigotto;749.9;3;Alimentação;Cadeira de Refeição
 21.14.50.118.00;Cadeira Eames Infantil Azul Claro Base Em Madeira - Empório Tiffany;97.9;158;Móveis;Cadeira
-21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;88;Móveis;Cadeira
+21.14.50.122.00;Cadeira Eames Infantil Preta Base Em Madeira - Empório Tiffany;97.9;91;Móveis;Cadeira
 21.14.50.1353.06;Cadeira Infantil Tiffany Branca;0.0;3;GRUPO DE PRODUTOS;SUB-GRUPO DE PRODUTOS
 8.06.03.16.07;Cadeirinha de Alimentação Macaron Azul - Voyage;279.9;1;Alimentação;Cadeira de Refeição
 8.06.03.18.01;Cadeirinha de Alimentação Macaron Preto - Voyage;289.9;3;Alimentação;Cadeira de Refeição
@@ -315,6 +315,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.47.01;Cadeirinha de Carro Spinel 360º 0 a 36 kg Authentic Black - Maxi-Cosi;0.0;6;Passeio;Cadeira para Carro
 8.07.02.47.80;Cadeirinha de Carro Spinel 360º 0 a 36 Kg Authentic Graphite - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
 8.15.02.08.01;Cadeirinha de Carro Spinel 360º Maxi-Cosi 0 a 36 kg Authentic Black + Espelho 2 em 1;0.0;6;Passeio;Cadeira para Carro
+8.07.02.04.01;Cadeirinha de Carro Spinel 360º Plus 0 a 36kg Isofix Authentic Black - Maxi-Cosi;0.0;1;Passeio;Cadeira para Carro
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;4;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;1;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;10;Passeio;Cadeira para Carro
@@ -432,7 +433,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.132.10;Carrinho de Bebê Bross Cinza Mescla - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;1;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;1;Carrinho de Bebê;Carrinho Travel System
+8.09.02.102.27;Carrinho de Bebê com Bebê Conforto Travel System Anna³ Trio Sparkilng Grey- Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho Travel System
 8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;3599.0;3;Carrinho de Bebê;Carrinho Travel System
@@ -831,6 +832,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.58.18;Copo de Silicone 2 em 1 Piccolo Rosa - Infanti;39.9;4;Alimentação;Acessórios de Alimentação
 8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;11;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;2;Alimentação;Acessórios de Alimentação
+8.24.53.67.11;Copo de Transição 200ml 4m+ Verde - Chicco;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;3;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
@@ -902,7 +904,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.57.23.18;Garrafa Térmica Inox Parede Dupla com Canudo Buba Rosa;84.9;1;Alimentação;Acessórios de Alimentação
 8.24.92.20.00;Garrafa Tritan com Bico 350ml Raposa - 3 Sprouts;69.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.77.69;Garrafinha Animal Fun 350 ml Leão - Buba;29.9;1;Alimentação;Acessórios de Alimentação
-8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;17;Quarto;Grade de Proteção
+8.12.01.19.01;Grade de Porta Stop Gate Black - Safety 1st;239.9;21;Quarto;Grade de Proteção
 8.12.01.18.06;Grade de Porta Stop Gate White - Safety 1st;229.9;25;Quarto;Grade de Proteção
 8.12.01.23.06;Grade de Segurança Retrátil SafeSlide White - Safety 1st;219.9;5;Travas e Protetores;Travas e Protetores
 8.30.33.60.69;Guitarra Eletrônica Tiny Rockers - Tiny Love;0.0;4;Brinquedo e Diversão;Brinquedos Diversos
