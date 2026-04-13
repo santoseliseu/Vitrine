@@ -39,7 +39,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
 8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;5;Almofadas;Almofadas para Bebê
-8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;3;Almofadas;Almofadas para Bebê
+8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;2;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;3;Quarto;Quarto
 8.25.75.06.07;Almofada Redutora Bebê Fofo Malha para Bebê Conforto e Carrinho Azul Jeans - D´Bella for Baby;139.9;3;Passeio;Acessórios para Passeio
@@ -73,7 +73,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.76.79.10;Assento Extra para Carrinho de Bebê Versiti Chumbo Ebony - Joie;1439.1;2;Passeio;Acessório para Passeio
 8.09.53.10.01;Assento Extra Para Carrinho Fully Chicco Black Night;279.9;8;Passeio;Acessórios para Passeio
 8.30.57.23.69;Atomic Ball - Buba;59.9;2;Brinquedo e Diversão;Brinquedos
-8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;95;Quarto;Babá Eletrônica
+8.25.02.37.06;Babá Eletrônica See White - Maxi-Cosi;0.0;97;Quarto;Babá Eletrônica
 8.25.01.41.06;Babá Eletrônica Super Smart Vision White - Safety 1st;599.9;48;Quarto;Babá Eletrônica
 8.25.47.10.02;Babador Baleia Lilas;39.9;1;Alimentação;Acessórios de Alimentação
 8.25.57.91.00;Babador Com Pega Migalhas Arco Íris - Buba;9.9;6;Alimentação;Acessórios de Alimentação
@@ -350,7 +350,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.98.01.07;Canguru Infantil 3 em 1 até 12 kg Azul - Ibimboo;169.9;6;Passeio;Canguru
 8.08.98.06.08;Canguru Infantil 3 Em 1 Até 12Kg Vermelho Marsala - Ibimboo;169.9;4;Passeio;Canguru
 8.08.02.01.10;Canguru Infantil Feel Grey - Maxi-Cosi;0.0;9;Passeio;Canguru
-8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;1;Passeio;Canguru
+8.08.01.25.27;Canguru Infantil Freedom Até 18 kg Grey - Safety 1st;299.9;2;Passeio;Canguru
 8.08.23.03.10;Canguru Infantil I Love Travel Gray - Infanti;0.0;1;Passeio;Canguru
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
@@ -1037,6 +1037,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.69.14.00;Sabonete Líquido Infantil Lava Tudinho 300 ML - Bioclub Baby;29.9;3;Banho e Higiene;Utensílios de Higiene
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;4;Quarto;Quarto
+8.60.171.03.07;Saco de Dormir em Algodão Egípcio Foguetinho Primavera Verão M - Casulo;189.0;1;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
 8.25.75.38.00;Saco Maternidade 3 peças - D´Bella for Baby;59.9;10;Passeio;Acessórios para Passeio
@@ -1090,9 +1091,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.32.00;Toalha de Banho Pequena Com Fralda Solta Clássico 0 a 2 anos Flores - D´Bella for Baby;139.9;3;Banho e Higiene;Toalha
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;2;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;10;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;181;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;182;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;20;Travas e Protetores;Travas e Protetores
-8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;2;Travas e Protetores;Travas e Protetores
+8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;3;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
 8.09.76.57.10;Travel Sistem Versatrax Cicle Trio Cinza Shellgray com I-Base Isofix I-Snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.76.54.10;Travel Sistem Versatrax E Trio Pebble Cinza com I-Base Isofix I-Snug - Joie;0.0;5;Carrinho de Bebê;Carrinho Travel System
