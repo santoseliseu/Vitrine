@@ -69,7 +69,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.04.49.01;Assento de Elevação Booster Clippy 15 a 36 kg Preto - Cosco;67.9;63;Passeio;Cadeira para Carro
 8.07.23.02.11;Assento de Elevação Booster Starfix Verde Gamer - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.04.54.10;Assento de Elevação Booster Teen 15 a 36kg Cinza - Cosco;109.9;19;Passeio;Cadeira para Carro
-8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;10;Passeio;Cadeira para Carro
+8.07.04.53.01;Assento de Elevação Booster Teen 15 a 36kg Preto - Cosco;109.9;9;Passeio;Cadeira para Carro
 8.07.01.35.01;Assento de Elevação Booster Trackfix 15 a 36 Kg Black - Safety 1st;374.0;2;Passeio;Cadeira para Carro
 8.07.03.19.10;Assento de Elevação Booster Vibe 15 a 36 kg Cinza - Voyage;59.9;20;Passeio;Cadeira para Carro
 8.09.76.80.57;Assento Extra para Carrinho de Bebê Versiti Areia Sandstone - Joie;1439.1;3;Passeio;Acessório para Passeio
@@ -716,7 +716,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.102.10;Carrinho de Bebê Minny Cinza Mescla - Cosco;759.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.06.01;Carrinho de Bebê Nivo Preto e Cinza - Tutti Baby;769.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.70.07;Carrinho de Bebê Pact Pro Azul Deep Sea - Joie;1759.0;2;Carrinho de Bebê;Carrinho de Bebê
-8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;7;Carrinho de Bebê;Carrinho de Bebê
+8.09.76.61.10;Carrinho de Bebê Pact Pro Chumbo Shale - Joie;0.0;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.65.01;Carrinho de Bebê Pact Pro Chumbo Shale com Cadeirinha de Carro Every Stage FX Preta - Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.53.10;Carrinho de Bebê Pact Pro Cinza Pebble - Joie;0.0;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.71.07;Carrinho de Bebê Pact Pro Light Blue - Joie;0.0;4;Carrinho de Bebê;Carrinho de Bebê
@@ -837,7 +837,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.23.59.57;Copo de Silicone 2 em 1 Piccolo Terracota - Infanti;39.9;11;Alimentação;Acessórios de Alimentação
 8.24.23.57.11;Copo de Silicone 2 em 1 Piccolo Verde - Infanti;39.9;2;Alimentação;Acessórios de Alimentação
 8.24.53.67.11;Copo de Transição 200ml 4m+ Verde - Chicco;39.9;1;Alimentação;Acessórios de Alimentação
-8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;3;Alimentação;Acessórios de Alimentação
+8.25.119.01.00;Copo de Transição com Alça Rosa - Nuby;9.9;2;Alimentação;Acessórios de Alimentação
 8.24.70.34.18;Copo de Transição com Canudo 240 ml Milky - Clingo;59.9;2;Alimentação;Acessórios de Alimentação
 8.24.57.15.18;Copo de Treinamento 360º Com Alça 250 ml Rosa - Buba;49.9;1;Alimentação;Acessórios de Alimentação
 8.24.126.02.00;Copo de Treinamento com Canudo Trainer Straw 230ml Razzle Dazzle Rose/Mulberry - Tommee Tippee;59.9;2;Alimentação;Acessórios de Alimentação
@@ -1016,9 +1016,9 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.98.03.00;Protetor De Mesa Em Silicone;19.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.19.00;Protetor de Quina e Borda Flexível em Rolo - Buba;19.9;5;Travas e Protetores;Travas e Protetores
 8.12.98.04.00;Protetor De Quina Formato U Mesa De Vidro Em Eva;29.9;5;Travas e Protetores;Travas e Protetores
-8.25.58.02.00;Protetor de Seio 21mm 2 Unidades - Philips Avent;79.9;2;Travas e Protetores;Travas e Protetores
+8.25.58.02.00;Protetor de Seio 21mm 2 Unidades - Philips Avent;79.9;1;Travas e Protetores;Travas e Protetores
 8.25.58.01.00;Protetor de Seio Pequeno 2 Unidades - Philips Avent;65.0;60;Travas e Protetores;Travas e Protetores
-8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;3;Travas e Protetores;Travas e Protetores
+8.25.01.25.06;Protetor de Tomada 10 pç White - Safety 1st;9.9;2;Travas e Protetores;Travas e Protetores
 8.25.01.01.01;Protetor Solar Duplo Black - Safety 1st;39.9;4;Passeio;Acessórios para Passeio
 8.12.01.20.01;Protetor Solar para Carro Stretch Preto - Safety 1st;59.9;3;Travas e Protetores;Travas e Protetores
 8.12.01.14.01;Protetor Solar Retrátil Para Carro Black - Safety 1st;39.9;97;Passeio;Acessórios para Passeio
