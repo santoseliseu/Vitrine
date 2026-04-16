@@ -28,7 +28,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;23;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
-8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;17;Banho e Higiene;Utensílios de Higiene
+8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;16;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;6;Alimentação;Acessórios de Alimentação
@@ -40,7 +40,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.03.01.11.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Dark Melange - Safety 1st;119.9;6;Passeio;Acessório para Passeio
 8.03.01.12.10;Almofada para Carrinhos e Bebê Conforto SafeHuggy Light Melange - Safety 1st;119.9;2;Passeio;Acessório para Passeio
-8.03.01.09.01;Almofada para Carrinhos SafeComfort Black & Dark Melange - Safety 1st;114.9;1;Almofadas;Almofadas para Bebê
 8.03.01.10.10;Almofada para Carrinhos SafeComfort Dark Melange & Light Melange - Safety 1st;119.9;1;Almofadas;Almofadas para Bebê
 8.25.01.05.10;Almofada para Cinto de Segurança Grey - Safety 1st;79.9;2;Travas e Protetores;Travas e Protetores
 8.25.75.01.10;Almofada Redutora Bebê Fofo Lycra para Bebê Conforto e Carrinho Cinza - D'Bella For Baby;149.9;3;Quarto;Quarto
@@ -384,7 +383,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.105.00;Capa Protetora Solar Para Janela Traseira - Buba;39.9;1;Passeio;Acessórios para Passeio
 8.09.104.02.10;Capota para Carrinho de Bebê Spring Shadow Grey - Thule;569.9;1;Passeio;Acessórios para Passeio
 8.09.23.81.01;Carrinho com Bebê Conforto e Base Isofix Travel System Trio Romanzo Preto Bronze - Infanti;0.0;2;Carrinho de Bebê;Carrinho Travel System
-8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;65;Carrinho de Bebê;Carrinho Travel System
+8.09.02.14.10;Carrinho com Bebê Conforto e Base Travel System Anna³ Trio Select Grey - Maxi-Cosi;0.0;64;Carrinho de Bebê;Carrinho Travel System
 8.09.103.03.01;Carrinho com Bebê Conforto e Base Travel System Aston Gold e Black - Premium Baby;2219.0;5;Carrinho de Bebê;Carrinho Travel System
 8.09.103.02.10;Carrinho com Bebê Conforto e Base Travel System Aston Silver e Black - Premium Baby;1899.0;6;Carrinho de Bebê;Carrinho Travel System
 8.09.01.10.01;Carrinho com Bebê Conforto e Base Travel System Spark Plus Trio Isofix Black Graphite - Safety 1st;0.0;56;Carrinho de Bebê;Carrinho Travel System
@@ -451,7 +450,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.39.13.08;Carrinho de Bebê Ecco Vermelho - Burigotto;769.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.130.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black - Maxi-Cosi;0.0;18;Carrinho de Bebê;Carrinho de Bebê
 8.09.02.131.01;Carrinho de Bebê Eva³ 0 a 15 Kg Essential Black Champagne - Maxi-Cosi;0.0;56;Carrinho de Bebê;Carrinho de Bebê
-8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;22;Carrinho de Bebê;Carrinho de Bebê
+8.09.02.132.10;Carrinho de Bebê Eva³ 0 a 15 Kg Select Grey - Maxi-Cosi;0.0;21;Carrinho de Bebê;Carrinho de Bebê
 8.09.54.04.07;Carrinho de Bebê Evo Azul - Tutti Baby;589.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.115.01;Carrinho de Bebê Guarda-Chuva Keep Preto - Cosco;399.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.03.04.01;Carrinho de Bebê Guarda-Chuva Pipa Preto Neon - Voyage;499.9;5;Carrinho de Bebê;Carrinho de Bebê
@@ -513,7 +512,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;1;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;444;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;160;Casa;Lixeira
-24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;11;Casa;Lixeira
+24.25.49.13.10;Kit Lixeira Retrô com Pedal Cinza 5 litros + 20 litros;0.0;10;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.69.28.00;Kit Miniaturas de Cosmésticos Infantis 60ml Cada - BioClub;39.9;5;Cuidados;Cuidados
@@ -559,7 +558,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1030;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;418;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;1;Casa;Lixeira
-24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;11;Casa;Lixeira
+24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;10;Casa;Lixeira
 24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;1;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;231;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;227;Casa;Lixeira
@@ -682,7 +681,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.121.02.00;Mordedor Grasp & Teethe Teether Colorido - Oball;49.9;3;Brinquedo e Diversão;Mordedores
 8.25.70.38.00;Mordedor Infantil Green Madeira e Silicone Siri Bege - Clingo;39.9;2;Brinquedo e Diversão;Mordedores
 8.25.57.113.11;Mordedor Leão em Silicone e Bambu Verde - Buba;29.9;1;Brinquedo e Diversão;Mordedores
-8.25.57.114.07;Mordedor Mãozinha Com Prendedor De Chupeta Azul - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.25.57.115.18;Mordedor Mãozinha Com Prendedor De Chupeta Rosa - Buba;29.9;1;Brinquedo e Diversão;Mordedores
 8.30.53.65.07;Mordedor Mocho Eco Coruja Azul - Chicco;19.9;4;Brinquedo e Diversão;Mordedores
 8.25.01.40.01;Mosquiteiro para Carrinho com Arco e Zíper Black - Safety 1st;59.9;114;Passeio;Acessório para Passeio
