@@ -28,7 +28,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;23;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
-8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;16;Banho e Higiene;Utensílios de Higiene
+8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;15;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;6;Alimentação;Acessórios de Alimentação
@@ -136,7 +136,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.02.84.01.01;Base Fix para Bebê Conforto Artio Satin Black 13kg - GB;929.9;3;Passeio;Base para Bebê Conforto
 8.03.74.14.01;Base para Bebê Conforto com Isofix Yuba Preto - Kiddo;699.9;1;Passeio;Base para Bebê Conforto
 8.02.02.06.01;Base para Bebê Conforto Zion Isofix Preta - Infanti;0.0;3;Passeio;Base para Bebê Conforto
-8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;5;Passeio;Base para Bebê Conforto
+8.02.23.03.01;Base para Bebê Conforto Zion Preto - Infanti;0.0;4;Passeio;Base para Bebê Conforto
 8.03.28.20.01;Base Veicular para Bebê Conforto Cocoon Preta - Galzerano;179.9;1;Passeio;Base para Bebê Conforto
 8.03.76.07.01;Base Veicular para Bebê Conforto I-Base Isofix I-Snug Preto - Joie;344.9;21;Passeio;Base para Bebê Conforto
 8.02.23.01.00;Base Veicular Terni Isofix Cor Única - Infanti;0.0;1;Passeio;Base para Bebê Conforto
@@ -210,7 +210,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.57.64.69;Bola De Atividades Formas e Encaixe - Buba;69.9;3;Brinquedo e Diversão;Brinquedos
 8.11.30.01.01;Bolsa Changing Bag Zapp X Black - Quinny;459.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;249.9;2;Bolsas e Mochilas;Bolsas e Mochilas
-8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;19;Bolsas e Mochilas;Bolsas e Mochilas
+8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;18;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;3;Alimentação;Acessórios de Alimentação
 8.24.169.02.11;Bomba Tira Leite Dupla Elétrica Nessa - Kikka Boo;559.9;1;Alimentação;Acessórios de Alimentação
@@ -557,7 +557,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;418;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;1;Casa;Lixeira
 24.25.49.02.10;Lixeira Retrô com Pedal 20 litros Cinza Mollie;295.9;9;Casa;Lixeira
-24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;231;Casa;Lixeira
+24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;230;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;227;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
 8.25.70.09.00;Luminária com Luz e Sons Elefantinho - Clingo;89.9;3;Quarto;Quarto
