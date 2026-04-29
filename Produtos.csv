@@ -511,6 +511,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.42.06;Kit Lixa de Unha Elétrico Buba;59.9;1;Banho e Higiene;Utensílios de Higiene
 24.25.49.14.06;Kit Lixeira com Pedal Branca 3 litros + 12 litros;0.0;431;Casa;Lixeira
 24.25.49.15.10;Kit Lixeira com Pedal Chumbo 3 litros + 12 litros;0.0;156;Casa;Lixeira
+24.25.49.12.06;Kit Lixeira Retrô com Pedal Branca 5 litros + 20 litros;0.0;1;Casa;Lixeira
 8.24.58.48.00;Kit Mamadeira Anti-Colic 260ml Azul + Bico 3 - Philips Avent;59.9;3;Alimentação;Acessórios de Alimentação
 8.25.47.69.10;Kit Manicure Infantil Premium Cinza - KaBaby;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.25.69.28.00;Kit Miniaturas de Cosmésticos Infantis 60ml Cada - BioClub;39.9;5;Cuidados;Cuidados
@@ -556,6 +557,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1028;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;421;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;1;Casa;Lixeira
+24.25.49.04.06;Lixeira Retrô com Pedal 20 litros Branca - Mollie;295.9;1;Casa;Lixeira
+24.25.49.03.06;Lixeira Retrô com Pedal 5 litros Branca - Mollie;109.9;1;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;219;Casa;Lixeira
 24.25.49.16.01;Lixeira Retrô com Pedal Preta 5 litros - Mollie;109.9;217;Casa;Lixeira
 8.25.47.110.06;Lixo Mágico New Style KaBaby Branco;179.9;2;Banho e Higiene;Utensílios de Higiene
@@ -1031,7 +1034,6 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.57.133.18;Rede para Banheira Infantil Rosa - Buba;39.9;4;Banho e Higiene;Utensílios de Higiene
 8.12.47.06.10;Rede Protetora de Banho Cinza - KaBaby;89.9;3;Banho e Higiene;Utensílios de Higiene
 8.25.70.52.07;Redutor de Assento Sanitário Degrau Penico Azul - Clingo;149.9;3;Banho e Higiene;Utensílios de Higiene
-8.01.28.16.06;Redutor de Banheira de Bebê Plásstica Branco - Galzerano;49.9;1;Banho e Higiene;Utensílios de Higiene
 8.24.123.01.00;Refil de Silicone para Alimentador de Alimentos - Oxotot;39.9;7;Alimentação;Acessórios de Alimentação
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;66;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
