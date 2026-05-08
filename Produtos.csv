@@ -24,14 +24,14 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;22;Banho e Higiene;Utensílios de Higiene
-8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;8;Banho e Higiene;Utensílios de Higiene
+8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;7;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
 8.03.71.20.18;Almofada De Banho Rosa Tamanho P - Baby Pil;114.9;15;Banho e Higiene;Utensílios de Higiene
 8.03.71.06.00;Almofada De Banho Unicórnio Azul - Baby Pil;139.9;1;Banho e Higiene;Utensílios de Higiene
 8.03.71.07.00;Almofada De Banho Urso Zeca Creme e Marrom - Baby Pil;139.9;6;Banho e Higiene;Utensílios de Higiene
 8.03.23.04.10;Almofada de Elevação Mangiare Cinza - Infanti;0.0;6;Alimentação;Acessórios de Alimentação
 8.03.23.05.01;Almofada de Elevação Mangiare Preto - Infanti;0.0;5;Alimentação;Acessórios de Alimentação
-8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;3;Banho e Higiene;Utensílios de Higiene
+8.25.57.89.10;Almofada Infantil Para Banho Cinza - Buba;99.9;2;Banho e Higiene;Utensílios de Higiene
 8.09.70.20.10;Almofada Para Carrinho Espaço Cinza - Clingo;139.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.21.07;Almofada Para Carrinho Triângulo Azul - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.70.19.10;Almofada Para Carrinho Triangulos Cinza - Clingo;139.9;2;Carrinho de Bebê;Carrinho de Bebê
@@ -106,7 +106,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.01.47.01.07;Banheira de Bebê Dobrável Azul - KaBaby;309.9;1;Banho e Higiene;Banheira
 8.01.47.08.18;Banheira de Bebê Dobrável e Antiderrapante Rosa - KaBaby;349.9;2;Banho e Higiene;Banheira
 8.01.182.01.10;Banheira de Bebê Dobrável Portátil Até 35 Litros com Almofada de Banho Cinza - Mollie Baby;139.9;315;Banho e Higiene;Banheira
-8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;441;Banho e Higiene;Banheira
+8.01.182.02.10;Banheira de Bebê Dobrável Portátil até 35 Litros com Suporte e Almofada de Banho Cinza - Mollie Baby;319.9;440;Banho e Higiene;Banheira
 8.01.04.01.10;Banheira de Bebê Fold Up Branca e Cinza - Cosco;119.9;3;Banho e Higiene;Banheira
 8.01.39.02.06;Banheira de Bebê Millenia+ até 20kg Branca - Burigotto;424.9;19;Banho e Higiene;Banheira
 8.01.39.08.06;Banheira de Bebê Ofuro Opla Polar Branco - Burigotto;209.9;1;Banho e Higiene;Banheira
@@ -144,7 +144,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;46;Bebê Conforto;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;2;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;2;Passeio;Bebê Conforto
-8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;2;Passeio;Bebê Conforto
+8.03.04.62.10;Bebê Conforto Wizz Cinza Mescla - Cosco;389.9;1;Passeio;Bebê Conforto
 8.03.74.15.01;Bebê Conforto Yuba com Base Isofix Preto - Kiddo;0.0;1;Bebê Conforto;Bebê Conforto
 8.03.74.13.01;Bebê Conforto Yuba Preto - Kiddo;1349.9;1;Bebê Conforto;Bebê Conforto
 8.24.92.75.00;Bento Box Spark Style Arco-Íris - Skip Hop;369.9;1;Gravidicas;Gravidicas
@@ -346,7 +346,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.08.74.01.10;Canguru Muuv Melange Grafite Kiddo;245.9;1;Passeio;Canguru
 8.08.74.02.01;Canguru Muuv Melange Preto Kiddo;245.9;2;Passeio;Canguru
 8.08.23.01.01;Canguru para Bebê I Love Travel Black - Infanti;0.0;1;Passeio;Canguru
-8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;12;Passeio;Canguru
+8.08.01.01.01;Canguru Sidekick Reserva Black - Safety 1st;0.0;9;Passeio;Canguru
 8.08.47.19.08;Canguru Wrap Sling Vermelho - Kababy;99.9;1;Passeio;Canguru
 8.24.57.71.03;Canudo + Escova Para Canudo - Buba;9.9;5;Alimentação;Acessórios de Alimentação
 8.25.75.10.00;Capa Para Bebê Conforto Clássico Estampada Listrada - D´Bella for Baby;179.9;2;Passeio;Acessórios para Passeio
@@ -405,7 +405,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.135.01;Carrinho com Bebê Conforto Travel System Reverse Duo Preto Onda - Cosco;1039.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.136.18;Carrinho com Bebê Conforto Travel System Reverse Duo Rosa Onda - Cosco Kids;1217.07;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.127.01;Carrinho com Bebê Conforto Travel System Reverse Preto Bronze - Cosco;1129.9;2;Carrinho de Bebê;Carrinho Travel System
-8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;3;Carrinho de Bebê;Carrinho Travel System
+8.09.04.64.01;Carrinho com Bebê Conforto Travel System Reverse Preto Rajado - Cosco;1129.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.04.106.18;Carrinho com Bebê Conforto Travel System Reverse Rosa Rajado - Cosco;1319.9;3;Carrinho de Bebê;Carrinho Travel System
 8.09.04.130.57;Carrinho com Bebê Conforto Travel System Reverse TS DUO 0 a 15 Kg Bege Onda - Cosco Kids;1099.9;2;Carrinho de Bebê;Carrinho Travel System
 8.09.23.74.01;Carrinho com Bebê Conforto Travel System Romanzo Duo Preto Bronze - Infanti;0.0;23;Carrinho de Bebê;Carrinho Travel System
@@ -737,7 +737,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.109.57;Carrinho de Bebê Toffy Bege - Cosco;619.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.04.120.10;Carrinho de Bebê Toffy Cinza Mescla - Cosco;609.9;6;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.28.01;Carrinho de Bebê Tourist Signature Eclipse Preto - Joie;2179.9;3;Carrinho de Bebê;Carrinho de Bebê
-8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;125;Carrinho de Bebê;Carrinho Travel System
+8.09.28.78.01;Carrinho de Bebê Travel System Duo Napoli Preto e Cobre - Galzerano;1159.9;121;Carrinho de Bebê;Carrinho Travel System
 8.09.76.75.10;Carrinho de Bebê Travel System Trio Versatrax Cycle Cinza Shellgray + Brinde Exclusivo - Joie;4829.9;4;Passeio;Carrinho Travel System
 8.09.76.74.07;Carrinho de Bebê Travel System Trio Versatrax E Azul Lagoon + Brinde Exclusivo - Joie;4332.6;3;Passeio;Carrinho Travel System
 8.09.76.72.10;Carrinho de Bebê Travel System Trio Versatrax E Pebble Cinza + Brinde Exclusivo - Joie;4332.6;4;Passeio;Carrinho Travel System
