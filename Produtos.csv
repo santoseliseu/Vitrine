@@ -9,7 +9,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.120.06.07;Alimentador de Silicone Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.120.18.07;Alimentador de Silicone para Bebê com Regulagem Azul - Nûby;29.9;3;Alimentação;Acessórios de Alimentação
 8.24.23.69.18;Alimentador Infantil de Silicone Piccolo 3 Bicos Rosa - Infanti;39.9;4;Alimentação;Acessórios de Alimentação
-8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;16;Alimentação;Acessórios de Alimentação
+8.24.91.02.00;Almofada De Amamentação Mescla - Silver Mamma;209.9;17;Alimentação;Acessórios de Alimentação
 8.24.91.05.00;Almofada De Amamentação Mescla Claro - Silver Mamma;209.9;20;Alimentação;Acessórios de Alimentação
 8.24.91.03.00;Almofada De Amamentação Pérola - Silver Mamma;209.9;22;Alimentação;Acessórios de Alimentação
 8.24.91.04.00;Almofada De Amamentação Rosa - Silver Mamma;209.9;27;Alimentação;Acessórios de Alimentação
@@ -152,6 +152,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.92.77.00;Bento Box Spark Style Morango - Skip Hop;309.9;2;Bolsas e Mochilas;Mochila Infantil
 8.04.01.01.01;Berço Compacto Mini Play Black - Safety 1st;641.39;2;Quarto;Berços Portáteis
 8.04.01.14.01;Berço Compacto Mini Play Grey Denim - Safety 1st;519.9;81;Quarto;Berço
+8.04.61.09.10;Berço Portátil Acoplado 3 em 1 com Balanço Automático Cinza Claro – Mastela;1489.9;2;Quarto;Berços Portáteis
 8.04.02.07.106;Berço Portátil Co-bed Iora Air Beyond Graphite - Maxi-Cosi;0.0;4;Quarto;Berço
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;28;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;4;Berço para quarto;Berços Portáteis
@@ -287,6 +288,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.74.02.10;Cadeirinha de Carro Active com ISOFIX Cinza e Preto - Kiddo;845.9;1;Passeio;Cadeira para Carro
 8.07.03.11.01;Cadeirinha de Carro Alfa 9 a 36kg Preto - Voyage;489.9;1;Passeio;Cadeira para Carro
 8.07.03.12.58;Cadeirinha de Carro Alfa 9 a 36kg Preto e Vermelho - Voyage;489.9;2;Passeio;Cadeira para Carro
+8.07.76.13.01;Cadeirinha de Carro Elevate 9 até 36 kg Black Triangle - Joie;589.9;1;Passeio;Cadeira para Carro
+8.07.76.14.07;Cadeirinha de Carro Elevate 9 até 36 kg Blue Stripe - Joie;589.9;1;Passeio;Cadeira para Carro
 8.07.76.02.10;Cadeirinha de Carro Every Stage FX Cinza Gray Flannel - Joie;1859.9;5;Passeio;Cadeira para Carro
 8.07.76.03.01;Cadeirinha de Carro Every Stage FX Preta Coal - Joie;1979.9;9;Passeio;Cadeira para Carro
 8.07.23.16.10;Cadeirinha de Carro Holiday FX com Isofix 0 a 36kg Grey Brave - Infanti;939.9;1;Passeio;Cadeira para Carro
@@ -308,6 +311,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.07.76.10.01;Cadeirinha de Carro Stages 0 a 25 kg Coal Preto - Joie;0.0;4;Passeio;Cadeira para Carro
 8.07.04.44.01;Cadeirinha de Carro Tour 9 a 36 kg Preta - Cosco;509.9;2;Passeio;Cadeira para Carro
 8.07.04.41.01;Cadeirinha de Carro Unique 0 a 36kg Preto Ouro - Cosco;1119.9;9;Passeio;Cadeira para Carro
+8.07.23.05.27;Cadeirinha de Carro Vita 0 a 36kg Grey Fuzz - Infanti;889.9;2;Passeio;Cadeira para Carro
 8.07.23.18.01;Cadeirinha Mia 0 a 36kg com Giro 360º e Isofix Preto - Infanti;0.0;2;Passeio;Cadeira para Carro
 8.07.84.02.10;Cadeirinha para Carro Everna-fix 9 a 36kg London Grey - GB;3099.9;2;Passeio;Cadeira para Carro
 8.07.84.05.01;Cadeirinha para Carro Everna-fix 9 a 36kg Velvet Black - GB;3359.9;2;Passeio;Cadeira para Carro
