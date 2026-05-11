@@ -23,6 +23,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.71.22.10;Almofada De Banho Cinza Claro Tamanho P - Baby Pil;99.9;18;Banho e Higiene;Utensílios de Higiene
 8.03.71.17.00;Almofada De Banho Creme - Baby Pil;139.9;8;Banho e Higiene;Utensílios de Higiene
 8.03.71.08.00;Almofada De Banho Fit Cinza Mescla - Baby Pil;139.9;11;Banho e Higiene;Utensílios de Higiene
+8.03.71.05.00;Almofada De Banho Gatinha Ágata Creme e Rosa - Baby Pil;149.9;2;Banho e Higiene;Utensílios de Higiene
 8.03.71.10.00;Almofada De Banho Hipopótamo Luca Azul - Baby Pil;149.9;22;Banho e Higiene;Utensílios de Higiene
 8.03.71.09.00;Almofada De Banho Jacaré Léo Verde - Baby Pil;149.9;7;Banho e Higiene;Utensílios de Higiene
 8.03.71.03.18;Almofada De Banho Para Bebê de 0 a 10 meses Rosa - Baby Pil;139.9;12;Banho e Higiene;Utensílios de Higiene
@@ -1025,6 +1026,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;65;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;1;Alimentação;Acessórios de Alimentação
+8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;2;Alimentação;Acessórios de Alimentação
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;2;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
 8.25.75.118.18;Saco de Dormir Swaddle Off White Rosas Poá - D'Bella For Baby;109.9;3;Quarto;Quarto
@@ -1068,7 +1070,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.24.149.77.11;Tigela Urso de Silicone Bowly 450ml River Green - Minikoioi;109.9;1;Alimentação;Acessórios de Alimentação
 8.24.149.78.18;Tigela Urso de Silicone Bowly 450ml Velvet Rose - Minikoioi;109.9;2;Alimentação;Acessórios de Alimentação
 8.24.149.79.76;Tigela Urso de Silicone Bowly 450ml Woody Brown - Minikoioi;109.9;2;Alimentação;Acessórios de Alimentação
-8.25.75.81.10;Toalha de Banho Clássica Pequena com Fralda 0 a 2 anos Poá Cinza - D'Bella For Baby;139.9;1;Banho e Higiene;Toalha
+8.25.75.81.10;Toalha de Banho Clássica Pequena com Fralda 0 a 2 anos Poá Cinza - D'Bella For Baby;139.9;2;Banho e Higiene;Toalha
 8.25.75.35.00;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Listrado Azul - D´Bella for Baby;149.9;4;Banho e Higiene;Toalha
 8.25.75.36.18;Toalha de Banho Pequena com Fralda Solta 0 a 2 anos Estampado Poá Rosa - D´Bella for Baby;149.9;2;Banho e Higiene;Toalha
 8.25.75.111.07;Toalha de Banho Pequena com Fralda Solta Baby 0 a 2 anos Clássico Aviões - D´Bella for Baby;139.9;2;Higene;Utensílios de Higiene
