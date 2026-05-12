@@ -143,6 +143,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.03.03.16.01;Bebê Conforto Beta Preto - Voyage;359.9;2;Passeio;Bebê Conforto
 8.07.54.09.01;Bebê Conforto Black - Tutti Baby;339.9;1;Passeio;Bebê Conforto
 8.03.02.32.10;Bebê Conforto Citi2 com Base Select Grey - Maxi-Cosi;0.0;5;Bebê Conforto;Bebê Conforto
+8.03.76.06.01;Bebê Conforto I-snug 0 a 13kg Preto Chumbo Shale - Joie;959.9;1;Passeio;Bebê Conforto
 8.03.02.30.01;Bebê Conforto Pebble 360 Pro com Base Essential Black - Maxi-Cosi;0.0;46;Bebê Conforto;Bebê Conforto
 8.03.04.52.08;Bebê Conforto Reverse 0 a 13 Kg Vermelho - Cosco;429.9;2;Passeio;Bebê Conforto
 8.03.04.60.07;Bebê Conforto Wizz Azul - Cosco;389.9;2;Passeio;Bebê Conforto
@@ -207,6 +208,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.30.01.01;Bolsa Changing Bag Zapp X Black - Quinny;459.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.17.07;Bolsa de Passeio Astronauta - MaiT;249.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.21.18;Bolsa de Passeio Floral - MaiT;389.9;1;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.160.03.08;Bolsa de Passeio Pipoca - MaiT;293.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.09.23.61.01;Bolsa Organizadora You Pack Preta - Infanti;79.9;17;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.47.12.47;Bolsa Para Carrinho Sempre-Seco 2 em 1 Cinza e Preto - KaBaby;69.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.86.02.00;Bomba Tira Leite 2 em 1 Extração Dupla Mam;1109.9;3;Alimentação;Acessórios de Alimentação
@@ -273,6 +275,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.05.02.10.10;Cadeira de Descanso Bouncer Swing Cassia Beyond Graphite - Maxi-Cosi;0.0;18;Quarto;Cadeira de Descanso
 8.05.61.07.18;Cadeira de Descanso Carnaval Até 9 kg Rosa Girafa - Mastela;259.9;2;Quarto;Cadeira de Descanso
 8.05.61.28.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Macaquinho - Mastela;699.9;13;Quarto;Cadeira de Descanso
+8.05.61.27.10;Cadeira de Descanso com Balanço e Moisés 360° 4 Em 1 Ursinho - Mastela;709.9;1;Quarto;Cadeira de Descanso
 8.05.61.09.117;Cadeira de Descanso Compact Mastela Até 18Kg Cinza e Verde;369.9;1;Quarto;Cadeira de Descanso
 8.05.70.03.07;Cadeira de Descanso e Moisés com Balanço Aconchego Azul - Clingo;519.9;1;Quarto;Cadeira de Descanso
 8.05.61.08.07;Cadeira de Descanso Sinfonia Mastela Até 11,5Kg Azul Girafa;279.9;2;Quarto;Cadeira de Descanso
@@ -361,7 +364,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.75.07.00;Capa Para Bebê Conforto Clássico Lisa Rosa Flores - D´Bella for Baby;179.9;6;Passeio;Acessórios para Passeio
 8.25.47.47.71;Capa Protetora 2 em 1 KaBaby Branco e Preto;79.9;2;Passeio;Acessórios para Passeio
 8.25.75.12.00;Capa Protetora Lisa Slim Para Carrinho Universal Flores - D´Bella for Baby;159.9;1;Passeio;Acessórios para Passeio
-8.25.75.13.00;Capa Protetora Lisa Slim Para Carrinho Universal Ovelhinhas - D´Bella for Baby;189.9;1;Passeio;Acessórios para Passeio
+8.25.75.13.00;Capa Protetora Lisa Slim Para Carrinho Universal Ovelhinhas - D´Bella for Baby;189.9;2;Passeio;Acessórios para Passeio
 8.25.75.107.07;Capa Protetora Para Bebê Conforto Algodão Clássico Aviões - D´Bella for Baby;179.9;4;Passeio;Acessório para Passeio
 8.25.75.108.06;Capa Protetora Para Bebê Conforto Algodão Clássico Lese Branco - D´Bella for Baby;179.9;3;Passeio;Acessório para Passeio
 8.25.75.112.06;Capa Protetora Para Bebê Conforto Colorido Laço - D´Bella for Baby;179.9;4;Passeio;Acessório para Passeio
@@ -432,6 +435,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.09.04.131.01;Carrinho de Bebê Bross Preto Estrela - Cosco;579.9;3;Carrinho de Bebê;Carrinho de Bebê
 8.09.01.05.01;Carrinho de Bebê Bytes Safety 1st - Full Black;879.9;1;Carrinho de Bebê;Carrinho de Bebê
 8.09.76.51.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto e Base I-snug - Joie;0.0;3;Carrinho de Bebê;Carrinho Travel System
+8.09.76.35.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Joie;0.0;1;Carrinho de Bebê;Carrinho Travel System
 8.09.76.37.11;Carrinho de Bebê Combo Parcel Verde Pine com Bebê Conforto I-snug Shale Joie;3599.0;3;Carrinho de Bebê;Carrinho Travel System
 8.09.84.07.01;Carrinho de Bebê Compacto Pockit+ All-City 6 meses a 15kg Velvet Black - GB;1619.9;2;Carrinho de Bebê;Carrinho de Bebê
 8.09.74.10.10;Carrinho de Bebê Cosmos Melange Grafite - Kiddo;1939.9;2;Carrinho de Bebê;Carrinho Travel System
@@ -691,6 +695,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.11.160.04.08;Necessaire Pipoca - MaiT;109.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.31.07;Necessaire Xadrez Bola - MaiT;99.9;2;Bolsas e Mochilas;Bolsas e Mochilas
 8.11.160.28.02;Necessaire Xadrez Borboleta - MaiT;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
+8.11.160.25.18;Necessaire Xadrez Margarida - MaiT;99.9;1;Bolsas e Mochilas;Bolsas e Mochilas
 8.25.69.24.00;Neutralizador de Cheiros Tchau Mau Cheirinho 300 ml - Bioclub Baby;29.9;1;Banho e Higiene;Utensílios de Higiene
 8.09.30.03.81;Ninho Acolchoado From-Birth Cocoon Zapp X Blush - Quinny;449.9;1;Passeio;Acessórios para Passeio
 8.25.01.08.18;Ninho Para Berço e Carrinho Rosa Péssego - Fom Baby;339.9;1;Roupas de Bebê;Roupas de Bebê
@@ -1028,6 +1033,8 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.53.91.06;Refil Para Escova De Dente Elétrica Chicco 2 Unidades Branca;16.9;65;Banho e Higiene;Utensílios de Higiene
 8.30.57.13.69;Risque e Apague Buba Colorido;19.9;11;Brinquedo e Diversão;Brinquedos
 8.25.75.04.10;Rosquinhas de Amamentação Cinza Mescla - D'Bella For Baby;59.9;1;Alimentação;Acessórios de Alimentação
+8.25.75.41.00;Rosquinhas de Amamentação Nude - D´Bella for Baby;59.9;1;Alimentação;Acessórios de Alimentação
+8.25.75.39.18;Rosquinhas de Amamentação Rosa - D´Bella for Baby;59.9;2;Alimentação;Acessórios de Alimentação
 8.25.75.40.18;Rosquinhas de Amamentação Rosê - D´Bella for Baby;59.9;2;Alimentação;Acessórios de Alimentação
 8.60.171.01.16;Saco de Dormir em Algodão Egípcio Amarelo Primavera Verão M - Casulo;189.0;2;Quarto;Quarto
 8.25.75.116.07;Saco de Dormir Swaddle Listrado Azul - D'Bella For Baby;109.9;2;Quarto;Quarto
@@ -1082,7 +1089,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.12.01.17.06;Trava de Segurança para Armário Fecho - Safety 1st;19.9;1;Travas e Protetores;Travas e Protetores
 8.25.01.33.18;Trava Flexível Multiuso Pink - Safety 1st;9.9;4;Travas e Protetores;Travas e Protetores
 8.25.57.158.01;Trava Para Cinto De Seguranca - Buba;19.9;10;Travas e Protetores;Travas e Protetores
-8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;70;Travas e Protetores;Travas e Protetores
+8.25.01.03.01;Trava para Cinto de Segurança Black - Safety 1st;13.9;69;Travas e Protetores;Travas e Protetores
 8.12.01.22.01;Trava para Portas 2 em 1 Black - Safety 1st;9.9;7;Travas e Protetores;Travas e Protetores
 8.12.01.13.06;Trava para Vaso Sanitário White - Safety 1st;29.9;10;Travas e Protetores;Travas e Protetores
 8.12.98.05.00;Trava Vaso Sanitário;29.9;1;Travas e Protetores;Travas e Protetores
