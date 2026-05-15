@@ -167,7 +167,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.04.03.21.10;Berço Portátil Co-bed Link Cinza Mescla - Voyage;749.9;28;Quarto;Berço
 8.04.01.16.10;Berço Portátil Co-Bed Palace Grey - Safety 1st;0.0;4;Berço para quarto;Berços Portáteis
 8.04.04.11.10;Berço Portátil Co-bed Pluggy Cinza Claro - Cosco;859.9;14;Quarto;Berço
-8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;849.9;4;Quarto;Berço
+8.04.04.10.10;Berço Portátil Co-bed Pluggy Cinza Escuro - Cosco;849.9;3;Quarto;Berço
 8.04.77.03.10;Berço Portátil Co-Sleeper Sugar Cinza e Branco - Singular Baby;499.9;3;Quarto;Berço
 8.04.04.19.07;Berço Portátil Cozzy Azul Pastel - Cosco Kids;575.99;3;Berço para quarto;Berços Portáteis
 8.04.04.18.10;Berço Portátil Cozzy Cinza Lápis - Cosco Kids;575.99;3;Berço para quarto;Berços Portáteis
@@ -564,7 +564,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.25.47.127.07;Lixeira Mágico Anti-Odor Azul - Kababy;259.9;1;Cuidados;Cuidados
 24.25.49.08.06;Lixeira Redonda com Pedal 12 litros Branca - Mollie;127.9;432;Casa;Lixeira
 24.25.49.06.00;Lixeira Redonda com Pedal 12 litros Chumbo - Mollie;127.9;153;Casa;Lixeira
-24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1023;Casa;Lixeira
+24.25.49.07.06;Lixeira Redonda com Pedal 3 litros Branca - Mollie;52.9;1022;Casa;Lixeira
 24.25.49.05.00;Lixeira Redonda com Pedal 3 litros Chumbo - Mollie;52.9;417;Casa;Lixeira
 24.25.49.19.11;Lixeira Redonda com Pedal Verde Menta 12 litros - Mollie;127.9;1;Casa;Lixeira
 24.25.49.01.10;Lixeira Retrô com Pedal 5 litros Cinza - Mollie;109.9;211;Casa;Lixeira
@@ -1114,6 +1114,7 @@ SKU;Nome;Preço;Estoque;Grupo;Subgrupo
 8.30.33.52.00;Trenzinho de Madeira Boho Chic - Tiny Love;0.0;5;Brinquedo e Diversão;Brinquedos
 8.67.57.01.11;Triciclo Andador Baby Dino Verde - Buba;279.9;3;Brinquedo e Diversão;Andador
 8.67.33.03.00;Triciclo Infantil de Madeira Boho Chic - Tiny Love;0.0;1;Brinquedo e Diversão;Andador
+8.09.02.123.10;Triciclo Patroller Grey Luxe - Maxi-Cosi;0.0;2;Carrinho de Bebê;Carrinho de Bebê
 8.25.92.20.01;Trocador Portátil Envi Luxe Reciclado Preto - Skip Hop;299.9;1;Trocador;Trocador
 8.27.01.08.07;Troninho Infantil Kingdom Potty 3 in 1 Blue - Safety 1st;129.9;2;Banho e Higiene;Troninho
 8.27.01.09.18;Troninho Infantil Kingdom Potty 3 in 1 Pink - Safety 1st;129.9;1;Banho e Higiene;Troninho
